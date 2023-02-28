@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ut-nodejs.github.io">🏠</a> | <a href="/en">English</a> | <a href="/ko">한국어</a>
+  <a href="https://ut-nodejs.github.io">🏠</a> | <a href="/en">English</a> | <a href="/ko"><u>[한국어]</u></a>
 </p>
 
 ---
