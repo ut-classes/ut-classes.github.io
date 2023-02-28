@@ -128,7 +128,7 @@ The following is a supplemental text which you may also find useful:
 
 **Aaron Snowberger** is a PhD candidate in the Graduate School of Information and Communications Engineering, majoring in Information and Communications Engineering, at Hanbat National University, Korea. He received his B.S degree in Computer Science from the College of Engineering, University of Wyoming, USA in 2006 and his M.FA degree in Media Design from Full Sail University, USA in 2011. From 2010 to present, he is a professor of English Conversation at Jeonju University, Korea. His research interests include computer vision, natural language processing, image processing, signal processing, and machine learning.
 
-### Grading
+### Grading {#grading}
 
 Grading will be broken down into 5 main components:
 
@@ -142,12 +142,12 @@ The university grades on a curve. The following is a simple guideline for unders
 
 - 상대평가
   - _A: Customize (Content + Design)_
-  - **B: Complete (just what's in the book)**
-  - C: Incomplete or broken
-  - D: Very minimal effort
-  - F: Absences
+  - **B: Complete (including Practice Lab updates)**
+  - C: Complete (_only_ code form the book / GitHub repo)
+  - D: Incomplete or broken
+  - F: Very minimal effort and/or Absences
 
-#### 1. Attendance (10%)
+#### 1. Attendance (10%) {#grading-attendance}
 
 The university's guidelines on attendance are as follows:
 
@@ -156,7 +156,7 @@ The university's guidelines on attendance are as follows:
 
 If a student has a valid excuse to be absent, such as quarantining for COVID-19, a school event, etc, they may be given self-study work to complete.
 
-#### 2. Participation (10%)
+#### 2. Participation (10%) {#grading-participation}
 
 Participation follows along with attendance in many ways. While individual participation points will not be recorded every day (there are too many students), a student's individual behavior and habits over the course of the semester will be taken into account. For example, a student who is always Late, or always sleeps, or always talks in class, or always turns in homework on time, will be awarded points corresponding to their behavior.
 
@@ -172,13 +172,13 @@ The following are ways to earn or lose participation points:
   - Do not turn in homework or participate in lab exercises
   - Be disorderly or disrespectful to the teacher or other students
 
-#### 3. Daily Lab Exercises (20%)
+#### 3. Daily Lab Exercises (20%) {#grading-practice}
 
 These are graded on a {Complete, Half-complete, Incomplete} scale and will form the practical materials for each day's labs. See these instructions for how to access and work with each day's exercise.
 
 See [https://ut-nodejs.github.io/instructions](https://ut-nodejs.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials.
 
-#### 4. Final Project (40%)
+#### 4. Final Project (40%) {#grading-final-project}
 
 The Final Project should be an updated customization of the project we work on in class. It should do at least TWO things differently from the project described in the book:
 
@@ -191,15 +191,15 @@ Ways to make your project stand out:
 - Include multiple page templates
 - Implement your own, self-selected JavaScript functionality, widget, feature, etc.
 
-#### Midterm Exam (10%)
+#### Midterm Exam (10%) {#grading-midterm-exam}
 
 It is possible that the CRUD or User Data Model assignments will be used for the Midterm. The midterm will be released after the lecture on Day 7 (4월14일) and will be due at 11:59pm on Day 9 (4월28일). <!--- The [midterm is available here](https://ut-nodejs.github.io/midterm-2023/).--->
 
-#### Final Exam (10%)
+#### Final Exam (10%) {#grading-final-exam}
 
 It is possible that your Final project may be used for the Final Exam. But, there may be a quiz or test of some kind included. The final will be released after the lecture on Day 15 (6월9일) and will be due at 11:59pm on the Monday after Day 16 (6월19일). <!--- The [final is available here](https://ut-nodejs.github.io/final-2023/).--->
 
-#### Exam Schedule
+#### Exam Schedule {#grading-exam-schedule}
 
 - Midterm exam: April 21 (Week 8) or April 28 (Week 9).
 - Final exam: June 16 (Week 16).
