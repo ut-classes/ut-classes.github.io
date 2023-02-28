@@ -73,9 +73,9 @@ The course will be delivered as a series of 2-hour lectures (with a break in the
 
 - Lectures: Lectures will be held for 2 hours every Friday.
 - Practice time: Students will be given the final hour of each lecture period to practice what was covered in the lecture.
-- Assignments: Students will be required to turn in assignments in GitHub Classroom ([am](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [pm](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)).
+- Assignments: Students will be required to turn in assignments in GitHub Classroom ([am](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [pm](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)).
 
-See the Google Classroom [am](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [pm](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg) for class PPTs, lists, and announcements.
+See the Google Classroom [am](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [pm](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg) for class PPTs, lists, and announcements.
 
 ### Prerequisites
 
@@ -89,10 +89,10 @@ You will need NodeJS and a basic code editor or IDE for this course. You will ne
 
 If you are not already familiar with JavaScript, HTML, or CSS, you are strongly encouraged to attempt to become familiar before the start of the course. That way, you will spend much less time becoming familiar with the tools, and will be able to focus more on the methods. The following links provide basic introductions to web programming, which you can study at your own pace before the course begins.
 
-- [HTML]().
-- [CSS]().
-- [JavaScript]().
-- [How much JavaScript do you need to know to use NodeJS?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/).
+- [HTML]()
+- [CSS]()
+- [JavaScript]()
+- [How much JavaScript do you need to know to use NodeJS?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/)
 
 You are also strongly recommended to spend some time before the course working through the following materials related to working with git and GitHub and turning in homework:
 
@@ -114,9 +114,13 @@ The software we will be using is listed below.
 
 The primary text is:
 
+![book-main](/img/gh-pages/book-main.jpg)
+
 - Wexler, Jonathan. (2019, 2020 번역) _Get Programming with Node.js_, Manning Publishing Company (에이콘출판사 번역). [Yes24 link](http://www.yes24.com/Product/Goods/86429845).
 
 The following is a supplemental text which you may also find useful:
+
+![book-extra](/img/gh-pages/book-main.jpg)
 
 - Jo, Hyunyoung. (2022). _Node.js 교과서, 3rd edition_. Gilbert. [Yes24 link](http://www.yes24.com/Product/Goods/116192535)
 
