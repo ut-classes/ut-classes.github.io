@@ -4,6 +4,12 @@ title: "UT NodeJS"
 description: "UT NodeJS 2023"
 show_downloads: false
 
+navigation:
+  name_over_title: true
+  strip_par: true
+  sanitize: true
+  h_max: 3
+
 # add this plugin to gems
 gems: ["jekyll-multiple-languages"]
 # if you want to use pagination, you should add jekyll-paginate into gems
