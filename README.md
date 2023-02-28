@@ -22,6 +22,8 @@ Korea National University of Transportation / 한국교통대학교, 충주
 
 This repository contains the course materials for the [Computer Science / 컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) course [Applied Web Programming / 웹프로그래밍응용](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
 
+---
+
 ### Course Topics / 과정 화제
 
 | Day | Date    | Unit | Topic                                                                           | 화제                                                                     |
@@ -48,3 +50,29 @@ This repository contains the course materials for the [Computer Science / 컴퓨
 | 17  | 6월23일 | --   | [Final Exam](/en/#final-exam)                                                   | [기말고사]()                  |
 | 18  | 6월30일 | --   | [Grading Period](/en/#grading)                                                  | [성적 처리 기간]()            |
 ---->
+
+---
+
+### Important Specifics
+
+#### Computer Software
+
+The software we will be using is listed below.
+
+- [Node.JS](https://nodejs.org/en/download/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [git](https://git-scm.com/downloads)
+
+#### Main Texts
+
+The primary text is:
+
+- Wexler, Jonathan. (2019, 2020 번역) _Get Programming with Node.js_, Manning Publishing Company (에이콘출판사 번역). [Yes24 link](http://www.yes24.com/Product/Goods/86429845).
+
+The following is a supplemental text which you may also find useful:
+
+- Jo, Hyunyoung. (2022). _Node.js 교과서, 3rd edition_. Gilbert. [Yes24 link](http://www.yes24.com/Product/Goods/116192535)
+
+### Instructor
+
+**Aaron Snowberger** is a PhD candidate in the Graduate School of Information and Communications Engineering, majoring in Information and Communications Engineering, at Hanbat National University, Korea. He received his B.S degree in Computer Science from the College of Engineering, University of Wyoming, USA in 2006 and his M.FA degree in Media Design from Full Sail University, USA in 2011. From 2010 to present, he is a professor of English Conversation at Jeonju University, Korea. His research interests include computer vision, natural language processing, image processing, signal processing, and machine learning.

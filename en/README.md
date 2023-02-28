@@ -75,11 +75,11 @@ The course will be delivered as a series of 2-hour lectures (with a break in the
 - Practice time: Students will be given the final hour of each lecture period to practice what was covered in the lecture.
 - Assignments: Students will be required to turn in assignments in GitHub Classroom ([am](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [pm](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)).
 
-See the [Google Classroom](https://classroom.google.com) for class PPTs, lists, and announcements.
+See the Google Classroom [am](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [pm](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg) for class PPTs, lists, and announcements.
 
 ### Prerequisites
 
-Students should already be familiar with basic web programming an basic JavaScript. A list of expected knowledge will be made available for review...
+Students should already be familiar with basic web programming and basic JavaScript. A list of expected knowledge will be made available for review...
 
 ### Preparing for the course
 
@@ -87,14 +87,14 @@ You will need NodeJS and a basic code editor or IDE for this course. You will ne
 
 **Detailed instructions can also be found [here](https://ut-nodejs.github.io/instructions) for installing the tools you need and working with the lab materials.**
 
-If you are not already familiar with JavaScript, HTML, or CSS, we strongly encourage you to attempt to become familiar before the start of the course. That way, you will spend much less time become familiar with the tools, and be able to focus more on the methods. The following links provide basic introductions to web programming, which you can study at your own pace before the course begins.
+If you are not already familiar with JavaScript, HTML, or CSS, you are strongly encouraged to attempt to become familiar before the start of the course. That way, you will spend much less time becoming familiar with the tools, and will be able to focus more on the methods. The following links provide basic introductions to web programming, which you can study at your own pace before the course begins.
 
-- [_HTML_]().
+- [HTML]().
 - [CSS]().
 - [JavaScript]().
 - [How much JavaScript do you need to know to use NodeJS?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/).
 
-We also strongly recommend you spend some time before the course working through the following materials related to working with git and GitHub and turning in homework:
+You are also strongly recommended to spend some time before the course working through the following materials related to working with git and GitHub and turning in homework:
 
 - [git]()
 - [GitHub]()
@@ -106,42 +106,106 @@ We also strongly recommend you spend some time before the course working through
 
 The software we will be using is listed below.
 
+- [Node.JS](https://nodejs.org/en/download/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [git](https://git-scm.com/downloads)
+
 #### Main Texts
 
 The primary text is:
 
-- James et al. (2021) _An Introduction to Statistical Learning: With applications in R_, Springer. Note: The book is available free online [here](https://www.statlearning.com).
+- Wexler, Jonathan. (2019, 2020 번역) _Get Programming with Node.js_, Manning Publishing Company (에이콘출판사 번역). [Yes24 link](http://www.yes24.com/Product/Goods/86429845).
 
 The following is a supplemental text which you may also find useful:
 
-- Lantz, B. (2013). _Machine Learning with R_. Packt Publishing.
+- Jo, Hyunyoung. (2022). _Node.js 교과서, 3rd edition_. Gilbert. [Yes24 link](http://www.yes24.com/Product/Goods/116192535)
 
-### Instructors
+### Instructor
 
 **Aaron Snowberger** is a PhD candidate in the Graduate School of Information and Communications Engineering, majoring in Information and Communications Engineering, at Hanbat National University, Korea. He received his B.S degree in Computer Science from the College of Engineering, University of Wyoming, USA in 2006 and his M.FA degree in Media Design from Full Sail University, USA in 2011. From 2010 to present, he is a professor of English Conversation at Jeonju University, Korea. His research interests include computer vision, natural language processing, image processing, signal processing, and machine learning.
 
-### Assessment
+### Grading
 
-#### Daily lab exercises
+Grading will be broken down into 5 main components:
 
-These are not assessed, but will form the practical materials for each day's labs. See these instructions for how to access and work with each day's exercise.
+1. Attendance : 10%
+2. Participation : 10%
+3. Lab Assignments : 20%
+4. Final Project : 40%
+5. Tests (Midterm / Final) : 20%
 
-See [https://lse-me314.github.io/instructions](https://lse-me314.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials.
+The university grades on a curve. The following is a simple guideline for understanding how the final project will be graded.
 
-#### Mid-term
+- 상대평가
+  - _A: Customize (Content + Design)_
+  - **B: Complete (just what's in the book)**
+  - C: Incomplete or broken
+  - D: Very minimal effort
+  - F: Absences
 
-The class assignment for Day 5 will count as the mid-term assignment, which will count for 25% of the grade. The midterm will be released after the lecture on Day 5 (Monday 18th July) and will be due at 7pm on Day 7 (Wednesday 20th July). <!--- The [mid-term is available here](https://lse-me314.github.io/midterm-2019/).--->
+#### 1. Attendance (10%)
 
-#### Exams
+The university's guidelines on attendance are as follows:
+
+- 3 Late = 1 Absence
+- More than 20% Absences = F
+
+If a student has a valid excuse to be absent, such as quarantining for COVID-19, a school event, etc, they may be given self-study work to complete.
+
+#### 2. Participation (10%)
+
+Participation follows along with attendance in many ways. While individual participation points will not be recorded every day (there are too many students), a student's individual behavior and habits over the course of the semester will be taken into account. For example, a student who is always Late, or always sleeps, or always talks in class, or always turns in homework on time, will be awarded points corresponding to their behavior.
+
+The following are ways to earn or lose participation points:
+
+- Gain points
+  - On time, participate in the class exercises
+  - Complete all homework
+  - Help other students
+- Lose points
+  - Be late or absent often
+  - Use the phone, or be off task on the computer often
+  - Do not turn in homework or participate in lab exercises
+  - Be disorderly or disrespectful to the teacher or other students
+
+#### 3. Daily Lab Exercises (20%)
+
+These are graded on a {Complete, Half-complete, Incomplete} scale and will form the practical materials for each day's labs. See these instructions for how to access and work with each day's exercise.
+
+See [https://ut-nodejs.github.io/instructions](https://ut-nodejs.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials.
+
+#### 4. Final Project (40%)
+
+The Final Project should be an updated customization of the project we work on in class. It should do at least TWO things differently from the project described in the book:
+
+1. Solve a different problem (i.e. not a Cooking / Recipe site)
+2. Have a different design / style
+
+Ways to make your project stand out:
+
+- Use a CSS framework
+- Include multiple page templates
+- Implement your own, self-selected JavaScript functionality, widget, feature, etc.
+
+#### Midterm Exam (10%)
+
+It is possible that the CRUD or User Data Model assignments will be used for the Midterm. The midterm will be released after the lecture on Day 7 (4월14일) and will be due at 11:59pm on Day 9 (4월28일). <!--- The [midterm is available here](https://ut-nodejs.github.io/midterm-2023/).--->
+
+#### Final Exam (10%)
+
+It is possible that your Final project may be used for the Final Exam. But, there may be a quiz or test of some kind included. The final will be released after the lecture on Day 15 (6월9일) and will be due at 11:59pm on the Monday after Day 16 (6월19일). <!--- The [final is available here](https://ut-nodejs.github.io/final-2023/).--->
+
+#### Exam Schedule
 
 - Midterm exam: April 21 (Week 8) or April 28 (Week 9).
 - Final exam: June 16 (Week 16).
+- Final project due: June 19 (Monday).
 
-<!---[The exam is here](https://lse-me314.github.io/finalexam/).--->
+<!---[Instructions for the final project are here](https://ut-nodejs.github.io/final-project/).--->
 
 #### Contact
 
-If you have questions, please contact Aaron via Google Classroom.
+If you have questions, please contact Aaron at [aaron@ut.ac.kr](aaron@ut.ac.kr).
 
 ### Detailed Course Schedule
 
@@ -166,7 +230,7 @@ We will use this session to get to know the range of interests and experience st
 
 ##### Practice & Assignment
 
-<!---- * Lab 1 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment1_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment1_solution.html). ---->
+<!---- - Lab 1 [start](/1-start) | [finish](/1-finish). ---->
 
 ##### Required reading
 
@@ -197,7 +261,7 @@ This week ...
 
 ##### Practice & Assignment
 
-<!---- * Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html). ---->
+<!---- - Lab 2 [start](/2-start) | [finish](/2-finish). ---->
 
 ##### Required reading
 
@@ -205,7 +269,7 @@ This week ...
 
 ##### Recommended reading
 
-- ***
+-
 
 #### 3. Node Webservers and Routes
 
@@ -224,7 +288,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!--- * Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html). ---->
+<!---- - Lab 3 [start](/3-start) | [finish](/3-finish). ---->
 
 ##### Required reading
 
@@ -232,7 +296,7 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+-
 
 #### 4. Routing in Express.js
 
@@ -250,7 +314,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html). ---->
+<!---- - Lab 4 [start](/4-start) | [finish](/4-finish). ---->
 
 ##### Required Reading
 
@@ -258,7 +322,7 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+-
 
 #### 5. Project Start
 
@@ -275,7 +339,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- The **mid-term exam** will be posted on [Moodle](https://shortcourses.lse.ac.uk/course/view.php?id=158). ---->
+<!---- - Lab 5 [start](/5-start) | [finish](/5-finish). ---->
 
 ##### Required Reading
 
@@ -283,7 +347,7 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+-
 
 #### 6. Connecting to MongoDB
 
@@ -302,7 +366,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html). ---->
+<!---- - Lab 6 [start](/6-start) | [finish](/6-finish). ---->
 
 ##### Required Reading
 
@@ -310,7 +374,7 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+-
 
 #### 7. User Data Models
 
@@ -328,15 +392,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).---->
-
-<!---
-
-* [Lecture Notes](lecturenotes/ME314_day7.pdf)
-* [Lab 7 materials](https://lse-me314.github.io/assignment07/)
-* Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).
-
---->
+<!---- - Lab 7 [start](/7-start) | [finish](/7-finish). ---->
 
 ##### Required Reading
 
@@ -344,7 +400,30 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+-
+
+#### Midterm Exam
+
+- 중간고사 / 프로젝트
+
+For review...
+
+##### Resources
+
+- [Lecture Notes](lecturenotes/ME314_day9.pdf)
+- [Midterm](https://lse-me314.github.io/assignment09/)
+
+##### Practice & Assignment
+
+<!---- - Midterm [start](/midterm-2023). ---->
+
+##### Required reading
+
+-
+
+##### Recommended Reading
+
+-
 
 #### 8. CRUD (Create, Read, Update, Delete)
 
@@ -360,7 +439,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html). ---->
+<!---- - Lab 8 [start](/8-start) | [finish](/8-finish). ---->
 
 ##### Required reading
 
@@ -368,30 +447,7 @@ This week...
 
 ##### Recommended Reading
 
-- ***
-
-#### Midterm Exam
-
-- 중간고사 / 프로젝트
-
-For review...
-
-##### Resources
-
-- [Lecture Notes](lecturenotes/ME314_day9.pdf)
-- [Lab 9 materials](https://lse-me314.github.io/assignment09/)
-
-##### Practice & Assignment
-
-<!---- * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). ---->
-
-##### Required reading
-
 -
-
-##### Recommended Reading
-
-- ***
 
 #### 9. User Authentication
 
@@ -410,7 +466,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!--- * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). --->
+<!---- - Lab 9 [start](/9-start) | [finish](/9-finish). ---->
 
 ##### Required reading
 
@@ -418,7 +474,7 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+-
 
 #### 10. Adding an API
 
@@ -437,7 +493,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html). ---->
+<!---- - Lab 10 [start](/10-start) | [finish](/10-finish). ---->
 
 ##### Required reading
 
@@ -445,7 +501,7 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+-
 
 #### 11. Adding Chat Functionality
 
@@ -464,7 +520,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html). ---->
+<!---- - Lab 11 [start](/11-start) | [finish](/11-finish). ---->
 
 ##### Required reading:
 
@@ -473,24 +529,6 @@ This week...
 ##### Recommended reading:
 
 -
-
-<!---
-##### To use the `rtweet` package in R:
-* [`rtweet` vignette](https://github.com/mkearney/rtweet)
-* Twitter Authentication setup:
-    + [Official](https://dev.twitter.com/oauth/overview/application-owner-access-tokens)
-    + [Walkthrough](https://rtweet.info/articles/auth.html)
-* Twitter API documentation:
-    + [Overview of REST API](https://dev.twitter.com/rest/public)
-    + [Overview of streaming API](https://dev.twitter.com/streaming/overview)
-
---->
-
-[](./data/covid_country_data.csv)
-[](./data/ess.csv)
-[](./data/const-econ-vars.csv)
-
----
 
 #### 12. Deploying to Production
 
@@ -509,7 +547,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ---->
+<!---- - Lab 12 [start](/12-start) | [finish](/12-finish). ---->
 
 ##### Required Reading:
 
@@ -517,7 +555,7 @@ This week...
 
 ##### Recommended Reading:
 
-- ***
+-
 
 #### 13. Supplementary Topics
 
@@ -534,7 +572,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 13 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment13_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment13_solution.html). ---->
+<!---- - Lab 13 [start](/13-start) | [finish](/13-finish). ---->
 
 ##### Required Reading:
 
@@ -542,7 +580,7 @@ This week...
 
 ##### Recommended Reading:
 
-- ***
+-
 
 #### 14. Personal Projects
 
@@ -557,7 +595,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 15 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment15_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment15_solution.html). ---->
+<!---- - Lab 14 [start](/14-start) | [finish](/14-finish). ---->
 
 ##### Required Reading:
 
@@ -565,7 +603,7 @@ This week...
 
 ##### Recommended Reading:
 
-- ***
+-
 
 #### Final Exam
 
@@ -580,7 +618,7 @@ For review...
 
 ##### Practice & Assignment
 
-<!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ---->
+<!---- - [Final exam](/final-2023). ---->
 
 ##### Required Reading:
 
@@ -588,17 +626,4 @@ For review...
 
 ##### Recommended Reading:
 
-- ***
-
-#### Grading
-
-- 상대평가
-  - _A: Customize (Content + Design)_
-  - **B: Complete (just what's in the book)**
-  - C: Incomplete or broken
-  - D: Very minimal effort
-  - F: Absences
-
-##### Resources
-
-##### Recommended Reading:
+-
