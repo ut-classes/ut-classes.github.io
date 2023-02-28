@@ -120,7 +120,7 @@ The primary text is:
 
 The following is a supplemental text which you may also find useful:
 
-![book-extra](/img/gh-pages/book-main.jpg)
+![book-extra](/img/gh-pages/book-extra.jpg)
 
 - Jo, Hyunyoung. (2022). _Node.js 교과서, 3rd edition_. Gilbert. [Yes24 link](http://www.yes24.com/Product/Goods/116192535)
 

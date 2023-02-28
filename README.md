@@ -67,9 +67,13 @@ The software we will be using is listed below.
 
 The primary text is:
 
+![book-main](/img/gh-pages/book-main.jpg)
+
 - Wexler, Jonathan. (2019, 2020 번역) _Get Programming with Node.js_, Manning Publishing Company (에이콘출판사 번역). [Yes24 link](http://www.yes24.com/Product/Goods/86429845).
 
 The following is a supplemental text which you may also find useful:
+
+![book-extra](/img/gh-pages/book-extra.jpg)
 
 - Jo, Hyunyoung. (2022). _Node.js 교과서, 3rd edition_. Gilbert. [Yes24 link](http://www.yes24.com/Product/Goods/116192535)
 
