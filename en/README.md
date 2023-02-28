@@ -4,19 +4,18 @@
 
 # UT NodeJS 2023
 
-Korea National University of Transportation / 교통대학교, 충주
+Korea National University of Transportation, Choongju
 
 ![Aaron pic](https://avatars.githubusercontent.com/u/6644259?s=200&v=4)
 
-Instructor / 강사
+Instructor
 
 - Aaron Snowberger ([aaron@ut.ac.kr](aaron@ut.ac.kr)), Graduate School of Information & Communications Engineering, Hanbat University
-- 에런 스노버거, 정보통신공학과, 한밭대학교
 
-Online Classroom / 온라인 클래스룸
+Online Classroom
 
 - Google Classroom (PPTs) | [XXXXXXXX](https://classroom.google.com)
-- GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
+- GitHub Classroom (HW) | [am](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [pm](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
 
 This repository contains the course materials for the [Computer Science](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [Web Programming Applications](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in Spring 2023 by Aaron Snowberger.
 
@@ -51,40 +50,26 @@ This repository contains the course materials for the [Computer Science](https:/
 
 Node.js is used to build web servers in Javascript, and there are numerous pre-built packages available through npm. This class follows 8 programming projects listed in the book and requires students to work on a 9th personal project at the end of the class. Topics such as development process, security, database management (Mongoose), user account authentication, and production deployment are covered. You will also learn about debugging asynchronous code, data models, and Javascript modules.
 
-Node.js는 Javascript로 웹 서버를 구축하는 데 사용되며 npm을 통해 사용할 수 있는 수많은 사전 구축 패키지가 있습니다. 이 수업은 책에 나열된 8개의 프로그래밍 프로젝트를 따르며 수업이 끝날 때 학생들이 9번째 개인 프로젝트를 수행해야 합니다. 개발 프로세스, 보안, 데이터베이스 관리(Mongoose), 사용자 계정 인증 및 프로덕션 배포와 같은 주제를 다룹니다. 또한 비동기 코드, 데이터 모델 및 Javascript 모듈 디버깅에 대해서도 배웁니다.
-
-### Objectives / 교과목교육목표
+### Objectives
 
 Understand CRUD functions in web servers and websites with Node.js and Express, learn to implement chatting and other interactive functions, and learn English expressions suitable for the international era.
 
-Node.js와 Express로 웹서버, 웹사이트에서 CRUD 기능 이해하고 채팅 및 기타 대화형 기능 구현 을 배우고, 국제한 시대에 맞게 영어 표현도 배운다.
-
 The course will be delivered as a series of 2-hour lectures (with a break in the middle), followed by practice lab sessions where students will apply the lessons in a series of instructor-guided exercises using the provided starter code as part of the exercises. The course will cover the following topics:
 
-이 과정은 일련의 2시간 강의(중간에 휴식 포함)로 제공되며 학생들이 강의의 일부로 제공된 스타터 코드를 사용하여 일련의 강사 안내 연습에서 수업을 적용하는 실습 랩 세션이 이어집니다. 이 과정은 다음 주제를 다룹니다:
-
 - running Node.js applications and creating Node.js modules
-  - Node.js 애플리케이션 실행 및 Node.js 모듈 생성
 - building web servers in Node.js and Express.js and handling routing
-  - Node.js 및 Express.js로 웹 서버 구축 및 라우팅 처리
 - connecting to MongoDB to serve data and the Controller, Model, View paradigm
-  - MongoDB에 연결하여 데이터 및 Controller, Model, View 패러다임 제공
 - handling CRUD (Create, Read, Update, Delete) functions in Node.js
-  - Node.js에서 CRUD(만들기, 읽기, 업데이트, 삭제) 기능 처리
 - creating user accounts and authenticating users
-  - 사용자 계정 생성 및 사용자 인증
 - building an API and adding API security
-  - API 구축 및 API 보안 추가
 - adding chat functionality with Socket.io
-  - Socket.io로 채팅 기능 추가
 - deploying and managing code in production
-  - 프로덕션에서 코드 배포 및 관리
 
 ## Lectures, practice, and assignments
 
 - Lectures: Lectures will be held for 2 hours every Friday.
 - Practice time: Students will be given the final hour of each lecture period to practice what was covered in the lecture.
-- Assignments: Students will be required to turn in assignments in GitHub Classroom ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)).
+- Assignments: Students will be required to turn in assignments in GitHub Classroom ([am](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [pm](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)).
 
 See the [Google Classroom](https://classroom.google.com) for class PPTs, lists, and announcements.
 
@@ -100,9 +85,9 @@ You will need NodeJS and a basic code editor or IDE for this course. You will ne
 
 If you are not already familiar with JavaScript, HTML, or CSS, we strongly encourage you to attempt to become familiar before the start of the course. That way, you will spend much less time become familiar with the tools, and be able to focus more on the methods. The following links provide basic introductions to web programming, which you can study at your own pace before the course begins.
 
-- [_HTML_](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf).
-- [CSS](https://www.datacamp.com/courses/free-introduction-to-r).
-- [JavaScript](https://www.datacamp.com/courses/reporting-with-r-markdown).
+- [_HTML_]().
+- [CSS]().
+- [JavaScript]().
 - [How much JavaScript do you need to know to use NodeJS?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/).
 
 We also strongly recommend you spend some time before the course working through the following materials related to working with git and GitHub and turning in homework:
@@ -160,21 +145,19 @@ If you have questions, please contact Aaron via Google Classroom.
 
 #### 1. Overview and introduction to class
 
-- \*0. Class, Book, Teacher Introduction / 수업, 책, 강사 소개
-- \*1. Web Programming Review / 웹 프로그래밍 복습
-- \*2. Git and GitHub Classroom Introduction / 깃과 깃허브 클래스룸 소개
+- \*0. Class, Book, Teacher Introduction
+- \*1. Web Programming Review
+- \*2. Git and GitHub Classroom Introduction
 
 We will use this session to get to know the range of interests and experience students bring to the class, as well as to survey the topics to be covered. We will discuss class goals, grading, the textbook, and get to know the instructor. We will also review basic web programming skills, git, GitHub, and GitHub classroom that will be used in the class.
-
-우리는 이 세션을 통해 학생들이 수업에 가져오는 관심사와 경험의 범위를 파악하고 다룰 주제를 조사할 것입니다. 우리는 수업 목표, 채점, 교과서에 대해 논의하고 강사를 알게 될 것입니다. 또한 수업에서 사용할 기본 웹 프로그래밍 기술, git, GitHub 및 GitHub 강의실을 검토합니다.
 
 ##### Resources
 
 - [Google Classroom](https://classroom.google.com)
 - [GitHub Classroom](https://classroom.github.com)
-- [스라이드 \*0: 수업 소개](lecturenotes/)
-- [스라이드 \*1: 웹 프로그래밍 복습](lecturenotes/)
-- [스라이드 \*2: 깃과 깃허브](lecturenotes/)
+- [PPT \*0. Class, Book, Teacher Introduction](lecturenotes/)
+- [PPT \*1. Web Programming Review](lecturenotes/)
+- [PPT \*2. Git and GitHub Classroom Introduction](lecturenotes/)
 - [Lab 0 materials](https://lse-me314.github.io/assignment01/)
 
 ##### Practice & Assignment
@@ -183,7 +166,7 @@ We will use this session to get to know the range of interests and experience st
 
 ##### Required reading
 
-- [GitHub Tutorial / 누구나 쉽게 이해할 수 있는 git 입분](https://backlog.com/git-tutorial/kr/)
+- [GitHub Tutorial (KO)](https://backlog.com/git-tutorial/kr/)
 
 ##### Recommended reading
 
