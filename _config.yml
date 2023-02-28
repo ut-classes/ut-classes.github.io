@@ -1,7 +1,15 @@
-theme: jekyll-theme-cayman
+remote_theme: Bilal2453/cayman-docs
+#theme: jekyll-theme-cayman
 title: "UT NodeJS"
 description: "UT NodeJS 2023"
 show_downloads: false
+
+navigation:
+  name_over_title: true
+  strip_par: true
+  sanitize: true
+  h_min: 3
+  h_max: 6
 
 # add this plugin to gems
 gems: ["jekyll-multiple-languages"]
