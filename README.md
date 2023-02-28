@@ -1,8 +1,8 @@
 # UT NodeJS 2023
 
-Korea National University of Transportation
+Korea National University of Transportation / 교통대학교, 충주
 
-Forked from [lse-me314/lse-me314.github.io](https://github.com/lse-me314/lse-me314.github.io)
+![Aaron pic](https://avatars.githubusercontent.com/u/6644259?s=200&v=4)
 
 Instructor / 강사
 
@@ -11,10 +11,10 @@ Instructor / 강사
 
 Online Classroom / 온라인 클래스룸
 
-- Google Lecture Notes [here](https://classroom.google.com)
-- Google enrollment key: XXXXXXXX
+- Google Classroom (PPTs) | [XXXXXXXX](https://classroom.google.com)
+- GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
 
-This repository contains the class materials for the [Computer Science](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [_NodeJS_](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in Semester 1, 2023 by Aaron Snowberger.
+This repository contains the course materials for the [Computer Science](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [Web Programming Applications](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in Spring 2023 by Aaron Snowberger.
 
 ### Quick links to topics
 
@@ -27,16 +27,21 @@ This repository contains the class materials for the [Computer Science](https://
 |  5  | 3월31일 | 2    | [Project Start](#5-project-start)                                           |
 |  6  | 4월7일  | 3    | [Connecting to MongoDB](#6-connecting-to-mongodb)                           |
 |  7  | 4월14일 | 4    | [User Data Models](#7-user-data-models)                                     |
-|  8  | 4월21일 | 4    | [CRUD (Create, Read, Update, Delete)](#8-crud-create-read-update-delete)    |
-|  9  | 4월28일 | --   | [Midterm Exam / Project](#midterm-exam)                                     |
-| 10  | 5월5일  | 5    | [User Authentication](#9-user-authentication)                               |
-| 11  | 5월12일 | 6    | [Adding an API](#10-adding-an-api)                                          |
-| 12  | 5월19일 | 7    | [Adding Chat Functionality](#11-adding-chat-functionality)                  |
-| 13  | 5월26일 | 8    | [Deploying to Production](#12-deploying-to-production)                      |
-| 14  | 6월2일  | A,B  | [Supplementary Topics / Personal Projects](#13-supplementary-topics)        |
-| 15  | 6월9일  | --   | [Personal Projects](#14-personal-projects)                                  |
+|  8  | 4월21일 | --   | [Midterm Exam / Project](#midterm-exam)                                     |
+|  9  | 4월28일 | 4    | [CRUD (Create, Read, Update, Delete)](#8-crud-create-read-update-delete)    |
+| 10  | 5월5일  | --   | HOLIDAY: Children's Day                                                     |
+| 11  | 5월12일 | 5    | [User Authentication](#9-user-authentication)                               |
+| 12  | 5월19일 | 6    | [Adding an API](#10-adding-an-api)                                          |
+| 13  | 5월26일 | 7    | [Adding Chat Functionality](#11-adding-chat-functionality)                  |
+| 14  | 6월2일  | 8    | [Deploying to Production](#12-deploying-to-production)                      |
+| 15  | 6월9일  | A,B  | [Supplementary Topics / Personal Projects](#13-supplementary-topics)        |
 | 16  | 6월16일 | --   | [Final Exam](#final-exam)                                                   |
-| 17  | 6월23일 | --   | [Grading Period](#grading)                                                  |
+
+<!----
+| 16  | 6월16일 | --   | [Personal Projects](#14-personal-projects)                                  |
+| 17  | 6월23일 | --   | [Final Exam](#final-exam)                                                   |
+| 18  | 6월30일 | --   | [Grading Period](#grading)                                                  |
+---->
 
 ### Overview
 
@@ -50,9 +55,9 @@ Understand CRUD functions in web servers and websites with Node.js and Express, 
 
 Node.js와 Express로 웹서버, 웹사이트에서 CRUD 기능 이해하고 채팅 및 기타 대화형 기능 구현 을 배우고, 국제한 시대에 맞게 영어 표현도 배운다.
 
-The course will be delivered as a series of lectures (held from 9am to 12pm, with an extended break in the middle), followed by practice lab sessions where students will apply the lessons in a series of instructor-guided exercises using data provided as part of the exercises. The course will cover the following topics:
+The course will be delivered as a series of 2-hour lectures (with a break in the middle), followed by practice lab sessions where students will apply the lessons in a series of instructor-guided exercises using the provided starter code as part of the exercises. The course will cover the following topics:
 
-이 과정은 일련의 강의(오전 9시부터 오후 12시까지 진행, 중간에 연장된 휴식 시간 포함)와 학생들이 일부로 제공된 데이터를 사용하여 일련의 강사 안내 연습에서 수업을 적용하는 연습 랩 세션으로 제공됩니다. 연습의. 이 과정은 다음 주제를 다룹니다:
+이 과정은 일련의 2시간 강의(중간에 휴식 포함)로 제공되며 학생들이 강의의 일부로 제공된 스타터 코드를 사용하여 일련의 강사 안내 연습에서 수업을 적용하는 실습 랩 세션이 이어집니다. 이 과정은 다음 주제를 다룹니다:
 
 - running Node.js applications and creating Node.js modules
   - Node.js 애플리케이션 실행 및 Node.js 모듈 생성
@@ -71,18 +76,13 @@ The course will be delivered as a series of lectures (held from 9am to 12pm, wit
 - deploying and managing code in production
   - 프로덕션에서 코드 배포 및 관리
 
-<!---- approaches to normalising data, using a database manager (SQLite), and working with SQL database queries ---->
-<!---- social network analysis, covering the basics of social graph data and analysing social networks  --->
-
 ## Lectures, practice, and assignments
 
-- Lectures: Lectures will be held every Friday from 9am to 12pm.
-
+- Lectures: Lectures will be held for 2 hours every Friday.
 - Practice time: Students will be given the final hour of each lecture period to practice what was covered in the lecture.
+- Assignments: Students will be required to turn in assignments in GitHub Classroom ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)).
 
-- Assignments: Students will be required to turn in assignments in GitHub Classroom.
-
-See the [Google Classroom](https://classroom.google.com) for class lists, Zoom links, and announcements.
+See the [Google Classroom](https://classroom.google.com) for class PPTs, lists, and announcements.
 
 ### Prerequisites
 
