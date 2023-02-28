@@ -1,7 +1,7 @@
 remote_theme: Bilal2453/cayman-docs
 #theme: jekyll-theme-cayman
 title: "UT NodeJS"
-description: "UT NodeJS 2023"
+description: "웹 프로그래밍 응용 2023"
 show_downloads: false
 
 navigation:
@@ -18,7 +18,7 @@ gems: ["jekyll-multiple-languages"]
 # gems:           ['jekyll-paginate', 'jekyll-multiple-languages']
 
 # The all languages used
-languages: ["en", "cn"]
+languages: ["en", "ko"]
 
 # If not config, the first item of languages will be used as the default.
 language_default: "en"
