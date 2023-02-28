@@ -4,25 +4,24 @@
 
 ---
 
-# Applied Web Programming 2023
+# 웹프로그래밍응용 2023
 
-Korea National University of Transportation / 한국교통대학교, 충주
+한국교통대학교, 충주
 
 ![Aaron pic](https://avatars.githubusercontent.com/u/6644259?s=200&v=4)
 
-##### Instructor / 강사
+##### 강사
 
-- Aaron Snowberger ([aaron@ut.ac.kr](aaron@ut.ac.kr)), Graduate School of Information & Communications Engineering, Hanbat University
-- 에런 스노버거, 정보통신공학과, 한밭대학교
+- 에런 스노버거 ([aaron@ut.ac.kr](aaron@ut.ac.kr)), 정보통신공학과, 한밭대학교
 
-##### Online Classroom / 온라인 클래스룸
+##### 온라인 클래스룸
 
 | Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
 | GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
 
-This repository contains the course materials for the [Computer Science / 컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) course [Applied Web Programming / 웹프로그래밍응용](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
+이 저장소는 [컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) 과정 [웹프로그래밍응용](https://ut-nodejs.github.io)은 에런 스노버거가 2023년 봄에 가르쳤다.
 
-### Course Topics / 과정 화제
+### 과정 화제
 
 | Day | Date    | Unit | Topic                                                                           | 화제                                                                     |
 | :-: | :------ | :--: | :------------------------------------------------------------------------------ | :----------------------------------------------------------------------- |

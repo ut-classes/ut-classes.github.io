@@ -6,23 +6,22 @@
 
 # Applied Web Programming 2023
 
-Korea National University of Transportation / 한국교통대학교, 충주
+Korea National University of Transportation
 
 ![Aaron pic](https://avatars.githubusercontent.com/u/6644259?s=200&v=4)
 
-##### Instructor / 강사
+##### Instructor
 
 - Aaron Snowberger ([aaron@ut.ac.kr](aaron@ut.ac.kr)), Graduate School of Information & Communications Engineering, Hanbat University
-- 에런 스노버거, 정보통신공학과, 한밭대학교
 
-##### Online Classroom / 온라인 클래스룸
+##### Online Classroom
 
 | Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
 | GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
 
-This repository contains the course materials for the [Computer Science / 컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) course [Applied Web Programming / 웹프로그래밍응용](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
+This repository contains the course materials for the [Computer Science](https://www.ut.ac.kr/ceit/sub02_00.do) course [Applied Web Programming](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
 
-### Course Topics / 과정 화제
+### Course Topics
 
 | Day | Date    | Unit | Topic                                                                           | 화제                                                                     |
 | :-: | :------ | :--: | :------------------------------------------------------------------------------ | :----------------------------------------------------------------------- |
