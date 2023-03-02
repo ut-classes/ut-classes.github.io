@@ -16,8 +16,8 @@ Korea National University of Transportation
 
 ##### Online Classroom
 
-| Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg) |
-| GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm) |
+| Google Classroom (PPTs) | [am](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [pm](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg) |
+| GitHub Classroom (과제) | [am](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [pm](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm) |
 
 This repository contains the course materials for the [Computer Science](https://www.ut.ac.kr/ceit/sub02_00.do) course [Applied Web Programming](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
 
@@ -77,10 +77,6 @@ The course will be delivered as a series of 2-hour lectures (with a break in the
 
 See the Google Classroom [am](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [pm](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg) for class PPTs, lists, and announcements.
 
-### Prerequisites
-
-Students should already be familiar with basic web programming and basic JavaScript. A list of expected knowledge will be made available for review...
-
 ### Preparing for the course
 
 You will need NodeJS and a basic code editor or IDE for this course. You will need to download and install [Node.JS](https://nodejs.org/en/download/) and a code editor such as [Visual Studio Code](https://code.visualstudio.com/download) on your computer.
@@ -96,9 +92,8 @@ If you are not already familiar with JavaScript, HTML, or CSS, you are strongly 
 
 You are also strongly recommended to spend some time before the course working through the following materials related to working with git and GitHub and turning in homework:
 
-- [git]()
-- [GitHub]()
-- [GitHub Classroom]()
+- [git - 간편 안내서](https://up1.github.io/git-guide/index.ko.html)
+- [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/)
 
 ### Important Specifics
 
@@ -178,7 +173,7 @@ The following are ways to earn or lose participation points:
 
 These are graded on a {Complete, Half-complete, Incomplete} scale and will form the practical materials for each day's labs. See these instructions for how to access and work with each day's exercise.
 
-See [https://ut-nodejs.github.io/instructions](https://ut-nodejs.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials.
+<!---- See [https://ut-nodejs.github.io/instructions](https://ut-nodejs.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials. ---->
 
 #### 4. Final Project (40%) {#grading-final-project}
 
@@ -213,26 +208,24 @@ It is possible that your Final project may be used for the Final Exam. But, ther
 
 If you have questions, please contact Aaron at [aaron@ut.ac.kr](aaron@ut.ac.kr).
 
-### Detailed Course Schedule
-
----
+# Detailed Course Schedule
 
 #### 1. Overview and introduction to class
 
 - \*0. Class, Book, Teacher Introduction
 - \*1. Web Programming Review
-- \*2. Git and GitHub Classroom Introduction
+- \*2. Git and GitHub Classroom Introduction (2nd Week)
 
 We will use this session to get to know the range of interests and experience students bring to the class, as well as to survey the topics to be covered. We will discuss class goals, grading, the textbook, and get to know the instructor. We will also review basic web programming skills, git, GitHub, and GitHub classroom that will be used in the class.
 
 ##### Resources
 
-- [Google Classroom](https://classroom.google.com)
-- [GitHub Classroom](https://classroom.github.com)
-- [PPT \*0. Class, Book, Teacher Introduction](lecturenotes/)
+- Google Classroom (PPTs) ([오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg))
+- GitHub Classroom (과제) ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm))
+<!-- - [PPT \*0. Class, Book, Teacher Introduction](lecturenotes/)
 - [PPT \*1. Web Programming Review](lecturenotes/)
 - [PPT \*2. Git and GitHub Classroom Introduction](lecturenotes/)
-- [Lab 0 materials](https://lse-me314.github.io/assignment01/)
+- [Lab 0 materials](https://lse-me314.github.io/assignment01/) -->
 
 ##### Practice & Assignment
 
@@ -251,7 +244,7 @@ We will use this session to get to know the range of interests and experience st
 
 ---
 
-#### 2. Starting Node and GitHub Classroom
+<!-- #### 2. Starting Node and GitHub Classroom
 
 - Unit 0. 시작하기 / Getting Set up
   - Lesson 0. Node.js의 설정과 JavaScript 엔진 설치 / Setting up Node.js and the JavaScript engine
@@ -267,7 +260,7 @@ This week ...
 
 ##### Practice & Assignment
 
-<!---- - Lab 2 [start](/2-start) | [finish](/2-finish). ---->
+<!---- - Lab 2 [start](/2-start) | [finish](/2-finish). ----
 
 ##### Required reading
 
@@ -275,9 +268,9 @@ This week ...
 
 ##### Recommended reading
 
--
+- -->
 
-#### 3. Node Webservers and Routes
+<!-- #### 3. Node Webservers and Routes
 
 - Unit 1. Node.js의 시작 / Getting started with Node.js
   - Lesson 3. Node.js 모듈의 생성 / Creating a Node.js module
@@ -294,7 +287,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 3 [start](/3-start) | [finish](/3-finish). ---->
+<!---- - Lab 3 [start](/3-start) | [finish](/3-finish). ----
 
 ##### Required reading
 
@@ -302,9 +295,9 @@ This week...
 
 ##### Recommended Reading
 
--
+- -->
 
-#### 4. Routing in Express.js
+<!-- #### 4. Routing in Express.js
 
 - Lesson 7. 캡스톤 프로젝트: 첫 번째 웹 애플리케이션 만들기 / Capstone: Creating your first web application
 - Unit 2. Express.js를 통한 웹 개발 / Easier web development with Express.js
@@ -320,7 +313,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 4 [start](/4-start) | [finish](/4-finish). ---->
+<!---- - Lab 4 [start](/4-start) | [finish](/4-finish). ----
 
 ##### Required Reading
 
@@ -328,9 +321,9 @@ This week...
 
 ##### Recommended Reading
 
--
+- -->
 
-#### 5. Project Start
+<!-- #### 5. Project Start
 
 - Lesson 10 뷰와 템플릿의 연결 / Connecting views with templates
 - Lesson 11. 설정과 에러 처리 / Configurations and error handling
@@ -345,7 +338,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 5 [start](/5-start) | [finish](/5-finish). ---->
+<!---- - Lab 5 [start](/5-start) | [finish](/5-finish). ----
 
 ##### Required Reading
 
@@ -353,9 +346,9 @@ This week...
 
 ##### Recommended Reading
 
--
+- -->
 
-#### 6. Connecting to MongoDB
+<!-- #### 6. Connecting to MongoDB
 
 - Unit 3. 데이터베이스 연결 / Connecting to a database
   - Lesson 13. 몽고DB 데이터베이스 셋업 / Setting up a MongoDB database
@@ -372,7 +365,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 6 [start](/6-start) | [finish](/6-finish). ---->
+<!---- - Lab 6 [start](/6-start) | [finish](/6-finish). ----
 
 ##### Required Reading
 
@@ -380,9 +373,9 @@ This week...
 
 ##### Recommended Reading
 
--
+- -->
 
-#### 7. User Data Models
+<!-- #### 7. User Data Models
 
 - Unit 4. 사용자 모델 제작 / Building a User model
   - Lesson 17. 데이터 모델의 개선 / Improving your data models
@@ -398,7 +391,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 7 [start](/7-start) | [finish](/7-finish). ---->
+<!---- - Lab 7 [start](/7-start) | [finish](/7-finish). ----
 
 ##### Required Reading
 
@@ -406,9 +399,9 @@ This week...
 
 ##### Recommended Reading
 
--
+- -->
 
-#### Midterm Exam
+<!-- #### Midterm Exam
 
 - 중간고사 / 프로젝트
 
@@ -421,7 +414,7 @@ For review...
 
 ##### Practice & Assignment
 
-<!---- - Midterm [start](/midterm-2023). ---->
+<!---- - Midterm [start](/midterm-2023). ----
 
 ##### Required reading
 
@@ -429,9 +422,9 @@ For review...
 
 ##### Recommended Reading
 
--
+- -->
 
-#### 8. CRUD (Create, Read, Update, Delete)
+<!-- #### 8. CRUD (Create, Read, Update, Delete)
 
 - Lesson 20. 모델의 업데이트와 삭제 / Updating and deleting your models
 - Lesson 21. 캡스톤 프로젝트: Confetti Cusine에 CRUD 모델 추가 / Capstone: Adding CRUD models to Confetti Cuisine
@@ -445,7 +438,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 8 [start](/8-start) | [finish](/8-finish). ---->
+<!---- - Lab 8 [start](/8-start) | [finish](/8-finish). ----
 
 ##### Required reading
 
@@ -453,9 +446,9 @@ This week...
 
 ##### Recommended Reading
 
--
+- -->
 
-#### 9. User Authentication
+<!-- #### 9. User Authentication
 
 - Unit 5. 사용자 계정 인증 / Authenticating User accounts
   - Lesson 22. 세션과 플래시 메시지의 추가 / Adding sessions and flash messages
@@ -472,7 +465,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 9 [start](/9-start) | [finish](/9-finish). ---->
+<!---- - Lab 9 [start](/9-start) | [finish](/9-finish). ----
 
 ##### Required reading
 
@@ -480,9 +473,9 @@ This week...
 
 ##### Recommended Reading
 
--
+- -->
 
-#### 10. Adding an API
+<!-- #### 10. Adding an API
 
 - Unit 6. API 빌드 / Building an API
   - Lesson 26. 애플리케이션에 API 추가 / Adding an API to your application
@@ -499,7 +492,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 10 [start](/10-start) | [finish](/10-finish). ---->
+<!---- - Lab 10 [start](/10-start) | [finish](/10-finish). ----
 
 ##### Required reading
 
@@ -507,9 +500,9 @@ This week...
 
 ##### Recommended Reading
 
--
+- -->
 
-#### 11. Adding Chat Functionality
+<!-- #### 11. Adding Chat Functionality
 
 - Unit 7. 채팅 기능 추가 / Adding Chat functionality
   - Lesson 30. socket.io로의 작업 / Working with Socket.io
@@ -526,7 +519,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 11 [start](/11-start) | [finish](/11-finish). ---->
+<!---- - Lab 11 [start](/11-start) | [finish](/11-finish). ----
 
 ##### Required reading:
 
@@ -534,9 +527,9 @@ This week...
 
 ##### Recommended reading:
 
--
+- -->
 
-#### 12. Deploying to Production
+<!-- #### 12. Deploying to Production
 
 - Unit 8. 프로덕션에서의 코드 배포와 관리 / Deploying and managing code in production
   - Lesson 34. 애플리케이션 배포 / Deploying your application
@@ -553,7 +546,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 12 [start](/12-start) | [finish](/12-finish). ---->
+<!---- - Lab 12 [start](/12-start) | [finish](/12-finish). ----
 
 ##### Required Reading:
 
@@ -561,9 +554,9 @@ This week...
 
 ##### Recommended Reading:
 
--
+- -->
 
-#### 13. Supplementary Topics
+<!-- #### 13. Supplementary Topics
 
 - Appendix A. ES6에서 소개하는 JavaScript 문법 / JavaScript syntax introduced in ES6
 - Appendix B. 로깅과 Node.js의 전역 객체의 사용 / Logging and using Node.js global objects
@@ -578,7 +571,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 13 [start](/13-start) | [finish](/13-finish). ---->
+<!---- - Lab 13 [start](/13-start) | [finish](/13-finish). ----
 
 ##### Required Reading:
 
@@ -586,9 +579,9 @@ This week...
 
 ##### Recommended Reading:
 
--
+- -->
 
-#### 14. Personal Projects
+<!-- #### 14. Personal Projects
 
 - 개인 프로젝트 / Personal projects
 
@@ -601,7 +594,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- - Lab 14 [start](/14-start) | [finish](/14-finish). ---->
+<!---- - Lab 14 [start](/14-start) | [finish](/14-finish). ----
 
 ##### Required Reading:
 
@@ -609,9 +602,9 @@ This week...
 
 ##### Recommended Reading:
 
--
+- -->
 
-#### Final Exam
+<!-- #### Final Exam
 
 - 기말고사 / 프로젝트
 
@@ -624,7 +617,7 @@ For review...
 
 ##### Practice & Assignment
 
-<!---- - [Final exam](/final-2023). ---->
+<!---- - [Final exam](/final-2023). ----
 
 ##### Required Reading:
 
@@ -632,4 +625,4 @@ For review...
 
 ##### Recommended Reading:
 
--
+- -->

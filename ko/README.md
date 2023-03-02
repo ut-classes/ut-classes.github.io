@@ -73,13 +73,9 @@ Node.js와 Express로 웹서버, 웹사이트에서 CRUD 기능 이해하고 채
 
 - 강의 : 매주 금요일 2시간 강의가 진행됩니다.
 - 연습시간 : 각 강의의 마지막 시간은 강의에서 다룬 내용을 연습하는 시간입니다.
-- 과제: 학생들은 GitHub Classroom에서 과제를 제출해야 합니다. ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)).
+- 과제: 학생들은 GitHub Classroom에서 과제를 제출해야 합니다. ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)).
 
-See the [Google Classroom](https://classroom.google.com) for class PPTs, lists, and announcements.
-
-### Prerequisites / 전제 조건
-
-Students should already be familiar with basic web programming an basic JavaScript. A list of expected knowledge will be made available for review...
+Google Classroom [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
 
 ### Preparing for the course / 수업 준비
 
@@ -131,7 +127,7 @@ The primary text is:
 
 성적은 5가지 주요 구성 요소로 나뉩니다:
 
-| %   | 부분          | 명세                                           |
+| %   | 부분          | 세부                                           |
 | --- | ------------- | ---------------------------------------------- |
 | 10% | 출석          |                                                |
 | 30% | 과제          | 수업시간에 학습한 것을 GitHub Classroom에 저장 |
@@ -142,94 +138,92 @@ The primary text is:
 성적은 상대평가다. 다음은 최종 프로젝트에 대한 당신의 노력이 당신의 성적에 어떻게 반영될 것인지를 이해하기 위한 간단한 지침이다.
 
 - 상대평가
-  - _A: Customize (Content + Design)_
-  - **B: Complete (including Practice Lab updates)**
-  - C: Complete (_only_ code form the book / GitHub repo)
-  - D: Incomplete or broken
-  - F: Very minimal effort and/or Absences
+  - _A: 커스터마이즈(콘텐츠 + 디자인)_
+  - **B: 완료(과제 업데이트 포함)**
+  - C: 완료(책/GitHub 저장소의*만* 코드)
+  - D: 불완전하거나 깨짐
+  - F: 아주 최소한의 노력 및/또는 부재
 
-#### 1. Attendance (including Participation) (10%) {#grading-attendance}
+#### 1. Attendance / 출석(태도와 포함) (10%) {#grading-attendance}
 
-The university's guidelines on attendance are as follows:
+본교의 출석요강은 다음과 같습니다.
 
-- 3 Late = 1 Absence
-- More than 20% Absences = F
+- 지각 3회 = 결석 1회
+- 결석 20% 초과 = F
 
-If a student has a valid excuse to be absent, such as quarantining for COVID-19, a school event, etc, they may be given self-study work to complete.
+학생이 COVID-19 격리, 학교 행사 등과 같이 결석할 타당한 사유가 있는 경우 완료할 자율 학습 과제가 주어질 수 있습니다.
 
-Participation follows along with attendance in many ways. While individual participation points will not be recorded every day (there are too many students), a student's individual behavior and habits over the course of the semester will be taken into account. For example, a student who is always Late, or always sleeps, or always talks in class, or always turns in homework on time, will be awarded points corresponding to their behavior.
+참여는 여러 면에서 출석과 함께 따라옵니다. 개별 참여 포인트가 매일 기록되지는 않지만(학생이 너무 많음) 학기 동안 학생의 개별 행동 및 습관이 고려됩니다. 예를 들어, 항상 늦거나, 항상 자거나, 항상 수업 시간에 말하거나, 항상 제 시간에 숙제를 제출하는 학생은 그들의 행동에 따라 점수를 받게 됩니다.
 
-The following are ways to earn or lose participation points:
+참여 포인트를 얻거나 잃는 방법은 다음과 같습니다.
 
-- Gain points
-  - On time, participate in the class exercises
-  - Complete all homework
-  - Help other students
-- Lose points
-  - Be late or absent often
-  - Use the phone, or be off task on the computer often
-  - Do not turn in homework or participate in lab exercises
-  - Be disorderly or disrespectful to the teacher or other students
+- 획득 포인트
+  - 정시에 수업 연습에 참여
+  - 모든 숙제 완료
+  - 다른 학생들을 도와주세요
+- 포인트를 잃다
+  - 자주 지각하거나 결석한다
+  - 전화를 사용하거나 컴퓨터 작업을 자주 중단
+  - 숙제를 미제출하거나 실험실 연습에 참여하지 않다
+  - 교사나 다른 학생에게 무질서하거나 무례한 행동
 
-#### 2. Daily Lab Exercises (30%) {#grading-practice}
+#### 2. Daily Lab Exercises / 과제 (30%) {#grading-practice}
 
-These are graded on a {Complete, Half-complete, Incomplete} scale and will form the practical materials for each day's labs. See these instructions for how to access and work with each day's exercise.
+이들은 {완성, 반완성, 미완성} 척도로 등급이 매겨지며 매일의 실습을 위한 실용적인 자료를 형성합니다. 매일의 운동에 액세스하고 작업하는 방법은 ==upcoming== 지침을 참조하십시오.
 
-See [https://ut-nodejs.github.io/instructions](https://ut-nodejs.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials.
+<!---- See [https://ut-nodejs.github.io/instructions](https://ut-nodejs.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials. ---->
 
-#### Midterm Exam (15%) {#grading-midterm-exam}
+#### Midterm Exam / 중간고사 (15%) {#grading-midterm-exam}
 
-It is possible that the CRUD or User Data Model assignments will be used for the Midterm. The midterm will be released after the lecture on Day 7 (4월14일) and will be due at 11:59pm on Day 9 (4월28일). <!--- The [midterm is available here](https://ut-nodejs.github.io/midterm-2023/).--->
+중간고사에 CRUD 또는 사용자 데이터 모델 할당이 사용될 수 있습니다. 중간고사는 7일차(4월14일) 강의 후 공개되며, 마감일은 9일차(4월28일) 밤 11시 59분입니다. <!--- The [midterm is available here](https://ut-nodejs.github.io/midterm-2023/).--->
 
-#### Final Exam (20%) {#grading-final-exam}
+#### Final Exam / 기말고사 (20%) {#grading-final-exam}
 
-It is possible that your Final project may be used for the Final Exam. But, there may be a quiz or test of some kind included. The final will be released after the lecture on Day 15 (6월9일) and will be due at 11:59pm on the Monday after Day 16 (6월19일). <!--- The [final is available here](https://ut-nodejs.github.io/final-2023/).--->
+최종 프로젝트가 최종 시험에 사용될 수 있습니다. 그러나 어떤 종류의 퀴즈나 테스트가 포함될 수 있습니다. 결승전은 15일차(6월9일) 강의 후 공개되며, 마감일은 16일차(6월19일) 다음 월요일 밤 11시 59분이다. <!--- The [final is available here](https://ut-nodejs.github.io/final-2023/).--->
 
-##### Exam Schedule {#grading-exam-schedule}
+##### Exam Schedule / 고사 일정 {#grading-exam-schedule}
 
-- Midterm exam: April 21 (Week 8) or April 28 (Week 9).
-- Final exam: June 16 (Week 16).
-- Final project due: June 19 (Monday).
+- 중간고사: 4월 21일(8주) 또는 4월 28일(9주).
+- 기말고사: 6월 16일(16주차).
+- 최종 프로젝트 마감일: 6월 19일(월).
 
-#### 5. Final Project (25%) {#grading-final-project}
+#### 5. Final Project / 개인 프로젝트 (25%) {#grading-final-project}
 
-The Final Project should be an updated customization of the project we work on in class. It should do at least TWO things differently from the project described in the book:
+최종 프로젝트는 수업 시간에 작업한 프로젝트의 업데이트된 사용자 지정이어야 합니다. 책에 설명된 프로젝트와 적어도 두 가지 다른 작업을 수행해야 합니다.
 
-1. Solve a different problem (i.e. not a Cooking / Recipe site)
-2. Have a different design / style
+1. 다른 문제 해결(예: 요리/레시피 사이트 아님)
+2. 디자인/스타일이 다르다
 
-Ways to make your project stand out:
+프로젝트를 돋보이게 만드는 방법:
 
-- Use a CSS framework
-- Include multiple page templates
-- Implement your own, self-selected JavaScript functionality, widget, feature, etc.
+- CSS 프레임워크 사용
+- 여러 페이지 템플릿 포함
+- 자체적으로 선택한 JavaScript 기능, 위젯, 기능 등을 구현합니다.
 
 <!---[Instructions for the final project are here](https://ut-nodejs.github.io/final-project/).--->
 
-#### Contact
+#### Contact / 연락
 
-If you have questions, please contact Aaron at [aaron@ut.ac.kr](aaron@ut.ac.kr) or in Google Classroom .
+질문이 있으시면 Aaron에게 [aaron@ut.ac.kr](aaron@ut.ac.kr) 또는 Google 클래스룸에 문의하십시오. ([오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg))
 
-### Detailed Course Schedule
-
----
+# Detailed Course Schedule / 세부 과정 일정
 
 #### 1. Overview and introduction to class
 
 - \*0. 수업, 책, 강사 소개
 - \*1. 웹 프로그래밍 복습
-- \*2. 깃과 깃허브 클래스룸 소개
+- \*2. 깃과 깃허브 클래스룸 소개 (2주차)
 
 우리는 이 세션을 통해 학생들이 수업에 가져오는 관심사와 경험의 범위를 파악하고 다룰 주제를 조사할 것입니다. 우리는 수업 목표, 채점, 교과서에 대해 논의하고 강사를 알게 될 것입니다. 또한 수업에서 사용할 기본 웹 프로그래밍 기술, git, GitHub 및 GitHub 강의실을 검토합니다.
 
 ##### Resources
 
-- [Google Classroom](https://classroom.google.com)
-- [GitHub Classroom](https://classroom.github.com)
-- [스라이드 \*0: 수업 소개](lecturenotes/)
-- [스라이드 \*1: 웹 프로그래밍 복습](lecturenotes/)
-- [스라이드 \*2: 깃과 깃허브](lecturenotes/)
-- [Lab 0 materials](https://lse-me314.github.io/assignment01/)
+- Google Classroom (PPTs) ([오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg))
+- GitHub Classroom (과제) ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm))
+  <!-- - [스라이드 \*0: 수업 소개](lecturenotes/) -->
+  <!-- - [스라이드 \*1: 웹 프로그래밍 복습](lecturenotes/) -->
+  <!-- - [스라이드 \*2: 깃과 깃허브](lecturenotes/) -->
+  <!-- - [Lab 0 materials](https://lse-me314.github.io/assignment01/) -->
 
 ##### Practice & Assignment
 
@@ -237,7 +231,7 @@ If you have questions, please contact Aaron at [aaron@ut.ac.kr](aaron@ut.ac.kr) 
 
 ##### Required reading
 
-- [누구나 쉽게 이해할 수 있는 git 입분](https://backlog.com/git-tutorial/kr/)
+- [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/)
 
 ##### Recommended reading
 
@@ -248,7 +242,7 @@ If you have questions, please contact Aaron at [aaron@ut.ac.kr](aaron@ut.ac.kr) 
 
 ---
 
-#### 2. Starting Node and GitHub Classroom
+<!-- #### 2. Starting Node and GitHub Classroom
 
 - Unit 0. 시작하기 / Getting Set up
   - Lesson 0. Node.js의 설정과 JavaScript 엔진 설치 / Setting up Node.js and the JavaScript engine
@@ -264,7 +258,7 @@ This week ...
 
 ##### Practice & Assignment
 
-<!---- * Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html). ---->
+<!---- * Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html). ----
 
 ##### Required reading
 
@@ -272,9 +266,9 @@ This week ...
 
 ##### Recommended reading
 
-- ***
+- *** -->
 
-#### 3. Node Webservers and Routes
+<!-- #### 3. Node Webservers and Routes
 
 - Unit 1. Node.js의 시작 / Getting started with Node.js
   - Lesson 3. Node.js 모듈의 생성 / Creating a Node.js module
@@ -291,7 +285,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!--- * Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html). ---->
+<!--- * Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html). ----
 
 ##### Required reading
 
@@ -299,9 +293,9 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+- *** -->
 
-#### 4. Routing in Express.js
+<!-- #### 4. Routing in Express.js
 
 - Lesson 7. 캡스톤 프로젝트: 첫 번째 웹 애플리케이션 만들기 / Capstone: Creating your first web application
 - Unit 2. Express.js를 통한 웹 개발 / Easier web development with Express.js
@@ -317,7 +311,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html). ---->
+<!---- * Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html). ----
 
 ##### Required Reading
 
@@ -325,9 +319,9 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+- *** -->
 
-#### 5. Project Start
+<!-- #### 5. Project Start
 
 - Lesson 10 뷰와 템플릿의 연결 / Connecting views with templates
 - Lesson 11. 설정과 에러 처리 / Configurations and error handling
@@ -342,7 +336,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- The **mid-term exam** will be posted on [Moodle](https://shortcourses.lse.ac.uk/course/view.php?id=158). ---->
+<!---- The **mid-term exam** will be posted on [Moodle](https://shortcourses.lse.ac.uk/course/view.php?id=158). ----
 
 ##### Required Reading
 
@@ -350,9 +344,9 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+- *** -->
 
-#### 6. Connecting to MongoDB
+<!-- #### 6. Connecting to MongoDB
 
 - Unit 3. 데이터베이스 연결 / Connecting to a database
   - Lesson 13. 몽고DB 데이터베이스 셋업 / Setting up a MongoDB database
@@ -369,7 +363,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html). ---->
+<!---- * Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html). ----
 
 ##### Required Reading
 
@@ -377,9 +371,9 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+- *** -->
 
-#### 7. User Data Models
+<!-- #### 7. User Data Models
 
 - Unit 4. 사용자 모델 제작 / Building a User model
   - Lesson 17. 데이터 모델의 개선 / Improving your data models
@@ -403,7 +397,7 @@ This week...
 * [Lab 7 materials](https://lse-me314.github.io/assignment07/)
 * Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).
 
---->
+---
 
 ##### Required Reading
 
@@ -411,9 +405,9 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+- *** -->
 
-#### 8. CRUD (Create, Read, Update, Delete)
+<!-- #### 8. CRUD (Create, Read, Update, Delete)
 
 - Lesson 20. 모델의 업데이트와 삭제 / Updating and deleting your models
 - Lesson 21. 캡스톤 프로젝트: Confetti Cusine에 CRUD 모델 추가 / Capstone: Adding CRUD models to Confetti Cuisine
@@ -427,7 +421,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html). ---->
+<!---- * Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html). ----
 
 ##### Required reading
 
@@ -435,9 +429,9 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+- *** -->
 
-#### Midterm Exam
+<!-- #### Midterm Exam
 
 - 중간고사 / 프로젝트
 
@@ -450,7 +444,7 @@ For review...
 
 ##### Practice & Assignment
 
-<!---- * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). ---->
+<!---- * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). ----
 
 ##### Required reading
 
@@ -458,9 +452,9 @@ For review...
 
 ##### Recommended Reading
 
-- ***
+- *** -->
 
-#### 9. User Authentication
+<!-- #### 9. User Authentication
 
 - Unit 5. 사용자 계정 인증 / Authenticating User accounts
   - Lesson 22. 세션과 플래시 메시지의 추가 / Adding sessions and flash messages
@@ -477,7 +471,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!--- * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). --->
+<!--- * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). ---
 
 ##### Required reading
 
@@ -485,9 +479,9 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+- *** -->
 
-#### 10. Adding an API
+<!-- #### 10. Adding an API
 
 - Unit 6. API 빌드 / Building an API
   - Lesson 26. 애플리케이션에 API 추가 / Adding an API to your application
@@ -504,7 +498,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html). ---->
+<!---- * Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html). ----
 
 ##### Required reading
 
@@ -512,9 +506,9 @@ This week...
 
 ##### Recommended Reading
 
-- ***
+- *** -->
 
-#### 11. Adding Chat Functionality
+<!-- #### 11. Adding Chat Functionality
 
 - Unit 7. 채팅 기능 추가 / Adding Chat functionality
   - Lesson 30. socket.io로의 작업 / Working with Socket.io
@@ -531,7 +525,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html). ---->
+<!---- * Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html). ----
 
 ##### Required reading:
 
@@ -551,15 +545,15 @@ This week...
     + [Overview of REST API](https://dev.twitter.com/rest/public)
     + [Overview of streaming API](https://dev.twitter.com/streaming/overview)
 
---->
+---
 
 [](./data/covid_country_data.csv)
 [](./data/ess.csv)
 [](./data/const-econ-vars.csv)
 
----
+--- -->
 
-#### 12. Deploying to Production
+<!-- #### 12. Deploying to Production
 
 - Unit 8. 프로덕션에서의 코드 배포와 관리 / Deploying and managing code in production
   - Lesson 34. 애플리케이션 배포 / Deploying your application
@@ -576,7 +570,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ---->
+<!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ----
 
 ##### Required Reading:
 
@@ -584,9 +578,9 @@ This week...
 
 ##### Recommended Reading:
 
-- ***
+- *** -->
 
-#### 13. Supplementary Topics
+<!-- #### 13. Supplementary Topics
 
 - Appendix A. ES6에서 소개하는 JavaScript 문법 / JavaScript syntax introduced in ES6
 - Appendix B. 로깅과 Node.js의 전역 객체의 사용 / Logging and using Node.js global objects
@@ -601,7 +595,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 13 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment13_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment13_solution.html). ---->
+<!---- * Lab 13 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment13_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment13_solution.html). ----
 
 ##### Required Reading:
 
@@ -609,9 +603,9 @@ This week...
 
 ##### Recommended Reading:
 
-- ***
+- *** -->
 
-#### 14. Personal Projects
+<!-- #### 14. Personal Projects
 
 - 개인 프로젝트 / Personal projects
 
@@ -624,7 +618,7 @@ This week...
 
 ##### Practice & Assignment
 
-<!---- * Lab 15 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment15_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment15_solution.html). ---->
+<!---- * Lab 15 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment15_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment15_solution.html). ----
 
 ##### Required Reading:
 
@@ -632,9 +626,9 @@ This week...
 
 ##### Recommended Reading:
 
-- ***
+- *** -->
 
-#### Final Exam
+<!-- #### Final Exam
 
 - 기말고사 / 프로젝트
 
@@ -647,7 +641,7 @@ For review...
 
 ##### Practice & Assignment
 
-<!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ---->
+<!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ----
 
 ##### Required Reading:
 
@@ -655,17 +649,4 @@ For review...
 
 ##### Recommended Reading:
 
-- ***
-
-#### Grading
-
-- 상대평가
-  - _A: Customize (Content + Design)_
-  - **B: Complete (just what's in the book)**
-  - C: Incomplete or broken
-  - D: Very minimal effort
-  - F: Absences
-
-##### Resources
-
-##### Recommended Reading:
+- *** -->
