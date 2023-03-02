@@ -104,6 +104,7 @@ The software we will be using is listed below.
 - [Node.JS](https://nodejs.org/en/download/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [git](https://git-scm.com/downloads)
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) ([Signup](https://signup.heroku.com/))
 
 #### Main Texts
 
@@ -233,14 +234,18 @@ We will use this session to get to know the range of interests and experience st
 
 ##### Required reading
 
-- [GitHub Tutorial (KO)](https://backlog.com/git-tutorial/kr/)
+- [git - 간편 안내서](https://up1.github.io/git-guide/index.ko.html)
+- [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/)
 
 ##### Recommended reading
 
 - [How much JavaScript do you need to know to use NodeJS?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/)
-- [git - 간편 안내서](https://up1.github.io/git-guide/index.ko.html)
-- [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/)
 - [깃 브랜칭을 배워봅시다](https://learngitbranching.js.org/?locale=ko)
+- [JS Template Literals](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals)
+- [JS Classes](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+- [JS Arrow Functions](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- [JS Array forEach](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+- [JS Strict Mode](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Strict_mode)
 
 ---
 
