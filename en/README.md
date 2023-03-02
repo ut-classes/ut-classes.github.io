@@ -209,7 +209,11 @@ It is possible that your Final project may be used for the Final Exam. But, ther
 
 If you have questions, please contact Aaron at [aaron@ut.ac.kr](aaron@ut.ac.kr).
 
+---
+
 # Detailed Course Schedule
+
+---
 
 #### 1. Overview and introduction to class
 

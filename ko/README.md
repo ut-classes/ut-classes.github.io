@@ -207,7 +207,11 @@ The primary text is:
 
 질문이 있으시면 Aaron에게 [aaron@ut.ac.kr](aaron@ut.ac.kr) 또는 Google 클래스룸에 문의하십시오. ([오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg))
 
+---
+
 # Detailed Course Schedule / 세부 과정 일정
+
+---
 
 #### 1. Overview and introduction to class / 오리엔테이션 및 수업 소개
 
@@ -243,7 +247,7 @@ The primary text is:
 - [JS Classes](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
 - [JS Arrow Functions](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 - [JS Array forEach](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
-- [JS Strict Mode](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Strict_mode
+- [JS Strict Mode](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Strict_mode)
 
 ---
 
