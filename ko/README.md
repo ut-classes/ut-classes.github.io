@@ -16,8 +16,8 @@
 
 ##### 온라인 클래스룸
 
-| Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
-| GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
+| Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg) |
+| GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm) |
 
 이 저장소는 [컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) 과정 [웹프로그래밍응용](https://ut-nodejs.github.io)은 에런 스노버거가 2023년 봄에 가르쳤다.
 
@@ -69,79 +69,146 @@ Node.js와 Express로 웹서버, 웹사이트에서 CRUD 기능 이해하고 채
 - Socket.io로 채팅 기능 추가
 - 프로덕션에서 코드 배포 및 관리
 
-## Lectures, practice, and assignments
+## Lectures, practice, and assignments / 강의, 실습 및 과제
 
-- Lectures: Lectures will be held for 2 hours every Friday.
-- Practice time: Students will be given the final hour of each lecture period to practice what was covered in the lecture.
-- Assignments: Students will be required to turn in assignments in GitHub Classroom ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)).
+- 강의 : 매주 금요일 2시간 강의가 진행됩니다.
+- 연습시간 : 각 강의의 마지막 시간은 강의에서 다룬 내용을 연습하는 시간입니다.
+- 과제: 학생들은 GitHub Classroom에서 과제를 제출해야 합니다. ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)).
 
 See the [Google Classroom](https://classroom.google.com) for class PPTs, lists, and announcements.
 
-### Prerequisites
+### Prerequisites / 전제 조건
 
 Students should already be familiar with basic web programming an basic JavaScript. A list of expected knowledge will be made available for review...
 
-### Preparing for the course
+### Preparing for the course / 수업 준비
 
-You will need NodeJS and a basic code editor or IDE for this course. You will need to download and install [Node.JS](https://nodejs.org/en/download/) and a code editor such as [Visual Studio Code](https://code.visualstudio.com/download) on your computer.
+이 과정에는 NodeJS와 기본 코드 편집기 또는 IDE가 필요합니다. [Node.JS](https://nodejs.org/en/download/) 및 [Visual Studio Code](https://code.visualstudio.com/download)와 같은 코드 편집기를 다운로드하여 설치해야 합니다.
 
-**Detailed instructions can also be found [here](https://ut-nodejs.github.io/instructions) for installing the tools you need and working with the lab materials.**
+<!---- **Detailed instructions can also be found [here](https://ut-nodejs.github.io/instructions) for installing the tools you need and working with the lab materials.** ---->
 
-If you are not already familiar with JavaScript, HTML, or CSS, we strongly encourage you to attempt to become familiar before the start of the course. That way, you will spend much less time become familiar with the tools, and be able to focus more on the methods. The following links provide basic introductions to web programming, which you can study at your own pace before the course begins.
+JavaScript, HTML 또는 CSS에 익숙하지 않은 경우 과정을 시작하기 전에 익숙해지기를 강력히 권장합니다. 그렇게 하면 도구에 익숙해지는 데 훨씬 적은 시간을 할애하고 방법에 더 집중할 수 있습니다. 다음 링크는 과정이 시작되기 전에 자신의 진도에 맞춰 학습할 수 있는 웹 프로그래밍에 대한 기본 소개를 제공합니다.
 
-- [_HTML_](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf).
-- [CSS](https://www.datacamp.com/courses/free-introduction-to-r).
-- [JavaScript](https://www.datacamp.com/courses/reporting-with-r-markdown).
+- [HTML](https://developer.mozilla.org/ko/docs/Web/HTML/Element).
+- [CSS](https://developer.mozilla.org/ko/docs/Web/CSS/Reference).
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide).
 - [How much JavaScript do you need to know to use NodeJS?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/).
 
-We also strongly recommend you spend some time before the course working through the following materials related to working with git and GitHub and turning in homework:
+또한 git 및 GitHub로 작업하고 숙제를 제출하는 것과 관련된 다음 자료를 통해 작업하는 과정 전에 시간을 할애하는 것이 좋습니다.
 
-- [git]()
-- [GitHub]()
-- [GitHub Classroom]()
+- [git - 간편 안내서](https://up1.github.io/git-guide/index.ko.html)
+- [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/)
 
-### Important Specifics
+### Important Specifics / 중요한 세부 사항
 
-#### Computer Software
+#### Computer Software / 소프트웨어
 
-The software we will be using is listed below.
+우리가 사용할 소프트웨어는 다음과 같습니다.
 
-#### Main Texts
+- [Node.JS](https://nodejs.org/en/download/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [git](https://git-scm.com/downloads)
+
+#### Main Texts / 과재
 
 The primary text is:
 
-- James et al. (2021) _An Introduction to Statistical Learning: With applications in R_, Springer. Note: The book is available free online [here](https://www.statlearning.com).
+![book-main](/img/gh-pages/book-main.jpg)
 
-The following is a supplemental text which you may also find useful:
+- Wexler, Jonathan. (2019, 2020 번역) _Get Programming with Node.js_, Manning Publishing Company (에이콘출판사 번역). [Yes24 link](http://www.yes24.com/Product/Goods/86429845).
 
-- Lantz, B. (2013). _Machine Learning with R_. Packt Publishing.
+다음은 유용할 수 있는 추가 텍스트입니다.
 
-### Instructors
+![book-extra](/img/gh-pages/book-extra.jpg)
+
+- Jo, Hyunyoung. (2022). _Node.js 교과서, 3rd edition_. Gilbert. [Yes24 link](http://www.yes24.com/Product/Goods/116192535)
+
+### Instructor / 강사
 
 **Aaron Snowberger** is a PhD candidate in the Graduate School of Information and Communications Engineering, majoring in Information and Communications Engineering, at Hanbat National University, Korea. He received his B.S degree in Computer Science from the College of Engineering, University of Wyoming, USA in 2006 and his M.FA degree in Media Design from Full Sail University, USA in 2011. From 2010 to present, he is a professor of English Conversation at Jeonju University, Korea. His research interests include computer vision, natural language processing, image processing, signal processing, and machine learning.
 
-### Assessment
+### Grading / 성적 {#grading}
 
-#### Daily lab exercises
+성적은 5가지 주요 구성 요소로 나뉩니다:
 
-These are not assessed, but will form the practical materials for each day's labs. See these instructions for how to access and work with each day's exercise.
+| %   | 부분          | 명세                                           |
+| --- | ------------- | ---------------------------------------------- |
+| 10% | 출석          |                                                |
+| 30% | 과제          | 수업시간에 학습한 것을 GitHub Classroom에 저장 |
+| 15% | 중간고사      | 쪽지시험 + 실기 프로젝트                       |
+| 20% | 기말고사      | 쪽지시험 + 실기 프로젝트                       |
+| 25% | 개인 프로젝트 | 책의 프로젝트와 추가 기능                      |
 
-See [https://lse-me314.github.io/instructions](https://lse-me314.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials.
+성적은 상대평가다. 다음은 최종 프로젝트에 대한 당신의 노력이 당신의 성적에 어떻게 반영될 것인지를 이해하기 위한 간단한 지침이다.
 
-#### Mid-term
+- 상대평가
+  - _A: Customize (Content + Design)_
+  - **B: Complete (including Practice Lab updates)**
+  - C: Complete (_only_ code form the book / GitHub repo)
+  - D: Incomplete or broken
+  - F: Very minimal effort and/or Absences
 
-The class assignment for Day 5 will count as the mid-term assignment, which will count for 25% of the grade. The midterm will be released after the lecture on Day 5 (Monday 18th July) and will be due at 7pm on Day 7 (Wednesday 20th July). <!--- The [mid-term is available here](https://lse-me314.github.io/midterm-2019/).--->
+#### 1. Attendance (including Participation) (10%) {#grading-attendance}
 
-#### Exams
+The university's guidelines on attendance are as follows:
+
+- 3 Late = 1 Absence
+- More than 20% Absences = F
+
+If a student has a valid excuse to be absent, such as quarantining for COVID-19, a school event, etc, they may be given self-study work to complete.
+
+Participation follows along with attendance in many ways. While individual participation points will not be recorded every day (there are too many students), a student's individual behavior and habits over the course of the semester will be taken into account. For example, a student who is always Late, or always sleeps, or always talks in class, or always turns in homework on time, will be awarded points corresponding to their behavior.
+
+The following are ways to earn or lose participation points:
+
+- Gain points
+  - On time, participate in the class exercises
+  - Complete all homework
+  - Help other students
+- Lose points
+  - Be late or absent often
+  - Use the phone, or be off task on the computer often
+  - Do not turn in homework or participate in lab exercises
+  - Be disorderly or disrespectful to the teacher or other students
+
+#### 2. Daily Lab Exercises (30%) {#grading-practice}
+
+These are graded on a {Complete, Half-complete, Incomplete} scale and will form the practical materials for each day's labs. See these instructions for how to access and work with each day's exercise.
+
+See [https://ut-nodejs.github.io/instructions](https://ut-nodejs.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials.
+
+#### Midterm Exam (15%) {#grading-midterm-exam}
+
+It is possible that the CRUD or User Data Model assignments will be used for the Midterm. The midterm will be released after the lecture on Day 7 (4월14일) and will be due at 11:59pm on Day 9 (4월28일). <!--- The [midterm is available here](https://ut-nodejs.github.io/midterm-2023/).--->
+
+#### Final Exam (20%) {#grading-final-exam}
+
+It is possible that your Final project may be used for the Final Exam. But, there may be a quiz or test of some kind included. The final will be released after the lecture on Day 15 (6월9일) and will be due at 11:59pm on the Monday after Day 16 (6월19일). <!--- The [final is available here](https://ut-nodejs.github.io/final-2023/).--->
+
+##### Exam Schedule {#grading-exam-schedule}
 
 - Midterm exam: April 21 (Week 8) or April 28 (Week 9).
 - Final exam: June 16 (Week 16).
+- Final project due: June 19 (Monday).
 
-<!---[The exam is here](https://lse-me314.github.io/finalexam/).--->
+#### 5. Final Project (25%) {#grading-final-project}
+
+The Final Project should be an updated customization of the project we work on in class. It should do at least TWO things differently from the project described in the book:
+
+1. Solve a different problem (i.e. not a Cooking / Recipe site)
+2. Have a different design / style
+
+Ways to make your project stand out:
+
+- Use a CSS framework
+- Include multiple page templates
+- Implement your own, self-selected JavaScript functionality, widget, feature, etc.
+
+<!---[Instructions for the final project are here](https://ut-nodejs.github.io/final-project/).--->
 
 #### Contact
 
-If you have questions, please contact Aaron via Google Classroom.
+If you have questions, please contact Aaron at [aaron@ut.ac.kr](aaron@ut.ac.kr) or in Google Classroom .
 
 ### Detailed Course Schedule
 

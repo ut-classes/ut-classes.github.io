@@ -4,7 +4,7 @@
 
 ---
 
-# Applied Web Programming 2023
+# Web Programming Application 2023
 
 Korea National University of Transportation / 한국교통대학교, 충주
 

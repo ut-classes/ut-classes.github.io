@@ -4,7 +4,7 @@
 
 ---
 
-# Applied Web Programming 2023
+# Web Programming Application 2023
 
 Korea National University of Transportation
 
@@ -16,8 +16,8 @@ Korea National University of Transportation
 
 ##### Online Classroom
 
-| Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
-| GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
+| Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg) |
+| GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm) |
 
 This repository contains the course materials for the [Computer Science](https://www.ut.ac.kr/ceit/sub02_00.do) course [Applied Web Programming](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
 
@@ -89,9 +89,9 @@ You will need NodeJS and a basic code editor or IDE for this course. You will ne
 
 If you are not already familiar with JavaScript, HTML, or CSS, you are strongly encouraged to attempt to become familiar before the start of the course. That way, you will spend much less time becoming familiar with the tools, and will be able to focus more on the methods. The following links provide basic introductions to web programming, which you can study at your own pace before the course begins.
 
-- [HTML]()
-- [CSS]()
-- [JavaScript]()
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [How much JavaScript do you need to know to use NodeJS?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/)
 
 You are also strongly recommended to spend some time before the course working through the following materials related to working with git and GitHub and turning in homework:
@@ -132,15 +132,17 @@ The following is a supplemental text which you may also find useful:
 
 Grading will be broken down into 5 main components:
 
-1. Attendance : 10%
-2. Participation : 10%
-3. Lab Assignments : 20%
-4. Final Project : 40%
-5. Tests (Midterm / Final) : 20%
+| %   | Category        | Description                                |
+| --- | --------------- | ------------------------------------------ |
+| 10% | Attendance      |                                            |
+| 30% | Lab Assignments | Saving in-class work to GitHub             |
+| 15% | Midterm Test    | Paper test + Practical Project             |
+| 20% | Final Test      | Paper test + Practical Project             |
+| 25% | Final Project   | Adding functionality to the book's project |
 
-The university grades on a curve. The following is a simple guideline for understanding how the final project will be graded.
+The university grades on a curve. The following is a simple guideline for understanding how your effort on the final project will reflect in your grade.
 
-- 상대평가
+- Grading Curve
   - _A: Customize (Content + Design)_
   - **B: Complete (including Practice Lab updates)**
   - C: Complete (_only_ code form the book / GitHub repo)
