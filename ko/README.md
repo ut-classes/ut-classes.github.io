@@ -208,7 +208,7 @@ The primary text is:
 
 # Detailed Course Schedule / 세부 과정 일정
 
-#### 1. Overview and introduction to class
+#### 1. Overview and introduction to class / 오리엔테이션 및 수업 소개
 
 - \*0. 수업, 책, 강사 소개
 - \*1. 웹 프로그래밍 복습
@@ -216,7 +216,7 @@ The primary text is:
 
 우리는 이 세션을 통해 학생들이 수업에 가져오는 관심사와 경험의 범위를 파악하고 다룰 주제를 조사할 것입니다. 우리는 수업 목표, 채점, 교과서에 대해 논의하고 강사를 알게 될 것입니다. 또한 수업에서 사용할 기본 웹 프로그래밍 기술, git, GitHub 및 GitHub 강의실을 검토합니다.
 
-##### Resources
+##### Resources / 자원
 
 - Google Classroom (PPTs) ([오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg))
 - GitHub Classroom (과제) ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm))
@@ -225,15 +225,15 @@ The primary text is:
   <!-- - [스라이드 \*2: 깃과 깃허브](lecturenotes/) -->
   <!-- - [Lab 0 materials](https://lse-me314.github.io/assignment01/) -->
 
-##### Practice & Assignment
+##### Practice & Assignment / 과제
 
 <!---- * Lab 1 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment1_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment1_solution.html). ---->
 
-##### Required reading
+##### Required reading / 필수 읽기
 
 - [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/)
 
-##### Recommended reading
+##### Recommended reading / 추천 읽기
 
 - [How much JavaScript do you need to know to use NodeJS?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/)
 - [git - 간편 안내서](https://up1.github.io/git-guide/index.ko.html)
