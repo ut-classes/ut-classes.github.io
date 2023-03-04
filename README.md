@@ -1,7 +1,11 @@
-<p align="center">
-  <a href="https://ut-nodejs.github.io">🏠</a> | <a href="/about.html">About</a> |
-  <a href="/schedule.html">Schedule</a> | <a href="/slides.html">Slides</a> | <a href="/practice.html">Practice</a> | <a href="/project.html">Project</a> |
-  <a href="/tests.html">Tests</a> | <a href="/grading.html">Grading</a>
+<p id="menu-both" align="center">
+  <a href="https://ut-nodejs.github.io">🏠</a> |
+  <a href="/schedule.html">일정<span> / Schedule</span></a> |
+  <a href="/slides.html">스라이드<span> / Slides</span></a> |
+  <a href="/practice.html">과제<span> / Practice</span></a> |
+  <a href="/project.html">프로젝트<span> / Project</span></a> |
+  <a href="/tests.html">고사<span> / Tests</span></a> |
+  <a href="/grading.html">성적<span> / Grading</span></a>
 </p>
 
 ---
