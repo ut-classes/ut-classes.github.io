@@ -1,12 +1,13 @@
 <p id="menu" align="center">
-  <a href="https://ut-nodejs.github.io" title="Home">🏠</a> |
+  <a href="https://ut-nodejs.github.io" title="Home"><u>[🏠]</u></a> |
   <a href="about.html" title="About">소개</a> |
   <a href="/schedule.html" title="Schedule">일정</a> |
   <a href="/slides" title="Slides">스라이드</a> |
   <a href="/practice" title="Practice">과제</a> |
   <a href="/project.html" title="Project">프로젝트</a> |
-  <a href="/tests.html" title="Tests">고사</a> |
-  <a href="/grading.html" title="Grading">성적</a>
+  <a href="/tests.html" title="Tests">시험</a> |
+  <a href="/grading.html" title="Grading">성적</a> |
+  <a href="https://pollev.com/aarons007" title="PollEverywhere">설문↗️</a>
 </p>
 
 ---
@@ -51,6 +52,7 @@ This repository contains the course materials for the [Computer Science](https:/
 The software we will be using is listed below. 수업에서 사용할 소프트웨어가 다음과 같다.
 
 - [Node.JS](https://nodejs.org/en/download/)
+- [npm](https://www.npmjs.com/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [git](https://git-scm.com/downloads)
 

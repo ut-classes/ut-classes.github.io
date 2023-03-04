@@ -1,59 +1,46 @@
 <p id="menu" align="center">
   <a href="https://ut-nodejs.github.io" title="Home">🏠</a> |
-  <a href="about.html" title="About">소개</a> |
-  <a href="/schedule.html" title="Schedule">일정</a> |
+  <a href="about.html" title="About">개요</a> |
+  <a href="/schedule.html" title="Schedule"><u>[일정]</u></a> |
   <a href="/slides" title="Slides">스라이드</a> |
   <a href="/practice" title="Practice">과제</a> |
   <a href="/project.html" title="Project">프로젝트</a> |
-  <a href="/tests.html" title="Tests">고사</a> |
-  <a href="/grading.html" title="Grading">성적</a>
+  <a href="/tests.html" title="Tests">시험</a> |
+  <a href="/grading.html" title="Grading">성적</a> |
+  <a href="https://pollev.com/aarons007" title="PollEverywhere">설문↗️</a>
 </p>
 
 ---
 
 # Web Programming Application 2023
 
-Korea National University of Transportation
+<p>한국교통대학교, 충주<small> | KNUT (Korea National University of Transportation)</small></p>
 
 ---
 
-## This Week 3.3.2023
+## This Week / 1주차 3월3일
 
-#### 1. Overview and introduction to class
+#### 1. Orientation and introduction to class / 오리엔테이션 및 수업 소개
 
-- \*0. Class, Book, Teacher Introduction
-- \*1. Web Programming Review
-- \*2. Git and GitHub Classroom Introduction (2nd Week)
+We will use this session to get to know the range of interests and experience students bring to the class, as well as to survey the topics to be covered. We will discuss class goals, grading, the textbook, and get to know the instructor.
 
-We will use this session to get to know the range of interests and experience students bring to the class, as well as to survey the topics to be covered. We will discuss class goals, grading, the textbook, and get to know the instructor. We will also review basic web programming skills, git, GitHub, and GitHub classroom that will be used in the class.
+우리는 이 세션을 통해 학생들이 수업에 가져오는 관심사와 경험의 범위를 파악하고 다룰 주제를 조사할 것입니다. 우리는 수업 목표, 채점, 교과서에 대해 논의하고 강사를 알게 될 것입니다.
 
-##### Resources
+##### Resources / 자원
 
 - Google Classroom (PPTs) ([오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg))
-- GitHub Classroom (과제) ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm))
-<!-- - [PPT \*0. Class, Book, Teacher Introduction](lecturenotes/)
+- [PPT \*0. Class, Book, Teacher Introduction / 수업 소개](https://ut-nodejs.github.io/slides/_0-NodeJS-수업-소개.pdf)
+
+<!-- - GitHub Classroom (과제) ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm))
+- [PPT \*0. Class, Book, Teacher Introduction](lecturenotes/)
 - [PPT \*1. Web Programming Review](lecturenotes/)
 - [PPT \*2. Git and GitHub Classroom Introduction](lecturenotes/)
 - [Lab 0 materials](https://lse-me314.github.io/assignment01/) -->
 
-##### Practice & Assignment
-
-<!---- - Lab 1 [start](/1-start) | [finish](/1-finish). ---->
-
-##### Required reading
+##### Recommended reading / 추천 독서
 
 - [git - 간편 안내서](https://up1.github.io/git-guide/index.ko.html)
 - [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/)
-
-##### Recommended reading
-
-- [How much JavaScript do you need to know to use NodeJS?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/)
-- [깃 브랜칭을 배워봅시다](https://learngitbranching.js.org/?locale=ko)
-- [JS Template Literals](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals)
-- [JS Classes](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
-- [JS Arrow Functions](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-- [JS Array forEach](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
-- [JS Strict Mode](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Strict_mode)
 
 ---
 
@@ -86,42 +73,26 @@ We will use this session to get to know the range of interests and experience st
 
 ---
 
-## Previous Weeks
+## Previous Weeks / 이전 주차
 
-#### 1. Overview and introduction to class
+#### 1. Orientation and introduction to class / 오리엔테이션 및 수업 소개
 
-- \*0. Class, Book, Teacher Introduction
-- \*1. Web Programming Review
-- \*2. Git and GitHub Classroom Introduction (2nd Week)
+We will use this session to get to know the range of interests and experience students bring to the class, as well as to survey the topics to be covered. We will discuss class goals, grading, the textbook, and get to know the instructor.
 
-We will use this session to get to know the range of interests and experience students bring to the class, as well as to survey the topics to be covered. We will discuss class goals, grading, the textbook, and get to know the instructor. We will also review basic web programming skills, git, GitHub, and GitHub classroom that will be used in the class.
+우리는 이 세션을 통해 학생들이 수업에 가져오는 관심사와 경험의 범위를 파악하고 다룰 주제를 조사할 것입니다. 우리는 수업 목표, 채점, 교과서에 대해 논의하고 강사를 알게 될 것입니다.
 
-##### Resources
+##### Resources / 자원
 
 - Google Classroom (PPTs) ([오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg))
-- GitHub Classroom (과제) ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm))
-<!-- - [PPT \*0. Class, Book, Teacher Introduction](lecturenotes/)
+- [PPT \*0. Class, Book, Teacher Introduction / 수업 소개](https://ut-nodejs.github.io/slides/_0-NodeJS-수업-소개.pdf)
+
+<!-- - GitHub Classroom (과제) ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm))
+- [PPT \*0. Class, Book, Teacher Introduction](lecturenotes/)
 - [PPT \*1. Web Programming Review](lecturenotes/)
 - [PPT \*2. Git and GitHub Classroom Introduction](lecturenotes/)
 - [Lab 0 materials](https://lse-me314.github.io/assignment01/) -->
 
-##### Practice & Assignment
-
-<!---- - Lab 1 [start](/1-start) | [finish](/1-finish). ---->
-
-##### Required reading
+##### Recommended reading / 추천 독서
 
 - [git - 간편 안내서](https://up1.github.io/git-guide/index.ko.html)
 - [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/)
-
-##### Recommended reading
-
-- [How much JavaScript do you need to know to use NodeJS?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/)
-- [깃 브랜칭을 배워봅시다](https://learngitbranching.js.org/?locale=ko)
-- [JS Template Literals](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals)
-- [JS Classes](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
-- [JS Arrow Functions](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-- [JS Array forEach](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
-- [JS Strict Mode](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Strict_mode)
-
----
