@@ -22,7 +22,7 @@ Korea National University of Transportation / 한국교통대학교, 충주
 | Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
 | GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
 
-This repository contains the course materials for the [Computer Science / 컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) course [Applied Web Programming / 웹프로그래밍응용](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
+This repository contains the course materials for the [Computer Science / 컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) course [Web Programming Application / 웹프로그래밍응용](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
 
 ---
 
