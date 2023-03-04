@@ -88,8 +88,6 @@ We will use this session to get to know the range of interests and experience st
 
 ## Previous Weeks
 
-<div style="background-color: rgba(255,255,255,0.2);">
-
 #### 1. Overview and introduction to class
 
 - \*0. Class, Book, Teacher Introduction
@@ -127,5 +125,3 @@ We will use this session to get to know the range of interests and experience st
 - [JS Strict Mode](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Strict_mode)
 
 ---
-
-</div>

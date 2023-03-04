@@ -13,7 +13,7 @@
 
 # Web Programming Application 2023
 
-Korea National University of Transportation
+<p>한국교통대학교, 충주<small>KNUT (Korea National University of Transportation)</small></p>
 
 ---
 
@@ -21,15 +21,56 @@ This repository contains the course materials for the [Computer Science / 컴퓨
 
 ![Aaron pic](https://avatars.githubusercontent.com/u/6644259?s=200&v=4)
 
-##### Instructor / 강사
+### Instructor / 강사
 
-- Aaron Snowberger ([aaron@ut.ac.kr](aaron@ut.ac.kr)), Graduate School of Information & Communications Engineering, Hanbat University
+- Aaron Snowberger ([aaron@g.ut.ac.kr](aaron@g.ut.ac.kr)), Graduate School of Information & Communications Engineering, Hanbat University
 - 에런 스노버거, 정보통신공학과, 한밭대학교
 
-##### Online Classroom / 온라인 클래스룸
+---
+
+### Online Classroom / 온라인 클래스룸
 
 | Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
 | GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
+
+##### Google Classroom
+
+- Which system? [@gmail.com](https://classroom.google.com) | [@a.ut.ac.kr](https://classroom.google.com)
+
+##### GitHub Classroom
+
+1. (Student) Join Google Classroom
+2. (Teacher) Link Google Classroom roster
+3. (Teacher) Distibute Assignment #1 with link
+4. (Teacher) Link accepted assignments / student IDs with GitHub accounts possessing that assignment
+5. (Together) Code in VS Code
+6. (Student) Commit & Push to Turn in
+
+---
+
+### Important Specifics
+
+##### Computer Software / 소프트웨어
+
+The software we will be using is listed below.
+
+- [Node.JS](https://nodejs.org/en/download/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [git](https://git-scm.com/downloads)
+
+##### Main Texts / 주제책
+
+The primary text is:
+
+![book-main](/img/gh-pages/book-main.jpg)
+
+- Wexler, Jonathan. (2019, 2020 번역) _Get Programming with Node.js_, Manning Publishing Company (에이콘출판사 번역). [Yes24 link](http://www.yes24.com/Product/Goods/86429845).
+
+The following is a supplemental text which you may also find useful:
+
+![book-extra](/img/gh-pages/book-extra.jpg)
+
+- Jo, Hyunyoung. (2022). _Node.js 교과서, 3rd edition_. Gilbert. [Yes24 link](http://www.yes24.com/Product/Goods/116192535)
 
 ---
 
@@ -62,30 +103,6 @@ This repository contains the course materials for the [Computer Science / 컴퓨
 
 ---
 
-### Important Specifics
-
-#### Computer Software
-
-The software we will be using is listed below.
-
-- [Node.JS](https://nodejs.org/en/download/)
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [git](https://git-scm.com/downloads)
-
-#### Main Texts
-
-The primary text is:
-
-![book-main](/img/gh-pages/book-main.jpg)
-
-- Wexler, Jonathan. (2019, 2020 번역) _Get Programming with Node.js_, Manning Publishing Company (에이콘출판사 번역). [Yes24 link](http://www.yes24.com/Product/Goods/86429845).
-
-The following is a supplemental text which you may also find useful:
-
-![book-extra](/img/gh-pages/book-extra.jpg)
-
-- Jo, Hyunyoung. (2022). _Node.js 교과서, 3rd edition_. Gilbert. [Yes24 link](http://www.yes24.com/Product/Goods/116192535)
-
-### Instructor
+### About Aaron / 강사 소개
 
 **Aaron Snowberger** is a PhD candidate in the Graduate School of Information and Communications Engineering, majoring in Information and Communications Engineering, at Hanbat National University, Korea. He received his B.S degree in Computer Science from the College of Engineering, University of Wyoming, USA in 2006 and his M.FA degree in Media Design from Full Sail University, USA in 2011. From 2010 to present, he is a professor of English Conversation at Jeonju University, Korea. His research interests include computer vision, natural language processing, image processing, signal processing, and machine learning.
