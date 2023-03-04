@@ -1,18 +1,18 @@
-<p id="menu-both" align="center">
-  <a href="https://ut-nodejs.github.io">🏠</a> |
-  <a href="/schedule.html">일정<span> / Schedule</span></a> |
-  <a href="/slides.html">스라이드<span> / Slides</span></a> |
-  <a href="/practice.html">과제<span> / Practice</span></a> |
-  <a href="/project.html">프로젝트<span> / Project</span></a> |
-  <a href="/tests.html">고사<span> / Tests</span></a> |
-  <a href="/grading.html">성적<span> / Grading</span></a>
+<p id="menu" align="center">
+  <a href="https://ut-nodejs.github.io" title="Home">🏠</a> |
+  <a href="/schedule.html" title="Schedule">일정</a> |
+  <a href="/slides.html" title="Slides">스라이드</a> |
+  <a href="/practice.html" title="Practice">과제</a> |
+  <a href="/project.html" title="Project">프로젝트</a> |
+  <a href="/tests.html" title="Tests">고사</a> |
+  <a href="/grading.html" title="Grading">성적</a>
 </p>
 
 ---
 
 # Web Programming Application 2023
 
-Korea National University of Transportation / 한국교통대학교, 충주
+Korea National University of Transportation
 
 ---
 
