@@ -26,18 +26,16 @@ This repository contains the course materials for the [Computer Science](https:/
 - Aaron Snowberger ([aaron@g.ut.ac.kr](aaron@g.ut.ac.kr)), Graduate School of Information & Communications Engineering, Hanbat University
 - 에런 스노버거, 정보통신공학과, 한밭대학교
 
----
-
-### Online Classroom / 온라인 클래스룸
+## Online Classroom / 온라인 클래스룸
 
 | Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
 | GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
 
-##### Google Classroom / 구글 클래스룸
+### Google Classroom / 구글 클래스룸
 
 - Which system? 에떤 시스템? [@gmail.com](https://classroom.google.com) | [@a.ut.ac.kr](https://classroom.google.com)
 
-##### GitHub Classroom / 깃허브 클래스룸
+### GitHub Classroom / 깃허브 클래스룸
 
 1. (학생) 구글 클래스룸 신청 / Join Google Classroom
 2. (교사) 링크 구글 클래스룸 출석부 / Link Google Classroom roster
@@ -46,11 +44,9 @@ This repository contains the course materials for the [Computer Science](https:/
 5. (같이) 코딩 합습 / Code in VS Code
 6. (학생) 제출하면 깃 커밋과 푸시 / Commit & Push to Turn in
 
----
+## Important Specifics / 중요한 세부 사항
 
-### Important Specifics / 중요한 세부 사항
-
-##### Computer Software / 소프트웨어
+### Computer Software / 소프트웨어
 
 The software we will be using is listed below. 수업에서 사용할 소프트웨어가 다음과 같다.
 
@@ -58,7 +54,7 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [git](https://git-scm.com/downloads)
 
-##### Main Texts / 주제책
+### Main Texts / 주제책
 
 | Textbook                                                                              | Supplementary book                                                                    |
 | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------ |
@@ -67,21 +63,7 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 | [_Get Programming with Node.js_ (Yes24)](http://www.yes24.com/Product/Goods/86429845) | [_Node.js 교과서, 3rd edition_ (Yes24)](http://www.yes24.com/Product/Goods/116192535) |
 | Manning Publishing Company (에이콘출판사 번역).                                       | Gilbert                                                                               |
 
-<!-- The primary text is (주제책은):
-
-![book-main](/img/gh-pages/book-main.jpg)
-
-- Wexler, Jonathan. (2019, 2020 번역) [_Get Programming with Node.js_ (Yes24)](http://www.yes24.com/Product/Goods/86429845), Manning Publishing Company (에이콘출판사 번역).
-
-The following is a supplemental text which you may also find useful (첨고책은):
-
-![book-extra](/img/gh-pages/book-extra.jpg)
-
-- Jo, Hyunyoung. (2022). [_Node.js 교과서, 3rd edition_ (Yes24)](http://www.yes24.com/Product/Goods/116192535). Gilbert. -->
-
----
-
-### Course Topics / 과정 화제
+## Course Topics / 과정 화제
 
 | Day | Date    | Unit | Topic                                                                           | 화제                                                                     |
 | :-: | :------ | :--: | :------------------------------------------------------------------------------ | :----------------------------------------------------------------------- |
@@ -108,8 +90,6 @@ The following is a supplemental text which you may also find useful (첨고책�
 | 18  | 6월30일 | --   | [Grading Period](/en/#grading)                                                  | [성적 처리 기간]()            |
 ---->
 
----
-
-### About Aaron / 교사 소개
+## About Aaron / 교사 소개
 
 **Aaron Snowberger** is a PhD candidate in the Graduate School of Information and Communications Engineering, majoring in Information and Communications Engineering, at Hanbat National University, Korea. He received his B.S degree in Computer Science from the College of Engineering, University of Wyoming, USA in 2006 and his M.FA degree in Media Design from Full Sail University, USA in 2011. From 2010 to present, he is a professor of English Conversation at Jeonju University, Korea. His research interests include computer vision, natural language processing, image processing, signal processing, and machine learning.
