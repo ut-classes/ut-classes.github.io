@@ -46,24 +46,24 @@ We will use this session to get to know the range of interests and experience st
 
 ## Course Topics / 과정 화제
 
-| Day | Date    | Unit | Topic                                                                           | 화제                                                                     |
-| :-: | :------ | :--: | :------------------------------------------------------------------------------ | :----------------------------------------------------------------------- |
-|  1  | 3월3일  |  --  | [Overview and introduction to class](/en/#1-overview-and-introduction-to-class) | [수업 소개](/ko/#1-overview-and-introduction-to-class)                   |
-|  2  | 3월10일 |  0   | [Starting Node and GitHub Classroom](/en/#2-starting-node-and-github-classroom) | [노드 시작과 깃허브 클래스룸](/ko/#2-starting-node-and-github-classroom) |
-|  3  | 3월17일 |  1   | [Node Webservers and Routes](/en/#3-node-webservers-and-routes)                 | [노드 웹서버와 라우팅](/ko/#3-node-webservers-and-routes)                |
-|  4  | 3월24일 |  2   | [Routing in Express.js](/en/#4-routing-in-expressjs)                            | [Express.js 라우팅](/ko/#4-routing-in-expressjs)                         |
-|  5  | 3월31일 |  2   | [Project Start](/en/#5-project-start)                                           | [프로젝트 시작](/ko/#5-project-start)                                    |
-|  6  | 4월7일  |  3   | [Connecting to MongoDB](/en/#6-connecting-to-mongodb)                           | [MongoDB 연결](/ko/#6-connecting-to-mongodb)                             |
-|  7  | 4월14일 |  4   | [User Data Models](/en/#7-user-data-models)                                     | [사용자 데이터 모델](/ko/#7-user-data-models)                            |
-|  8  | 4월21일 |  --  | [Midterm Exam / Project](/en/#midterm-exam)                                     | [중간고사](/ko/#midterm-exam)                                            |
-|  9  | 4월28일 |  4   | [CRUD (Create, Read, Update, Delete)](/en/#8-crud-create-read-update-delete)    | [CRUD](/ko/#8-crud-create-read-update-delete)                            |
-| 10  | 5월5일  |  --  | HOLIDAY: Children's Day                                                         | 공휴일: 어린이날                                                         |
-| 11  | 5월12일 |  5   | [User Authentication](/en/#9-user-authentication)                               | [사용자 인증](/ko/#9-user-authentication)                                |
-| 12  | 5월19일 |  6   | [Adding an API](/en/#10-adding-an-api)                                          | [API 추가](/ko/#10-adding-an-api)                                        |
-| 13  | 5월26일 |  7   | [Adding Chat Functionality](/en/#11-adding-chat-functionality)                  | [채팅 추가](/ko/#11-adding-chat-functionality)                           |
-| 14  | 6월2일  |  8   | [Deploying to Production](/en/#12-deploying-to-production)                      | [프로덕션](/ko/#12-deploying-to-production)                              |
-| 15  | 6월9일  | A,B  | [Supplementary Topics / Personal Projects](/en/#13-supplementary-topics)        | [개인 프로젝트](/ko/#13-supplementary-topics)                            |
-| 16  | 6월16일 |  --  | [Final Exam](/en/#final-exam)                                                   | [기말고사](/ko/#final-exam)                                              |
+| Week | Date    | Unit | Topic                                                                | 화제                                                   |
+| :--: | :------ | :--: | :------------------------------------------------------------------- | :----------------------------------------------------- |
+|  1   | 3월3일  |  --  | [Overview and introduction to class](/#week-1--1주차-3월3일)         | [수업 소개](/#week-1--1주차-3월3일)                    |
+|  2   | 3월10일 |  0   | [Starting Node and GitHub Classroom](/#week-2--2주차-3월10일)        | [노드 시작과 깃허브 클래스룸](/#week-2--2주차-3월10일) |
+|  3   | 3월17일 |  1   | [Node Webservers and Routes](/#week-3--3주차-3월17일)                | [노드 웹서버와 라우팅](/#week-3--3주차-3월17일)        |
+|  4   | 3월24일 |  2   | [Routing in Express.js](/#week-4--4주차-3월24일)                     | [Express.js 라우팅](/#week-4--4주차-3월24일)           |
+|  5   | 3월31일 |  2   | [Project Start](/#week-5--5주차-3월31일)                             | [프로젝트 시작](/#week-5--5주차-3월31일)               |
+|  6   | 4월7일  |  3   | [Connecting to MongoDB](/#week-6--6주차-4월7일)                      | [MongoDB 연결](/#week-6--6주차-4월7일)                 |
+|  7   | 4월14일 |  4   | [User Data Models](/#week-7--7주차-4월14일)                          | [사용자 데이터 모델](/#week-7--7주차-4월14일)          |
+|  8   | 4월21일 |  --  | [Midterm Exam / Project](/#week-8--8주차-4월21일)                    | [중간고사](/#week-8--8주차-4월21일)                    |
+|  9   | 4월28일 |  4   | [CRUD (Create, Read, Update, Delete)](/#week-9--9주차-4월28일)       | [CRUD](/#week-9--9주차-4월28일)                        |
+|  --  | 5월5일  |  --  | HOLIDAY: Children's Day                                              | 공휴일: 어린이날                                       |
+|  10  | 5월12일 |  5   | [User Authentication](/#week-10--10주차-5월12일)                     | [사용자 인증](/#week-10--10주차-5월12일)               |
+|  11  | 5월19일 |  6   | [Adding an API](/#week-11--11주차-5월19일)                           | [API 추가](/#week-11--11주차-5월19일)                  |
+|  12  | 5월26일 |  7   | [Adding Chat Functionality](/#week-12--12주차-5월26일)               | [채팅 추가](/#week-12--12주차-5월26일)                 |
+|  13  | 6월2일  |  8   | [Deploying to Production](/#week-13--13주차-6월2일)                  | [프로덕션](/#week-13--13주차-6월2일)                   |
+|  14  | 6월9일  | A,B  | [Supplementary Topics / Personal Projects](/#week-14--14주차-6월9일) | [개인 프로젝트](/#week-14--14주차-6월9일)              |
+|  15  | 6월16일 |  --  | [Final Exam](/#week-15--15주차-6월16일)                              | [기말고사](/#week-15--15주차-6월16일)                  |
 
 <!----
 | 16  | 6월16일 | --   | [Personal Projects](/en/#14-personal-projects)                                  | [개인 프로젝트]()             |
@@ -74,6 +74,8 @@ We will use this session to get to know the range of interests and experience st
 ---
 
 ## Previous Weeks / 이전 주차
+
+### Week 1 / 1주차 3월3일
 
 #### 1. Orientation and introduction to class / 오리엔테이션 및 수업 소개
 
