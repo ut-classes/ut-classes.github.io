@@ -60,10 +60,12 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 
 ##### Main Texts / 주제책
 
-| Textbook                                                                                                                                                                   | Supplementary book                                                                                                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| ![book-main](/img/gh-pages/book-main.jpg)                                                                                                                                  | ![book-extra](/img/gh-pages/book-extra.jpg)                                                                            |
-| Wexler, Jonathan. (2019, 2020 번역) [_Get Programming with Node.js_ (Yes24)](http://www.yes24.com/Product/Goods/86429845), Manning Publishing Company (에이콘출판사 번역). | Jo, Hyunyoung. (2022). [_Node.js 교과서, 3rd edition_ (Yes24)](http://www.yes24.com/Product/Goods/116192535). Gilbert. |
+| Textbook                                                                              | Supplementary book                                                                    |
+| :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------ |
+| ![book-main](/img/gh-pages/book-main.jpg)                                             | ![book-extra](/img/gh-pages/book-extra.jpg)                                           |
+| Wexler, Jonathan. (2019, 2020 번역)                                                   | Jo, Hyunyoung. (2022)                                                                 |
+| [_Get Programming with Node.js_ (Yes24)](http://www.yes24.com/Product/Goods/86429845) | [_Node.js 교과서, 3rd edition_ (Yes24)](http://www.yes24.com/Product/Goods/116192535) |
+| Manning Publishing Company (에이콘출판사 번역).                                       | Gilbert                                                                               |
 
 <!-- The primary text is (주제책은):
 
@@ -91,7 +93,7 @@ The following is a supplemental text which you may also find useful (첨고책�
 |  6  | 4월7일  |  3   | [Connecting to MongoDB](/en/#6-connecting-to-mongodb)                           | [MongoDB 연결](/ko/#6-connecting-to-mongodb)                             |
 |  7  | 4월14일 |  4   | [User Data Models](/en/#7-user-data-models)                                     | [사용자 데이터 모델](/ko/#7-user-data-models)                            |
 |  8  | 4월21일 |  --  | [Midterm Exam / Project](/en/#midterm-exam)                                     | [중간고사](/ko/#midterm-exam)                                            |
-|  9  | 4월28일 |  4   | [CRUD (Create, Read, Update, Delete)](/en/#8-crud-create-read-update-delete)    | [CRUD](/ko/#8-crud-create-read-update-delete)                            |
+|  9  | 4월28일 |  4   | [CRUD (Create, Read, Update, Delete)](/en/#8-crud-create-read-update-delete)    | [CRUD (생성, 조회, 수정, 삭제)](/ko/#8-crud-create-read-update-delete)   |
 | 10  | 5월5일  |  --  | HOLIDAY: Children's Day                                                         | 공휴일: 어린이날                                                         |
 | 11  | 5월12일 |  5   | [User Authentication](/en/#9-user-authentication)                               | [사용자 인증](/ko/#9-user-authentication)                                |
 | 12  | 5월19일 |  6   | [Adding an API](/en/#10-adding-an-api)                                          | [API 추가](/ko/#10-adding-an-api)                                        |
