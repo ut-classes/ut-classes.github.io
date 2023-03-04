@@ -17,8 +17,7 @@
 
 ---
 
-This repository contains the course materials for the [Computer Science / 컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) course [Web Programming Application / 웹프로그래밍응용](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
-이 저장소는 [컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) 과정 [웹프로그래밍응용](https://ut-nodejs.github.io)은 에런 스노버거가 2023년 봄에 가르쳤다.
+This repository contains the course materials for the [Computer Science](https://www.ut.ac.kr/ceit/sub02_00.do) course [Web Programming Application](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger. 이 저장소는 [컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) 과정 [웹프로그래밍응용](https://ut-nodejs.github.io)은 에런 스노버거가 2023년 봄에 가르쳤다.
 
 ![Aaron pic](https://avatars.githubusercontent.com/u/6644259?s=200&v=4)
 
@@ -42,7 +41,7 @@ This repository contains the course materials for the [Computer Science / 컴퓨
 
 1. (학생) 구글 클래스룸 신청 / Join Google Classroom
 2. (교사) 링크 구글 클래스룸 출석부 / Link Google Classroom roster
-3. (교사) 과제1 보내 / Distibute Assignment #1 with link
+3. (교사) 과제1 보내 / Distribute Assignment #1 with link
 4. (교사) 과제1 받은 학생의 계정이 깃허브 클래스룸과 링크 / Link accepted assignments with GitHub accounts possessing that assignment
 5. (같이) 코딩 합습 / Code in VS Code
 6. (학생) 제출하면 깃 커밋과 푸시 / Commit & Push to Turn in
@@ -61,7 +60,12 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 
 ##### Main Texts / 주제책
 
-The primary text is (주제책은):
+| Textbook                                                                                                                                                                   | Supplementary book                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| ![book-main](/img/gh-pages/book-main.jpg)                                                                                                                                  | ![book-extra](/img/gh-pages/book-extra.jpg)                                                                            |
+| Wexler, Jonathan. (2019, 2020 번역) [_Get Programming with Node.js_ (Yes24)](http://www.yes24.com/Product/Goods/86429845), Manning Publishing Company (에이콘출판사 번역). | Jo, Hyunyoung. (2022). [_Node.js 교과서, 3rd edition_ (Yes24)](http://www.yes24.com/Product/Goods/116192535). Gilbert. |
+
+<!-- The primary text is (주제책은):
 
 ![book-main](/img/gh-pages/book-main.jpg)
 
@@ -71,7 +75,7 @@ The following is a supplemental text which you may also find useful (첨고책�
 
 ![book-extra](/img/gh-pages/book-extra.jpg)
 
-- Jo, Hyunyoung. (2022). [_Node.js 교과서, 3rd edition_ (Yes24)](http://www.yes24.com/Product/Goods/116192535). Gilbert.
+- Jo, Hyunyoung. (2022). [_Node.js 교과서, 3rd edition_ (Yes24)](http://www.yes24.com/Product/Goods/116192535). Gilbert. -->
 
 ---
 
@@ -104,6 +108,6 @@ The following is a supplemental text which you may also find useful (첨고책�
 
 ---
 
-### About Aaron / 강사 소개
+### About Aaron / 교사 소개
 
 **Aaron Snowberger** is a PhD candidate in the Graduate School of Information and Communications Engineering, majoring in Information and Communications Engineering, at Hanbat National University, Korea. He received his B.S degree in Computer Science from the College of Engineering, University of Wyoming, USA in 2006 and his M.FA degree in Media Design from Full Sail University, USA in 2011. From 2010 to present, he is a professor of English Conversation at Jeonju University, Korea. His research interests include computer vision, natural language processing, image processing, signal processing, and machine learning.
