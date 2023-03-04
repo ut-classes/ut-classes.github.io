@@ -46,24 +46,24 @@ We will use this session to get to know the range of interests and experience st
 
 ## Course Topics / 과정 화제
 
-| Week | Date    | Unit | Topic                                                                | 화제                                                   |
-| :--: | :------ | :--: | :------------------------------------------------------------------- | :----------------------------------------------------- |
-|  1   | 3월3일  |  --  | [Overview and introduction to class](/#week-1--1주차-3월3일)         | [수업 소개](/#week-1--1주차-3월3일)                    |
-|  2   | 3월10일 |  0   | [Starting Node and GitHub Classroom](/#week-2--2주차-3월10일)        | [노드 시작과 깃허브 클래스룸](/#week-2--2주차-3월10일) |
-|  3   | 3월17일 |  1   | [Node Webservers and Routes](/#week-3--3주차-3월17일)                | [노드 웹서버와 라우팅](/#week-3--3주차-3월17일)        |
-|  4   | 3월24일 |  2   | [Routing in Express.js](/#week-4--4주차-3월24일)                     | [Express.js 라우팅](/#week-4--4주차-3월24일)           |
-|  5   | 3월31일 |  2   | [Project Start](/#week-5--5주차-3월31일)                             | [프로젝트 시작](/#week-5--5주차-3월31일)               |
-|  6   | 4월7일  |  3   | [Connecting to MongoDB](/#week-6--6주차-4월7일)                      | [MongoDB 연결](/#week-6--6주차-4월7일)                 |
-|  7   | 4월14일 |  4   | [User Data Models](/#week-7--7주차-4월14일)                          | [사용자 데이터 모델](/#week-7--7주차-4월14일)          |
-|  8   | 4월21일 |  --  | [Midterm Exam / Project](/#week-8--8주차-4월21일)                    | [중간고사](/#week-8--8주차-4월21일)                    |
-|  9   | 4월28일 |  4   | [CRUD (Create, Read, Update, Delete)](/#week-9--9주차-4월28일)       | [CRUD](/#week-9--9주차-4월28일)                        |
-|  --  | 5월5일  |  --  | HOLIDAY: Children's Day                                              | 공휴일: 어린이날                                       |
-|  10  | 5월12일 |  5   | [User Authentication](/#week-10--10주차-5월12일)                     | [사용자 인증](/#week-10--10주차-5월12일)               |
-|  11  | 5월19일 |  6   | [Adding an API](/#week-11--11주차-5월19일)                           | [API 추가](/#week-11--11주차-5월19일)                  |
-|  12  | 5월26일 |  7   | [Adding Chat Functionality](/#week-12--12주차-5월26일)               | [채팅 추가](/#week-12--12주차-5월26일)                 |
-|  13  | 6월2일  |  8   | [Deploying to Production](/#week-13--13주차-6월2일)                  | [프로덕션](/#week-13--13주차-6월2일)                   |
-|  14  | 6월9일  | A,B  | [Supplementary Topics / Personal Projects](/#week-14--14주차-6월9일) | [개인 프로젝트](/#week-14--14주차-6월9일)              |
-|  15  | 6월16일 |  --  | [Final Exam](/#week-15--15주차-6월16일)                              | [기말고사](/#week-15--15주차-6월16일)                  |
+| Week | Date    | Unit | Topic                                                                             | 화제                                                                  |
+| :--: | :------ | :--: | :-------------------------------------------------------------------------------- | :-------------------------------------------------------------------- |
+|  1   | 3월3일  |  --  | [Overview and introduction to class](/schedule.html#week-1--1주차-3월3일)         | [수업 소개](/schedule.html#week-1--1주차-3월3일)                      |
+|  2   | 3월10일 |  0   | [Starting Node and GitHub Classroom](/schedule.html#week-2--2주차-3월10일)        | [노드 시작과 깃허브 클래스룸](/schedule.html#week-2--2주차-3월10일)   |
+|  3   | 3월17일 |  1   | [Node Webservers and Routes](/schedule.html#week-3--3주차-3월17일)                | [노드 웹서버와 라우팅](/schedule.html#week-3--3주차-3월17일)          |
+|  4   | 3월24일 |  2   | [Routing in Express.js](/schedule.html#week-4--4주차-3월24일)                     | [Express.js 라우팅](/schedule.html#week-4--4주차-3월24일)             |
+|  5   | 3월31일 |  2   | [Project Start](/schedule.html#week-5--5주차-3월31일)                             | [프로젝트 시작](/schedule.html#week-5--5주차-3월31일)                 |
+|  6   | 4월7일  |  3   | [Connecting to MongoDB](/schedule.html#week-6--6주차-4월7일)                      | [MongoDB 연결](/schedule.html#week-6--6주차-4월7일)                   |
+|  7   | 4월14일 |  4   | [User Data Models](/schedule.html#week-7--7주차-4월14일)                          | [사용자 데이터 모델](/schedule.html#week-7--7주차-4월14일)            |
+|  8   | 4월21일 |  --  | [Midterm Exam / Project](/schedule.html#week-8--8주차-4월21일)                    | [중간고사](/schedule.html#week-8--8주차-4월21일)                      |
+|  9   | 4월28일 |  4   | [CRUD (Create, Read, Update, Delete)](/schedule.html#week-9--9주차-4월28일)       | [CRUD (생성, 조회, 수정, 삭제)](/schedule.html#week-9--9주차-4월28일) |
+|  --  | 5월5일  |  --  | HOLIDAY: Children's Day                                                           | 공휴일: 어린이날                                                      |
+|  10  | 5월12일 |  5   | [User Authentication](/schedule.html#week-10--10주차-5월12일)                     | [사용자 인증](/schedule.html#week-10--10주차-5월12일)                 |
+|  11  | 5월19일 |  6   | [Adding an API](/schedule.html#week-11--11주차-5월19일)                           | [API 추가](/schedule.html#week-11--11주차-5월19일)                    |
+|  12  | 5월26일 |  7   | [Adding Chat Functionality](/schedule.html#week-12--12주차-5월26일)               | [채팅 추가](/schedule.html#week-12--12주차-5월26일)                   |
+|  13  | 6월2일  |  8   | [Deploying to Production](/schedule.html#week-13--13주차-6월2일)                  | [프로덕션](/schedule.html#week-13--13주차-6월2일)                     |
+|  14  | 6월9일  | A,B  | [Supplementary Topics / Personal Projects](/schedule.html#week-14--14주차-6월9일) | [개인 프로젝트](/schedule.html#week-14--14주차-6월9일)                |
+|  15  | 6월16일 |  --  | [Final Exam](/schedule.html#week-15--15주차-6월16일)                              | [기말고사](/schedule.html#week-15--15주차-6월16일)                    |
 
 <!----
 | 16  | 6월16일 | --   | [Personal Projects](/en/#14-personal-projects)                                  | [개인 프로젝트]()             |
