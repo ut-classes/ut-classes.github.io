@@ -13,11 +13,12 @@
 
 # Web Programming Application 2023
 
-<p>한국교통대학교, 충주<small>KNUT (Korea National University of Transportation)</small></p>
+<p>한국교통대학교, 충주<small> | KNUT (Korea National University of Transportation)</small></p>
 
 ---
 
 This repository contains the course materials for the [Computer Science / 컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) course [Web Programming Application / 웹프로그래밍응용](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
+이 저장소는 [컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) 과정 [웹프로그래밍응용](https://ut-nodejs.github.io)은 에런 스노버거가 2023년 봄에 가르쳤다.
 
 ![Aaron pic](https://avatars.githubusercontent.com/u/6644259?s=200&v=4)
 
@@ -33,26 +34,26 @@ This repository contains the course materials for the [Computer Science / 컴퓨
 | Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
 | GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
 
-##### Google Classroom
+##### Google Classroom / 구글 클래스룸
 
-- Which system? [@gmail.com](https://classroom.google.com) | [@a.ut.ac.kr](https://classroom.google.com)
+- Which system? 에떤 시스템? [@gmail.com](https://classroom.google.com) | [@a.ut.ac.kr](https://classroom.google.com)
 
-##### GitHub Classroom
+##### GitHub Classroom / 깃허브 클래스룸
 
-1. (Student) Join Google Classroom
-2. (Teacher) Link Google Classroom roster
-3. (Teacher) Distibute Assignment #1 with link
-4. (Teacher) Link accepted assignments / student IDs with GitHub accounts possessing that assignment
-5. (Together) Code in VS Code
-6. (Student) Commit & Push to Turn in
+1. (학생) 구글 클래스룸 신청 / Join Google Classroom
+2. (교사) 링크 구글 클래스룸 출석부 / Link Google Classroom roster
+3. (교사) 과제1 보내 / Distibute Assignment #1 with link
+4. (교사) 과제1 받은 학생의 계정이 깃허브 클래스룸과 링크 / Link accepted assignments with GitHub accounts possessing that assignment
+5. (같이) 코딩 합습 / Code in VS Code
+6. (학생) 제출하면 깃 커밋과 푸시 / Commit & Push to Turn in
 
 ---
 
-### Important Specifics
+### Important Specifics / 중요한 세부 사항
 
 ##### Computer Software / 소프트웨어
 
-The software we will be using is listed below.
+The software we will be using is listed below. 수업에서 사용할 소프트웨어가 다음과 같다.
 
 - [Node.JS](https://nodejs.org/en/download/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
@@ -60,17 +61,17 @@ The software we will be using is listed below.
 
 ##### Main Texts / 주제책
 
-The primary text is:
+The primary text is (주제책은):
 
 ![book-main](/img/gh-pages/book-main.jpg)
 
-- Wexler, Jonathan. (2019, 2020 번역) _Get Programming with Node.js_, Manning Publishing Company (에이콘출판사 번역). [Yes24 link](http://www.yes24.com/Product/Goods/86429845).
+- Wexler, Jonathan. (2019, 2020 번역) [_Get Programming with Node.js_ (Yes24)](http://www.yes24.com/Product/Goods/86429845), Manning Publishing Company (에이콘출판사 번역).
 
-The following is a supplemental text which you may also find useful:
+The following is a supplemental text which you may also find useful (첨고책은):
 
 ![book-extra](/img/gh-pages/book-extra.jpg)
 
-- Jo, Hyunyoung. (2022). _Node.js 교과서, 3rd edition_. Gilbert. [Yes24 link](http://www.yes24.com/Product/Goods/116192535)
+- Jo, Hyunyoung. (2022). [_Node.js 교과서, 3rd edition_ (Yes24)](http://www.yes24.com/Product/Goods/116192535). Gilbert.
 
 ---
 
