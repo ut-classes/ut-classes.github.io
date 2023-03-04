@@ -19,6 +19,14 @@
 | Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg) |
 | GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm) |
 
+##### 중요한 링크
+
+- [PollEverywhere](https://pollev.com/aarons007)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [VS Code](https://code.visualstudio.com/)
+- [git](https://git-scm.com/)
+
 이 저장소는 [컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) 과정 [웹프로그래밍응용](https://ut-nodejs.github.io)은 에런 스노버거가 2023년 봄에 가르쳤다.
 
 ### 과정 화제
@@ -123,85 +131,6 @@ The primary text is:
 ### Instructor / 강사
 
 **Aaron Snowberger** is a PhD candidate in the Graduate School of Information and Communications Engineering, majoring in Information and Communications Engineering, at Hanbat National University, Korea. He received his B.S degree in Computer Science from the College of Engineering, University of Wyoming, USA in 2006 and his M.FA degree in Media Design from Full Sail University, USA in 2011. From 2010 to present, he is a professor of English Conversation at Jeonju University, Korea. His research interests include computer vision, natural language processing, image processing, signal processing, and machine learning.
-
-### Grading / 성적 {#grading}
-
-성적은 5가지 주요 구성 요소로 나뉩니다:
-
-| %   | 부분          | 세부                                           |
-| --- | ------------- | ---------------------------------------------- |
-| 10% | 출석          |                                                |
-| 30% | 과제          | 수업시간에 학습한 것을 GitHub Classroom에 저장 |
-| 15% | 중간고사      | 쪽지시험 + 실기 프로젝트                       |
-| 20% | 기말고사      | 쪽지시험 + 실기 프로젝트                       |
-| 25% | 개인 프로젝트 | 책의 프로젝트와 추가 기능                      |
-
-성적은 상대평가다. 다음은 최종 프로젝트에 대한 당신의 노력이 당신의 성적에 어떻게 반영될 것인지를 이해하기 위한 간단한 지침이다.
-
-- 상대평가
-  - _A: 커스터마이즈(콘텐츠 + 디자인)_
-  - **B: 완료(과제 업데이트 포함)**
-  - C: 완료(책/GitHub 저장소의*만* 코드)
-  - D: 불완전하거나 깨짐
-  - F: 아주 최소한의 노력 및/또는 부재
-
-#### 1. Attendance / 출석(태도와 포함) (10%) {#grading-attendance}
-
-본교의 출석요강은 다음과 같습니다.
-
-- 지각 3회 = 결석 1회
-- 결석 20% 초과 = F
-
-학생이 COVID-19 격리, 학교 행사 등과 같이 결석할 타당한 사유가 있는 경우 완료할 자율 학습 과제가 주어질 수 있습니다.
-
-참여는 여러 면에서 출석과 함께 따라옵니다. 개별 참여 포인트가 매일 기록되지는 않지만(학생이 너무 많음) 학기 동안 학생의 개별 행동 및 습관이 고려됩니다. 예를 들어, 항상 늦거나, 항상 자거나, 항상 수업 시간에 말하거나, 항상 제 시간에 숙제를 제출하는 학생은 그들의 행동에 따라 점수를 받게 됩니다.
-
-참여 포인트를 얻거나 잃는 방법은 다음과 같습니다.
-
-- 획득 포인트
-  - 정시에 수업 연습에 참여
-  - 모든 숙제 완료
-  - 다른 학생들을 도와주세요
-- 포인트를 잃다
-  - 자주 지각하거나 결석한다
-  - 전화를 사용하거나 컴퓨터 작업을 자주 중단
-  - 숙제를 미제출하거나 실험실 연습에 참여하지 않다
-  - 교사나 다른 학생에게 무질서하거나 무례한 행동
-
-#### 2. Daily Lab Exercises / 과제 (30%) {#grading-practice}
-
-이들은 {완성, 반완성, 미완성} 척도로 등급이 매겨지며 매일의 실습을 위한 실용적인 자료를 형성합니다. 매일의 운동에 액세스하고 작업하는 방법은 ==upcoming== 지침을 참조하십시오.
-
-<!---- See [https://ut-nodejs.github.io/instructions](https://ut-nodejs.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials. ---->
-
-#### Midterm Exam / 중간고사 (15%) {#grading-midterm-exam}
-
-중간고사에 CRUD 또는 사용자 데이터 모델 할당이 사용될 수 있습니다. 중간고사는 7일차(4월14일) 강의 후 공개되며, 마감일은 9일차(4월28일) 밤 11시 59분입니다. <!--- The [midterm is available here](https://ut-nodejs.github.io/midterm-2023/).--->
-
-#### Final Exam / 기말고사 (20%) {#grading-final-exam}
-
-최종 프로젝트가 최종 시험에 사용될 수 있습니다. 그러나 어떤 종류의 퀴즈나 테스트가 포함될 수 있습니다. 결승전은 15일차(6월9일) 강의 후 공개되며, 마감일은 16일차(6월19일) 다음 월요일 밤 11시 59분이다. <!--- The [final is available here](https://ut-nodejs.github.io/final-2023/).--->
-
-##### Exam Schedule / 고사 일정 {#grading-exam-schedule}
-
-- 중간고사: 4월 21일(8주) 또는 4월 28일(9주).
-- 기말고사: 6월 16일(16주차).
-- 최종 프로젝트 마감일: 6월 19일(월).
-
-#### 5. Final Project / 개인 프로젝트 (25%) {#grading-final-project}
-
-최종 프로젝트는 수업 시간에 작업한 프로젝트의 업데이트된 사용자 지정이어야 합니다. 책에 설명된 프로젝트와 적어도 두 가지 다른 작업을 수행해야 합니다.
-
-1. 다른 문제 해결(예: 요리/레시피 사이트 아님)
-2. 디자인/스타일이 다르다
-
-프로젝트를 돋보이게 만드는 방법:
-
-- CSS 프레임워크 사용
-- 여러 페이지 템플릿 포함
-- 자체적으로 선택한 JavaScript 기능, 위젯, 기능 등을 구현합니다.
-
-<!---[Instructions for the final project are here](https://ut-nodejs.github.io/final-project/).--->
 
 #### Contact / 연락
 

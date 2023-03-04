@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://ut-nodejs.github.io"><u>[🏠]</u></a> | <a href="/en">English</a> | <a href="/ko">한국어</a>
+  <a href="https://ut-nodejs.github.io">🏠</a> | <a href="/about.html">About</a> |
+  <a href="/schedule.html">Schedule</a> | <a href="/slides.html">Slides</a> | <a href="/practice.html">Practice</a> | <a href="/project.html">Project</a> |
+  <a href="/tests.html">Tests</a> | <a href="/grading.html">Grading</a>
 </p>
 
 ---

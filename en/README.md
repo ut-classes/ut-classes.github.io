@@ -19,7 +19,15 @@ Korea National University of Transportation
 | Google Classroom (PPTs) | [am](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [pm](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg) |
 | GitHub Classroom (과제) | [am](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [pm](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm) |
 
-This repository contains the course materials for the [Computer Science](https://www.ut.ac.kr/ceit/sub02_00.do) course [Applied Web Programming](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
+##### Important Links
+
+- [PollEverywhere](https://pollev.com/aarons007)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [VS Code](https://code.visualstudio.com/)
+- [git](https://git-scm.com/)
+
+This repository contains the course materials for the [Computer Science](https://www.ut.ac.kr/ceit/sub02_00.do) course [Web Programming Application](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger.
 
 ### Course Topics
 
@@ -123,87 +131,6 @@ The following is a supplemental text which you may also find useful:
 ### Instructor
 
 **Aaron Snowberger** is a PhD candidate in the Graduate School of Information and Communications Engineering, majoring in Information and Communications Engineering, at Hanbat National University, Korea. He received his B.S degree in Computer Science from the College of Engineering, University of Wyoming, USA in 2006 and his M.FA degree in Media Design from Full Sail University, USA in 2011. From 2010 to present, he is a professor of English Conversation at Jeonju University, Korea. His research interests include computer vision, natural language processing, image processing, signal processing, and machine learning.
-
-### Grading {#grading}
-
-Grading will be broken down into 5 main components:
-
-| %   | Category        | Description                                |
-| --- | --------------- | ------------------------------------------ |
-| 10% | Attendance      |                                            |
-| 30% | Lab Assignments | Saving in-class work to GitHub             |
-| 15% | Midterm Test    | Paper test + Practical Project             |
-| 20% | Final Test      | Paper test + Practical Project             |
-| 25% | Final Project   | Adding functionality to the book's project |
-
-The university grades on a curve. The following is a simple guideline for understanding how your effort on the final project will reflect in your grade.
-
-- Grading Curve
-  - _A: Customize (Content + Design)_
-  - **B: Complete (including Practice Lab updates)**
-  - C: Complete (_only_ code form the book / GitHub repo)
-  - D: Incomplete or broken
-  - F: Very minimal effort and/or Absences
-
-#### 1. Attendance (10%) {#grading-attendance}
-
-The university's guidelines on attendance are as follows:
-
-- 3 Late = 1 Absence
-- More than 20% Absences = F
-
-If a student has a valid excuse to be absent, such as quarantining for COVID-19, a school event, etc, they may be given self-study work to complete.
-
-#### 2. Participation (10%) {#grading-participation}
-
-Participation follows along with attendance in many ways. While individual participation points will not be recorded every day (there are too many students), a student's individual behavior and habits over the course of the semester will be taken into account. For example, a student who is always Late, or always sleeps, or always talks in class, or always turns in homework on time, will be awarded points corresponding to their behavior.
-
-The following are ways to earn or lose participation points:
-
-- Gain points
-  - On time, participate in the class exercises
-  - Complete all homework
-  - Help other students
-- Lose points
-  - Be late or absent often
-  - Use the phone, or be off task on the computer often
-  - Do not turn in homework or participate in lab exercises
-  - Be disorderly or disrespectful to the teacher or other students
-
-#### 3. Daily Lab Exercises (20%) {#grading-practice}
-
-These are graded on a {Complete, Half-complete, Incomplete} scale and will form the practical materials for each day's labs. See these instructions for how to access and work with each day's exercise.
-
-<!---- See [https://ut-nodejs.github.io/instructions](https://ut-nodejs.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials. ---->
-
-#### 4. Final Project (40%) {#grading-final-project}
-
-The Final Project should be an updated customization of the project we work on in class. It should do at least TWO things differently from the project described in the book:
-
-1. Solve a different problem (i.e. not a Cooking / Recipe site)
-2. Have a different design / style
-
-Ways to make your project stand out:
-
-- Use a CSS framework
-- Include multiple page templates
-- Implement your own, self-selected JavaScript functionality, widget, feature, etc.
-
-#### Midterm Exam (10%) {#grading-midterm-exam}
-
-It is possible that the CRUD or User Data Model assignments will be used for the Midterm. The midterm will be released after the lecture on Day 7 (4월14일) and will be due at 11:59pm on Day 9 (4월28일). <!--- The [midterm is available here](https://ut-nodejs.github.io/midterm-2023/).--->
-
-#### Final Exam (10%) {#grading-final-exam}
-
-It is possible that your Final project may be used for the Final Exam. But, there may be a quiz or test of some kind included. The final will be released after the lecture on Day 15 (6월9일) and will be due at 11:59pm on the Monday after Day 16 (6월19일). <!--- The [final is available here](https://ut-nodejs.github.io/final-2023/).--->
-
-#### Exam Schedule {#grading-exam-schedule}
-
-- Midterm exam: April 21 (Week 8) or April 28 (Week 9).
-- Final exam: June 16 (Week 16).
-- Final project due: June 19 (Monday).
-
-<!---[Instructions for the final project are here](https://ut-nodejs.github.io/final-project/).--->
 
 #### Contact
 
