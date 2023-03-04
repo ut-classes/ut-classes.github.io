@@ -29,7 +29,7 @@ We will use this session to get to know the range of interests and experience st
 ##### Resources / 자원
 
 - Google Classroom (PPTs) ([오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg))
-- PPT <a href="https://ut-nodejs.github.io/slides/_0-NodeJS-수업-소개.pdf"> \*0. Class, Book, Teacher Introduction / 수업 소개</a>
+- PPT <a href="slides/_0-NodeJS-수업-소개.pdf"> \*0. Class, Book, Teacher Introduction / 수업 소개</a>
 
 <!-- - GitHub Classroom (과제) ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm))
 - [PPT \*0. Class, Book, Teacher Introduction](lecturenotes/)
@@ -86,7 +86,7 @@ We will use this session to get to know the range of interests and experience st
 ##### Resources / 자원
 
 - Google Classroom (PPTs) ([오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) / [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg))
-- PPT <a href="https://ut-nodejs.github.io/slides/_0-NodeJS-수업-소개.pdf">\*0. Class, Book, Teacher Introduction / 수업 소개</a>
+- PPT <a href="slides/_0-NodeJS-수업-소개.pdf">\*0. Class, Book, Teacher Introduction / 수업 소개</a>
 
 <!-- - GitHub Classroom (과제) ([오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) / [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm))
 - [PPT \*0. Class, Book, Teacher Introduction](lecturenotes/)
