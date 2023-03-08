@@ -27,7 +27,7 @@ Practice Labs will be assigned and collected in **GitHub** Classroom and accessi
 | Week | Date    | 과제                                                                           | am                                              | pm       |
 | :--: | ------- | ------------------------------------------------------------------------------ | ----------------------------------------------- | -------- |
 |  1   | 3월3일  | --                                                                             | --                                              | --       |
-|  2   | 3월10일 | [0. Starting Node / 노드 시작](https://github.com/ut-nodejs/0-starting-nodejs) | [오전](https://classroom.github.com/a/G9BsGM5K) | [오후]() |
+|  2   | 3월10일 | [0. Starting Node / 노드 시작](https://github.com/ut-nodejs/0-starting-nodejs) | [**오전** 과제](https://classroom.github.com/a/ufXcgZ68) | [_오후_ 과제](https://classroom.github.com/a/YeQuxwK6) |
 |  3   | 3월17일 | 1. Webservers / 웹서버                                                         | 오전                                            | 오후     |
 |  4   | 3월24일 | 2. Express.js / 익스프레스                                                     | 오전                                            | 오후     |
 |  5   | 3월31일 | 2. Project Start / 프로젝트 시작                                               | 오전                                            | 오후     |
