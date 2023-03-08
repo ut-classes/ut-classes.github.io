@@ -30,7 +30,7 @@ This repository contains the course materials for the [Computer Science](https:/
 ## Online Classroom / 온라인 클래스룸
 
 | Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
-| GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm)
+| GitHub Classroom (과제) | [GitHub](https://github.com/ut-nodejs)
 
 ### Google Classroom / 구글 클래스룸
 
