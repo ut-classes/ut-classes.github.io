@@ -70,7 +70,7 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 | Week | Date    | Unit | Topic                                                                             | 화제                                                                  |
 | :--: | :------ | :--: | :-------------------------------------------------------------------------------- | :-------------------------------------------------------------------- |
 |  1   | 3월3일  |  --  | [Overview and introduction to class](/schedule.html#week-1--1주차-3월3일)         | [수업 소개](/schedule.html#week-1--1주차-3월3일)                      |
-|  2   | 3월10일 |  0   | [Starting Node and GitHub Classroom](/schedule.html#week-2--2주차-3월10일)        | [노드 시작과 깃허브 클래스룸](/schedule.html#week-2--2주차-3월10일)   |
+|  2   | 3월10일 |  0   | [GitHub Classroom & Web Programming Review](/schedule.html#week-2--2주차-3월10일)        | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일)   |
 |  3   | 3월17일 |  1   | [Node Webservers and Routes](/schedule.html#week-3--3주차-3월17일)                | [노드 웹서버와 라우팅](/schedule.html#week-3--3주차-3월17일)          |
 |  4   | 3월24일 |  2   | [Routing in Express.js](/schedule.html#week-4--4주차-3월24일)                     | [Express.js 라우팅](/schedule.html#week-4--4주차-3월24일)             |
 |  5   | 3월31일 |  2   | [Project Start](/schedule.html#week-5--5주차-3월31일)                             | [프로젝트 시작](/schedule.html#week-5--5주차-3월31일)                 |
