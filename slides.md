@@ -24,6 +24,8 @@ Slides will be collected in Google Classroom and accessible there. PDF versions 
 
 | Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
 
-| Week | Date   | Slides                                                                                          |
-| :--: | ------ | ----------------------------------------------------------------------------------------------- |
-|  1   | 3월3일 | <a href="slides/_0-NodeJS-수업-소개.pdf">\*0. Class, Book, Teacher Introduction / 수업 소개</a> |
+| Week | Date    | Slides                                             | 미리보기                                                                                                                                                      | 다운로드                                                                                               |
+| :--: | ------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+|  1   | 3월3일  | \*0. Class, Book, Teacher Introduction / 수업 소개 | [미리보기](https://docs.google.com/viewer?url=github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_0-NodeJS-%EC%88%98%EC%97%85-%EC%86%8C%EA%B0%9C.pdf) | [다운로드](https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_0-NodeJS-수업-소개.pdf) |
+|  2   | 3월10일 | \*1. Git & GitHub Classroom / 깃과 깃허브 클래스룸 | [미리보기](https://docs.google.com/viewer?url=github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_0-NodeJS-%EC%88%98%EC%97%85-%EC%86%8C%EA%B0%9C.pdf) | [다운로드](https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_0-NodeJS-수업-소개.pdf) |
+|  2   | 3월10일 | \*2. Web Programming Review / 웹프로그래밍 복습    | [미리보기](https://docs.google.com/viewer?url=github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_0-NodeJS-%EC%88%98%EC%97%85-%EC%86%8C%EA%B0%9C.pdf) | [다운로드](https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_0-NodeJS-수업-소개.pdf) |
