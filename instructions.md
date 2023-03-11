@@ -18,44 +18,152 @@
 
 ---
 
-# Instructions for working with assignments
+## Instructions for working with assignments
 
-ME314, LSE Methods Summer Programme 2021
+There are 3 major issues to address when completing assignments.
 
-## Setting up R and the Rstudio environment
+1. [Accessing the assignment](#1-accessing-the-assignment)
+2. [Turning in the assignment](#2-turning-in-the-assignment)
+3. [Checking the assignment](#3-checking-the-assignment)
 
-### Using R/RStudio locally
+However, before even accessing the assignment, please be sure the following programs are installed on your computer. (Installing the programs in this order will be beneficial as some of the software checks if other software has already been installed)
 
-For local installation, you can follow one of numerous instructions online, for example [here](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027). You should first install [R](https://cran.r-project.org) and then [RStudio](http://www.rstudio.com).
+1. [VS Code](https://code.visualstudio.com/) (Also, you can install the [GitHub Classroom Extension]() in VS Code after its installed)
+2. [Git](https://git-scm.com/) (When the installation screen comes to the "default preferred text editor," you can select VS Code as the default if it's been previously installed)
+3. [Node.JS](https://nodejs.org/ko) (Be sure to also install the "optional" tools like Chocolatey if you are using Windows)
 
-#### Instructions for obtaining assignments
+After the software is installed, you will be able to access and complete the assignments.
 
-Each lab assignment will be a separate repository from the [lse-me314 site on GitHub](https://github.com/lse-me314). Each day in lab, you should start with the following steps.
+### 1. Accessing the Assignment
 
-1.  Create a new RStudio project that clones the assignment repo in your RStudio environment.
+#### Preferred Method (EASY WAY)
 
-    Each assignment of this course is created as a github repository. To work on the assigment, first you need to clone the respository (i.e. copy the entire repository). The easiest way to do so is through creating a new project.
+All assignments will be accessible from the [homepage](https://ut-nodejs.github.io/practice.html) from the start of each class. To access the assignment:
 
-    1. Click a project button (near the top-right corner of the screen)
-    2. Select "New Project" (this will open a popup window)
-    3. Select "Version Control"
-    4. Select "Git"
-    5. Enter repository URL (for the first assignment, it is https://github.com/lse-me314/assignment01)
+1. Click the Assignment link for your class (**오전** or _오후_)
+2. On the GitHub Classroom page, "Accept assignment" to create your personal respository
+3. Refresh the page
+4. Click "Open in VS Code" to automatically clone the repository to your local computer and open it
 
-2.  Rename the starter files.
+If VS Code does NOT properly clone and open your repository to your local computer, you may try the following solutions.
 
-    For each day, you will start with a starter file, which is in the RMarkdown format. You should embed your answers, with code, into your version of the instruction files. The starter file can be found in the project folder newly created in Step 1.
+#### Alternative Method 1: `git clone`
 
-    The first thing you need to do is rename the starter file using your full name. For example, the first assignment file is named `ME314_assignment1_LASTNAME_FIRSTNAME.Rmd`, which you will need to rename by replacing the uppercase terms with your own last and first names, e.g. `ME314_assignment1_Bloggs_Joe.Rmd`.
+1. Make sure you have created a personal folder for YOUR assignments on your computer's Desktop with your <USERNAME>
+2. Click the link to your personal respository (or go to [github.com/ut-nodejs](http://github.com/ut-nodejs) to find your assignment and open it)
+3. Copy your assignment repository's URL
+4. Open Git Bash
+5. Type `cd ~/Desktop/<USERNAME>` to navigate to your personal folder on the Desktop
+6. Type `git clone <URL>` to download your assignment to your personal directory (type SHIFT + INS to paste the URL you copied)
+7. Type `cd <ASSIGNMENT>` to move into the newly cloned git directory
+8. Type `code .` to open the assignment in VS Code
 
-    To rename files, you can Rstudio's rename capability: from the "Files" pane, tick the file to rename, then click "Rename". (Or, if you prefer the command line, you can use R's `file.rename()` function.)
+#### Alternative Method 2: Direct Download
 
-3.  Add your answers to the assignment by editing the renamed file.
+1. Make sure you have created a personal folder for YOUR assignments on your computer's Desktop with your <USERNAME>
+2. Click the link to your personal respository (or go to [github.com/ut-nodejs](http://github.com/ut-nodejs) to find your assignment and open it)
+3. Click the green "Code" button in the upper-right hand corner of the repository above the list of files
+4. Click "Download ZIP" and save the files to your Desktop
+5. Unzip the assignment files
+6. Open VS Code
+7. Click and drag the assignment folder into VS Code
 
-4.  "knit" the .Rmd file, which executes the embedded R code and renders it and the embedded comments into html. From RStudio, you can knit the .Rmd file by clicking the "Knit HTML" button in the top of the editor pane in RStudio. The resulting HTML file will be saved in your working directory.
+---
 
-5.  (For the mid-term and final exam only) You can upload the resulting HTML file -- renamed! -- to the [course Moodle page](https://shortcourses.lse.ac.uk/course/view.php?id=158).
+### 2. Turning in the Assignment
 
-We will walk you through this process in the Day 1 lab, so don't worry if it seems complicated the first time. This sort of careful workflow process and file management is part of learning practical data science too!
+#### Preferred Method (EASY WAY)
 
-We do not mark the homework but we will walk through the solutions at the start of computer labs the following day.
+The easiest way to submit assignments is by performing a `commit & push` directly from within VS Code.
+
+1. Edit your files (1st tab)
+2. Save (so the circle in your file's title disappears)
+3. Click the Git tab (3rd tab)
+4. In the Message box, write an appropriate message describing WHAT you coded (how you changed the files). Without the message, you cannot `commit & push.` Some examples of good and bad commit messages are shown below. Good messages are short and descriptive. Bad messages not specific or meaningless.
+   - Good: `Added a new menu bar`
+   - Good: `Removed contact form functionality`
+   - Bad: `Done`
+   - Bad: `asdfjkl;`
+5. After writing a descriptive commit message, click the down arrow on the `commit` button and choose `commit & push`
+6. Click "Yes" on any additional popups
+
+The above is the **preferred** method to turn in assignments, but sometimes, you may not be able to for various reasons:
+
+- A different student's git id is registered on that computer
+- A different student's git id is linked to that VS Code
+- A different student's assignment repository is linked
+- You were unable to `git clone` the assignment and had to do a direct download instead
+- Your git `user.name` and `user.email` are not set (you will see a popup error message). In this case, simply set your git id on that computer and try your `commit & push` again.
+  1. Open Git Bash
+  2. Type `git config --global user.name "Your name"`
+  3. Type `git config --global user.email yourgithub@email.com`
+  4. Try your `commit & push` in VS Code again
+
+In the above cases where you can't submit your assignment in the preferred method, you may try one of the alternatives listed below:
+
+#### Alternative 1: Command Line (after `git clone`)
+
+If another student's account is linked through VS Code, you may try pushing your code directly from the Git Bash command line. (Note that this method will _only_ work if you have also used the command line to `git clone` your repository to your Desktop).
+
+1. Open Git Bash
+2. Type `~/Desktop/USERNAME/ASSIGNMENT` to navigate to your assignment repository
+3. Type `git add *` to prepare all your modified files to save
+4. Type `git commit -m "COMMIT MESSAGE"` to save all your modified files
+5. Type `git push origin main` to push your files back to GitHub Classroom online
+
+#### Alternative 2: Direct Upload
+
+If all of the above methods have failed, you may try a direct upload of your modified files.
+
+1. Open your GitHub assignment respository at [github.com/ut-nodejs](https://github.com/ut-nodejs)
+2. Click "Add file" to the left of the green "Code" button above your list of files
+3. Click "Upload files" to open the upload page
+4. Navigate to your assignment respository that is stored on your computer's Desktop
+5. Select all your modified files (with CTRL) that need to be uploaded
+6. Click and drag your modified files into the GitHub upload page
+7. Click the green "Commit changes" button at the bottom of the page
+
+---
+
+### 3. Checking the Assignment
+
+#### Checking on your local computer
+
+The most basic method for checking whether your files run correctly is to simply run the file with `node`.
+
+1. If you create a function, don't forget to _also_ call that function in the file
+2. Add `console.log()` messages where necessary to be sure the program reaches certain lines of code within the file
+3. Run `node FILENAME` to check that your file runs properly
+
+Most assignments will include a `/tests` folder that contains testing files for your JavaScript code. To run the included tests:
+
+1. Open a Terminal window with CTRL + \`
+2. Be sure that your Terminal is in the correct folder (if not, `cd` to the assignment folder)
+3. Run `npm install` to install the developer dependencies, including `jest` which is the testing program
+4. Run `npm test` to run the tests
+
+If your tests PASS, congratulations! Be sure to `commit & push` your work back to the assignment repository.<br>
+If your tests FAIL, carefully read the Error Messages and try to understand what you did wrong, and what results the tests are expecting.
+
+#### Checking online
+
+You can also check whether your tests pass in the "Actions" tab in your assignment repository online.
+
+1. First, `commit & push` your files back to the assignment repository
+2. The GitHub Classroom workflow will automatically run the assignment tests
+3. Navigate in your browser to your assignment repository URL
+4. Click the "Actions" tab (4th tab)
+5. In the main window, under "Workflow Runs" click the most recently run Workflow to inspect it
+6. In the left sidebar, under "Summary" click "Autograding"
+7. In the main window (now black), click the third arrow down called `Run education/autograding@v1` to inspect the results of the GitHub Workflow tests
+
+If you want to add a "PASS/FAIL" badge to your README:
+
+1. In the "Actions" tab, click the most recent Workflow Run
+2. In the upper right-hand corner, next to the "Re-run jobs" button, click the `...` button
+3. Click "Create status badge" to open a popup with the badge Markdown
+4. Copy the badge Markdown
+5. Return to your repository code and list of files (where the README is visible underneath)
+6. Click the pencil icon to "EDIT" your README file
+7. Paste the status badge Markdown code into the top of your README file
+8. Click the green "Commit changes" button at the bottom of the screen to save

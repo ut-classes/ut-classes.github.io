@@ -94,4 +94,4 @@ The following is a supplemental text which you may also find useful:
 
 #### Contact
 
-If you have questions, please contact Aaron at [aaron@ut.ac.kr](aaron@ut.ac.kr).
+If you have questions, please contact Aaron at [aaron@ut.ac.kr](aaron@ut.ac.kr) (Webmail) or [aaron@g.ut.ac.kr](aaron@g.ut.ac.kr) (Google Mail).

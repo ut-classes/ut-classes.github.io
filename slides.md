@@ -20,9 +20,7 @@
 
 ## Slides / 스라이드
 
-Slides will be collected in Google Classroom and accessible there. PDF versions will also be available here _after_ each class.
-
-| Google Classroom (PPTs) | [오전](https://classroom.google.com/c/NTEyMjUxMTM4MjQz?cjc=m5cbuja) | [오후](https://classroom.google.com/c/NTE2NTcyNjcwNjMz?cjc=sr6x7hg)
+PDF versions of slides will be available here _before_ each class.
 
 | Week | Date    | Slides                                             | 미리보기                                                                                                                                                      | 다운로드                                                                                                          |
 | :--: | ------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
