@@ -20,6 +20,12 @@
 
 ## Instructions for working with assignments
 
+![3rd-week-PPT](/img/gh-pages/3rd-week-PPT.png)
+
+These instructions were presented in the 3rd week with the following PPT. For pictures to accompany the directions, [click here to download the PDF](https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_3.%20%EA%B3%BC%EC%A0%9C%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%ED%95%B4%EA%B2%B0.pdf).
+
+(Korean translation forthcoming...)
+
 There are 3 major issues to address when completing assignments.
 
 1. [Accessing the assignment](#1-accessing-the-assignment)
