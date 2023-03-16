@@ -24,11 +24,11 @@ Practice Labs will be assigned and collected in **GitHub** Classroom and accessi
 
 <!-- | GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm) -->
 
-| Week | Date    | 과제                                                                                    | am                                                       | pm                                                     |
-| :--: | ------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ |
+| Week | Date    | 과제                                                                                    | am                                                       | pm                                                     | HELP                                                           |
+| :--: | ------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
 |  1   | 3월3일  | --                                                                                      | --                                                       | --                                                     |
-|  2   | 3월10일 | [0. Starting Node / 노드 시작](https://github.com/ut-nodejs/0-starting-nodejs)          | [오전 과제](https://classroom.github.com/a/ufXcgZ68)     | [오후 과제](https://classroom.github.com/a/YeQuxwK6)   |
-|  3   | 3월17일 | [1. First Web Server / 첫 웹 서버](https://github.com/ut-nodejs/1-node-webserver-start) | [**오전** 과제](https://classroom.github.com/a/poWHzDMH) | [_오후_ 과제](https://classroom.github.com/a/Fyol0_-I) |
+|  2   | 3월10일 | [0. Starting Node / 노드 시작](https://github.com/ut-nodejs/0-starting-nodejs)          | [오전 과제](https://classroom.github.com/a/ufXcgZ68)     | [오후 과제](https://classroom.github.com/a/YeQuxwK6)   | [과제1: HELP](https://github.com/orgs/ut-nodejs/discussions/1) |
+|  3   | 3월17일 | [1. First Web Server / 첫 웹 서버](https://github.com/ut-nodejs/1-node-webserver-start) | [**오전** 과제](https://classroom.github.com/a/poWHzDMH) | [_오후_ 과제](https://classroom.github.com/a/Fyol0_-I) | [과제2: HELP](https://github.com/orgs/ut-nodejs/discussions/2) |
 |  4   | 3월24일 | 2. Express.js / 익스프레스                                                              | 오전                                                     | 오후                                                   |
 |  5   | 3월31일 | 2. Project Start / 프로젝트 시작                                                        | 오전                                                     | 오후                                                   |
 |  6   | 4월7일  | 3. MongoDB / 몽고 데이터베이스                                                          | 오전                                                     | 오후                                                   |
