@@ -224,8 +224,8 @@ This week we will finish Lesson 6 in dealing with routes and external files. The
 
 ##### Assignment / 과제
 
-- 4주차 **오전** 과제 받기
-- 4주차 _오후_ 과제 받기
+- [4주차 **오전** 과제 받기](https://classroom.github.com/a/TJpdR0C3)
+- [4주차 _오후_ 과제 받기](https://classroom.github.com/a/F4nLnLQw)
 - [4주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/3)
 
 책에서 다음 코드 연습을 완료하십시오. 그런 다음 다시 GitHub 클래스룸으로 "커밋 및 푸시" 하십시오.
