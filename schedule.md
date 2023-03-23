@@ -18,47 +18,48 @@
 
 ---
 
-## This Week / 3주차 3월17일
+## This Week / 4주차 3월24일
 
-#### 3. Node Webserver First Steps / 노드 웹서버 첫 걸음
+#### 4. Capstone 1: First Web Application / 캡스톤 1: 첫 번째 웹 애플리케이션
 
-This week we take a look at some of the major problems and mistakes from last week and how to fix them. We will have a brief introduction to what Node is, how it works, and why it's important. Finally, we'll get to work on creating a web server and simple website in Node.js.
+This week we will finish Lesson 6 in dealing with routes and external files. Then we will build our first full web application in Lesson 7 with our first Capstone Project.
 
-이번 주에는 지난주의 주요 문제와 실수를 살펴보고 이를 수정하는 방법을 알아봅시다. Node.js가 무엇인지, 어떻게 작동하는지, 왜 중요한지에 대해 간략하게 소개하겠습니다. 마지막으로 Node.js에서 웹 서버와 간단한 웹 사이트를 만드는 작업을 시작합니다.
+이번 주에 우리는 라우트와 외부 파일을 다루는 6과를 끝낼 것입니다. 그런 다음에 첫 번째 캡스톤 프로젝트를 사용하여 7과에서 첫 번째 웹 애플리케이션을 만듭니다.
 
 ##### Assignment / 과제
 
-- [3주차 **오전** 과제 받기](https://classroom.github.com/a/poWHzDMH)
-- [3주차 _오후_ 과제 받기](https://classroom.github.com/a/Fyol0_-I)
-- [3주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/2)
+- [4주차 **오전** 과제 받기](https://classroom.github.com/a/TJpdR0C3)
+- [4주차 _오후_ 과제 받기](https://classroom.github.com/a/F4nLnLQw)
+- [4주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/3)
 
 책에서 다음 코드 연습을 완료하십시오. 그런 다음 다시 GitHub 클래스룸으로 "커밋 및 푸시" 하십시오.
 
-- `/practice/lesson-5/listing.5.4.EX.js`
-- `/practice/lesson-5/listing.5.6.TODO.js`
+- 지난주의 저장소 (학습)
+  - `/practice/lesson-6/listing.6.4.EX.js`
+  - `/practice/lesson-6/listing.6.6.TODO.js`
+  - `/practice/lesson-6/listing.6.6.TODO.js`
+- 이 번주의 저장소 (과제)
+  - [프로젝트 readme.md](https://github.com/ut-nodejs/2-webserver-capstone)의 지침을 따르고 완성된 웹 애플리케이션을 GitHub 클래스룸으로 "커밋 및 푸시" 하십시오.
 
 ##### Resources / 리소스
 
-- PPT <a href="slides/https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_3.%20%EA%B3%BC%EC%A0%9C%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%ED%95%B4%EA%B2%B0.pdf">\*3. Assignment Problems & Solutions / 과제 문제와 해결</a>
-- PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_4.%20Node.JS%EC%9D%98%20%EC%9D%B4%ED%95%B4.pdf">\*4. Understanding Node.js / Node.js의 이해</a>
 - PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1.%20Node.js%EC%9D%98%20%EC%8B%9C%EC%9E%91.pdf">Unit 1. Starting Node.js / Node.js의 시작</a>
+- PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1-7.%20%EC%BA%A1%EC%8A%A4%ED%86%A41%20-%20%EC%B2%AB%20%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98.pdf">Unit 1-7. Capstone 1: First Web Application / 캡스톤1: 첫 웹 애플리케이션</a>
+- [Bootstrap CSS](https://getbootstrap.com/)
+- [Tailwind CSS](https://tailwindcss.com/) (다른 CSS 프레임워크) | [Tailwind Elements](https://tailwind-elements.com/) (컴포넌트 예시)
+- [Pixabay.com](https://pixabay.com) (저작권 없는 이미지)
 
 ##### Required Reading / 필수 독서
 
 - [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
-  - pp. 37-46 (Lesson 0: Node.js 설정과 JavaScript 엔진 설치)
-  - pp. 67-78 (Lesson 3: Node.js 모듈 생성)
-  - pp. 79-88 (Lesson 4: Node.js에서 웹 서버 만들기)
-  - pp. 89-100 (Lesson 5: 수신 데이터 다루기)
   - pp. 101-116 (Lesson 6: 라우트와 외부 파일)
+  - pp. 117-129 (Lesson 7: 캡스톤 프로젝트: 첫 번째 웹 애플리케이션)
 
 ##### Recommended reading / 추천 독서
 
 - [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
   - pp. 179-216 (4장: http 모듈로 서버 만들기)
   - pp. 217-240 (5장: 패키지 매니저)
-- [Node.js란 무엇인가?](https://velog.io/@sms8377/Javascript-Node.js%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
-- [Node.js란...?](https://perfectacle.github.io/2017/06/18/what-is-node-js/)
 
 ---
 
@@ -242,6 +243,7 @@ This week we will finish Lesson 6 in dealing with routes and external files. The
 - PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1.%20Node.js%EC%9D%98%20%EC%8B%9C%EC%9E%91.pdf">Unit 1. Starting Node.js / Node.js의 시작</a>
 - PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1-7.%20%EC%BA%A1%EC%8A%A4%ED%86%A41%20-%20%EC%B2%AB%20%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98.pdf">Unit 1-7. Capstone 1: First Web Application / 캡스톤1: 첫 웹 애플리케이션</a>
 - [Bootstrap CSS](https://getbootstrap.com/)
+- [Tailwind CSS](https://tailwindcss.com/) (다른 CSS 프레임워크) | [Tailwind Elements](https://tailwind-elements.com/) (컴포넌트 예시)
 - [Pixabay.com](https://pixabay.com) (저작권 없는 이미지)
 
 ##### Required Reading / 필수 독서
