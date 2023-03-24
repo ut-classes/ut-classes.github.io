@@ -69,7 +69,7 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 |  1   | 3월3일  |  --  | [Overview and introduction to class](/schedule.html#week-1--1주차-3월3일)         | [수업 소개](/schedule.html#week-1--1주차-3월3일)                            |
 |  2   | 3월10일 |  0   | [GitHub Classroom & Web Programming Review](/schedule.html#week-2--2주차-3월10일) | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일) |
 |  3   | 3월17일 |  1   | [Node Webserver First Steps](/schedule.html#week-3--3주차-3월17일)                | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 |
-|  4   | 3월24일 |  2   | Routing in Express.js                                                             | Express.js 라우팅                                                           |
+|  4   | 3월24일 |  2   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일) |
 |  5   | 3월31일 |  2   | Project Start                                                                     | 프로젝트 시작                                                               |
 |  6   | 4월7일  |  3   | Connecting to MongoDB                                                             | MongoDB 연결                                                                |
 |  7   | 4월14일 |  4   | User Data Models                                                                  | 사용자 데이터 모델                                                          |
