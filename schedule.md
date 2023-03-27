@@ -70,18 +70,19 @@ This week we will finish Lesson 6 in dealing with routes and external files. The
 |  1   | 3월3일  |  --  | [Overview and introduction to class](/schedule.html#week-1--1주차-3월3일)         | [수업 소개](/schedule.html#week-1--1주차-3월3일)                            |
 |  2   | 3월10일 |  0   | [GitHub Classroom & Web Programming Review](/schedule.html#week-2--2주차-3월10일) | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일) |
 |  3   | 3월17일 |  1   | [Node Webserver First Steps](/schedule.html#week-3--3주차-3월17일)                | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 |
-|  4   | 3월24일 |  2   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                                                           |
-|  5   | 3월31일 |  2   | Project Start                                                                     | 프로젝트 시작                                                               |
-|  6   | 4월7일  |  3   | Connecting to MongoDB                                                             | MongoDB 연결                                                                |
-|  7   | 4월14일 |  4   | User Data Models                                                                  | 사용자 데이터 모델                                                          |
+|  4   | 3월24일 |  1   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   |
+|  5   | 3월31일 |  1   | Capstone 1: Continued (with Bootstrap)                                            | 캡스톤1: 연속 (부트스트랩 사용)                                             |
+|  6   | 4월7일  |  2   | Express Webserver                                                                 | 익스프레스 웹서버 연결                                                      |
+|  7   | 4월14일 |  2   | Capstone 2: Express Web App                                                       | 캡스톤2: 익스프레스 웹 앱 모델                                              |
 |  8   | 4월21일 |  --  | Midterm Exam / Project                                                            | 중간고사                                                                    |
-|  9   | 4월28일 |  4   | CRUD (Create, Read, Update, Delete)                                               | CRUD (생성, 조회, 수정, 삭제)                                               |
+|  9   | 4월28일 |  3   | Connecting to MongoDB (Capstone 3)                                                | MongoDB 연결 (캡스톤3)                                                      |
 |  --  | 5월5일  |  --  | _HOLIDAY: Children's Day_                                                         | _공휴일: 어린이날_                                                          |
-|  10  | 5월12일 |  5   | User Authentication                                                               | 사용자 인증                                                                 |
-|  11  | 5월19일 |  6   | Adding an API                                                                     | API 추가                                                                    |
-|  12  | 5월26일 |  7   | Adding Chat Functionality                                                         | 채팅 추가                                                                   |
-|  13  | 6월2일  |  8   | Deploying to Production                                                           | 프로덕션                                                                    |
-|  14  | 6월9일  | A,B  | Supplementary Topics / Personal Projects                                          | 개인 프로젝트                                                               |
+|  10  | 5월12일 |  4   | User Data Models                                                                  | 사용자 데이터 모델                                                          |
+|  11  | 5월19일 |  4   | Capstone 4: CRUD (Create, Read, Update, Delete)                                   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                      |
+|  --  | 5월26일 |  --  | _HOLIDAY: Buddha's Birthday?_                                                     | _공휴일: 석가탄신일?_ 추가                                                  |
+|  12  | 6월2일  |  5   | User Authentication (Capstone 5)                                                  | 사용자 인증 (캡스톤5)                                                       |
+|  13  | 6월9일  |  6   | Adding an API (Capstone 6)                                                        | API 추가 (캡스톤6)                                                          |
+|  14  | 6월16일 |  --  | Final Projects                                                                    | 개인 프로젝트                                                               |
 |  15  | 6월16일 |  --  | Final Exam                                                                        | 기말고사                                                                    |
 
 <!----
@@ -89,6 +90,18 @@ This week we will finish Lesson 6 in dealing with routes and external files. The
 | 17  | 6월23일 | --   | [Final Exam](/en/#final-exam)                                                   | [기말고사]()                  |
 | 18  | 6월30일 | --   | [Grading Period](/en/#grading)                                                  | [성적 처리 기간]()            |
 ---->
+
+<!-- | 6 | 4월7일 | 3 | Connecting to MongoDB | MongoDB 연결 |
+| 7 | 4월14일 | 4 | User Data Models | 사용자 데이터 모델 |
+| 8 | 4월21일 | -- | Midterm Exam / Project | 중간고사 |
+| 9 | 4월28일 | 4 | CRUD (Create, Read, Update, Delete) | CRUD (생성, 조회, 수정, 삭제) |
+| -- | 5월5일 | -- | _HOLIDAY: Children's Day_ | _공휴일: 어린이날_ |
+| 10 | 5월12일 | 5 | User Authentication | 사용자 인증 |
+| 11 | 5월19일 | 6 | Adding an API | API 추가 |
+| 12 | 5월26일 | 7 | Adding Chat Functionality | 채팅 추가 |
+| 13 | 6월2일 | 8 | Deploying to Production | 프로덕션 |
+| 14 | 6월9일 | A,B | Supplementary Topics / Personal Projects | 개인 프로젝트 |
+| 15 | 6월16일 | -- | Final Exam | 기말고사 | -->
 
 ---
 
@@ -242,7 +255,7 @@ This week we will finish Lesson 6 in dealing with routes and external files. The
 
 - PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1.%20Node.js%EC%9D%98%20%EC%8B%9C%EC%9E%91.pdf">Unit 1. Starting Node.js / Node.js의 시작</a>
 - PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1-7.%20%EC%BA%A1%EC%8A%A4%ED%86%A41%20-%20%EC%B2%AB%20%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98.pdf">Unit 1-7. Capstone 1: First Web Application / 캡스톤1: 첫 웹 애플리케이션</a>
-- [Bootstrap CSS](https://getbootstrap.com/)
+- [Bootstrap CSS](https://getbootstrap.kr/)
 - [Tailwind CSS](https://tailwindcss.com/) (다른 CSS 프레임워크) | [Tailwind Elements](https://tailwind-elements.com/) (컴포넌트 예시)
 - [Pixabay.com](https://pixabay.com) (저작권 없는 이미지)
 
@@ -257,5 +270,41 @@ This week we will finish Lesson 6 in dealing with routes and external files. The
 - [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
   - pp. 179-216 (4장: http 모듈로 서버 만들기)
   - pp. 217-240 (5장: 패키지 매니저)
+
+###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
+
+---
+
+### Week 5 / 5주차 3월31일
+
+#### 5. Capstone 1: Continued (with Bootstrap) / 캡스톤 1: 연속 (부트스트랩 사용)
+
+This week will include more in-class coding time. We will continue working on our first Capstone Project, adding Bootstrap to our web application. We will build a simple `index.html` page together with Bootstrap and students will add their own pages to the project.
+
+이번 주에는 수업 중 더 많은 코딩 시간이 포함될 것입니다. 우리는 웹 응용 프로그램에 부트스트랩을 추가하여 첫 번째 캡스톤 프로젝트를 계속 작업할 것입니다. 우리는 간단한 `index.html` 페이지를 부트스트랩과 함께 만들고 학생들은 자신의 페이지를 프로젝트에 추가할 것입니다.
+
+##### Assignment / 과제
+
+- [5주차 **오전** 과제 받기](https://classroom.github.com/a/TJpdR0C3)
+- [5주차 _오후_ 과제 받기](https://classroom.github.com/a/F4nLnLQw)
+- [5주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/3)
+
+- 이 번주의 저장소 (과제)
+  - [프로젝트 readme.md](https://github.com/ut-nodejs/2-webserver-capstone)의 지침을 따르고 완성된 웹 애플리케이션을 GitHub 클래스룸으로 "커밋 및 푸시" 하십시오.
+
+##### Resources / 리소스
+
+- PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1-7.%20%EC%BA%A1%EC%8A%A4%ED%86%A41%20-%20%EC%B2%AB%20%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98.pdf">Unit 1-7. Capstone 1: First Web Application / 캡스톤1: 첫 웹 애플리케이션</a>
+- [Bootstrap CSS](https://getbootstrap.kr/) (한국어)
+- [Pixabay.com](https://pixabay.com) (저작권 없는 이미지)
+
+##### Required Reading / 필수 독서
+
+- [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
+  - pp. 117-129 (Lesson 7: 캡스톤 프로젝트: 첫 번째 웹 애플리케이션)
+
+##### Recommended reading / 추천 독서
+
+- [Bootstrap 문서](https://getbootstrap.kr/docs/5.2/getting-started/introduction/)
 
 ###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)

@@ -69,18 +69,19 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 |  1   | 3월3일  |  --  | [Overview and introduction to class](/schedule.html#week-1--1주차-3월3일)         | [수업 소개](/schedule.html#week-1--1주차-3월3일)                            |
 |  2   | 3월10일 |  0   | [GitHub Classroom & Web Programming Review](/schedule.html#week-2--2주차-3월10일) | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일) |
 |  3   | 3월17일 |  1   | [Node Webserver First Steps](/schedule.html#week-3--3주차-3월17일)                | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 |
-|  4   | 3월24일 |  2   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일) |
-|  5   | 3월31일 |  2   | Project Start                                                                     | 프로젝트 시작                                                               |
-|  6   | 4월7일  |  3   | Connecting to MongoDB                                                             | MongoDB 연결                                                                |
-|  7   | 4월14일 |  4   | User Data Models                                                                  | 사용자 데이터 모델                                                          |
+|  4   | 3월24일 |  1   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   |
+|  5   | 3월31일 |  1   | Capstone 1: Continued (with Bootstrap)                                            | 캡스톤1: 연속 (부트스트랩 사용)                                             |
+|  6   | 4월7일  |  2   | Express Webserver                                                                 | 익스프레스 웹서버 연결                                                      |
+|  7   | 4월14일 |  2   | Capstone 2: Express Web App                                                       | 캡스톤2: 익스프레스 웹 앱 모델                                              |
 |  8   | 4월21일 |  --  | Midterm Exam / Project                                                            | 중간고사                                                                    |
-|  9   | 4월28일 |  4   | CRUD (Create, Read, Update, Delete)                                               | CRUD (생성, 조회, 수정, 삭제)                                               |
+|  9   | 4월28일 |  3   | Connecting to MongoDB (Capstone 3)                                                | MongoDB 연결 (캡스톤3)                                                      |
 |  --  | 5월5일  |  --  | _HOLIDAY: Children's Day_                                                         | _공휴일: 어린이날_                                                          |
-|  10  | 5월12일 |  5   | User Authentication                                                               | 사용자 인증                                                                 |
-|  11  | 5월19일 |  6   | Adding an API                                                                     | API 추가                                                                    |
-|  12  | 5월26일 |  7   | Adding Chat Functionality                                                         | 채팅 추가                                                                   |
-|  13  | 6월2일  |  8   | Deploying to Production                                                           | 프로덕션                                                                    |
-|  14  | 6월9일  | A,B  | Supplementary Topics / Personal Projects                                          | 개인 프로젝트                                                               |
+|  10  | 5월12일 |  4   | User Data Models                                                                  | 사용자 데이터 모델                                                          |
+|  11  | 5월19일 |  4   | Capstone 4: CRUD (Create, Read, Update, Delete)                                   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                      |
+|  --  | 5월26일 |  --  | _HOLIDAY: Buddha's Birthday?_                                                     | _공휴일: 석가탄신일?_ 추가                                                  |
+|  12  | 6월2일  |  5   | User Authentication (Capstone 5)                                                  | 사용자 인증 (캡스톤5)                                                       |
+|  13  | 6월9일  |  6   | Adding an API (Capstone 6)                                                        | API 추가 (캡스톤6)                                                          |
+|  14  | 6월16일 |  --  | Final Projects                                                                    | 개인 프로젝트                                                               |
 |  15  | 6월16일 |  --  | Final Exam                                                                        | 기말고사                                                                    |
 
 <!----
