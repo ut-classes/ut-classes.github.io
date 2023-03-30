@@ -18,48 +18,37 @@
 
 ---
 
-## This Week / 4주차 3월24일
+## This Week / 5주차 3월31일
 
-#### 4. Capstone 1: First Web Application / 캡스톤 1: 첫 번째 웹 애플리케이션
+#### 5. Capstone 1: Continued (with Bootstrap) / 캡스톤 1: 연속 (부트스트랩 사용)
 
-This week we will finish Lesson 6 in dealing with routes and external files. Then we will build our first full web application in Lesson 7 with our first Capstone Project.
+This week will include **more in-class coding time**. We will continue working on our first Capstone Project, adding Bootstrap to our web application. We will build a simple `index.html` page together with [Bootstrap](https://getbootstrap.kr) and students will add their own pages to the project.
 
-이번 주에 우리는 라우트와 외부 파일을 다루는 6과를 끝낼 것입니다. 그런 다음에 첫 번째 캡스톤 프로젝트를 사용하여 7과에서 첫 번째 웹 애플리케이션을 만듭니다.
+이번 주에는 **수업 중 더 많은 코딩 시간**이 포함될 것입니다. 우리는 웹 응용 프로그램에 [부트스트랩](https://getbootstrap.kr)을 추가하여 첫 번째 캡스톤 프로젝트를 계속 작업할 것입니다. 우리는 간단한 `index.html` 페이지를 부트스트랩과 함께 만들고 학생들은 자신의 페이지를 프로젝트에 추가할 것입니다.
 
 ##### Assignment / 과제
 
-- [4주차 **오전** 과제 받기](https://classroom.github.com/a/TJpdR0C3)
-- [4주차 _오후_ 과제 받기](https://classroom.github.com/a/F4nLnLQw)
-- [4주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/3)
-
-책에서 다음 코드 연습을 완료하십시오. 그런 다음 다시 GitHub 클래스룸으로 "커밋 및 푸시" 하십시오.
-
-- 지난주의 저장소 (학습)
-  - `/practice/lesson-6/listing.6.4.EX.js`
-  - `/practice/lesson-6/listing.6.6.TODO.js`
-  - `/practice/lesson-6/listing.6.6.TODO.js`
 - 이 번주의 저장소 (과제)
   - [프로젝트 readme.md](https://github.com/ut-nodejs/2-webserver-capstone)의 지침을 따르고 완성된 웹 애플리케이션을 GitHub 클래스룸으로 "커밋 및 푸시" 하십시오.
 
 ##### Resources / 리소스
 
-- PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1.%20Node.js%EC%9D%98%20%EC%8B%9C%EC%9E%91.pdf">Unit 1. Starting Node.js / Node.js의 시작</a>
 - PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1-7.%20%EC%BA%A1%EC%8A%A4%ED%86%A41%20-%20%EC%B2%AB%20%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98.pdf">Unit 1-7. Capstone 1: First Web Application / 캡스톤1: 첫 웹 애플리케이션</a>
-- [Bootstrap CSS](https://getbootstrap.com/)
-- [Tailwind CSS](https://tailwindcss.com/) (다른 CSS 프레임워크) | [Tailwind Elements](https://tailwind-elements.com/) (컴포넌트 예시)
+- PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1-7b.%20%EC%BA%A1%EC%8A%A4%ED%86%A41%20-%20%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9%20%EB%B3%B4%EC%B6%A9.pdf">Unit 1-7b. Capstone 1 (with Bootstrap) / 캡스톤 1 하고 부트스트랩 포함</a>
+- [Heropy 튜토리얼](https://heropy.blog/2019/04/24/html-css-starter/)
+- [Bootstrap CSS](https://getbootstrap.kr/) (한국어)
 - [Pixabay.com](https://pixabay.com) (저작권 없는 이미지)
+- [2주차 과제의 readme.md](https://github.com/ut-nodejs/0-starting-nodejs)
+- [4주차 과제의 readme.md](https://github.com/ut-nodejs/2-webserver-capstone)
 
 ##### Required Reading / 필수 독서
 
 - [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
-  - pp. 101-116 (Lesson 6: 라우트와 외부 파일)
   - pp. 117-129 (Lesson 7: 캡스톤 프로젝트: 첫 번째 웹 애플리케이션)
 
 ##### Recommended reading / 추천 독서
 
-- [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
-  - pp. 179-216 (4장: http 모듈로 서버 만들기)
-  - pp. 217-240 (5장: 패키지 매니저)
+- [Bootstrap 문서](https://getbootstrap.kr/docs/5.2/getting-started/introduction/)
 
 ---
 
@@ -71,7 +60,7 @@ This week we will finish Lesson 6 in dealing with routes and external files. The
 |  2   | 3월10일 |  0   | [GitHub Classroom & Web Programming Review](/schedule.html#week-2--2주차-3월10일) | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일) |
 |  3   | 3월17일 |  1   | [Node Webserver First Steps](/schedule.html#week-3--3주차-3월17일)                | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 |
 |  4   | 3월24일 |  1   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   |
-|  5   | 3월31일 |  1   | [Capstone 1: Continued (with Bootstrap)](/schedule.html#week-5--5주차-3월31일)                                            | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)                                              |
+|  5   | 3월31일 |  1   | [Capstone 1: Continued (with Bootstrap)](/schedule.html#week-5--5주차-3월31일)    | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)     |
 |  6   | 4월7일  |  2   | Express Webserver                                                                 | 익스프레스 웹서버 연결                                                      |
 |  7   | 4월14일 |  2   | Capstone 2: Express Web App                                                       | 캡스톤2: 익스프레스 웹 앱 모델                                              |
 |  8   | 4월21일 |  --  | Midterm Exam / Project                                                            | 중간고사                                                                    |
@@ -285,18 +274,18 @@ This week will include **more in-class coding time**. We will continue working o
 
 ##### Assignment / 과제
 
-- [5주차 **오전** 과제 받기]()
-- [5주차 _오후_ 과제 받기]()
-- [5주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/4)
-
 - 이 번주의 저장소 (과제)
   - [프로젝트 readme.md](https://github.com/ut-nodejs/2-webserver-capstone)의 지침을 따르고 완성된 웹 애플리케이션을 GitHub 클래스룸으로 "커밋 및 푸시" 하십시오.
 
 ##### Resources / 리소스
 
 - PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1-7.%20%EC%BA%A1%EC%8A%A4%ED%86%A41%20-%20%EC%B2%AB%20%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98.pdf">Unit 1-7. Capstone 1: First Web Application / 캡스톤1: 첫 웹 애플리케이션</a>
+- PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1-7b.%20%EC%BA%A1%EC%8A%A4%ED%86%A41%20-%20%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9%20%EB%B3%B4%EC%B6%A9.pdf">Unit 1-7b. Capstone 1 (with Bootstrap) / 캡스톤 1 하고 부트스트랩 포함</a>
+- [Heropy 튜토리얼](https://heropy.blog/2019/04/24/html-css-starter/)
 - [Bootstrap CSS](https://getbootstrap.kr/) (한국어)
 - [Pixabay.com](https://pixabay.com) (저작권 없는 이미지)
+- [2주차 과제의 readme.md](https://github.com/ut-nodejs/0-starting-nodejs)
+- [4주차 과제의 readme.md](https://github.com/ut-nodejs/2-webserver-capstone)
 
 ##### Required Reading / 필수 독서
 
