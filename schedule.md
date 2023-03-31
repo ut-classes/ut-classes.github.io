@@ -3,11 +3,11 @@
   <a href="about.html" title="About">개요</a> |
   <a href="/schedule.html" title="Schedule"><u>[일정]</u></a> |
   <a href="/slides.html" title="Slides">스라이드</a> |
-  <a href="/practice.html" title="Practice">과제</a> |
+  <a href="/assignments.html" title="Assignments">과제</a> |
   <a href="/project.html" title="Project">프로젝트</a> |
   <a href="/tests.html" title="Tests">시험</a> |
   <a href="/grading.html" title="Grading">성적</a> |
-  <a href="https://pollev.com/aarons007" title="PollEverywhere">설문↗️</a>
+  <!-- <a href="https://pollev.com/aarons007" title="PollEverywhere">설문↗️</a> -->
 </p>
 
 ---
@@ -17,6 +17,17 @@
 <p>한국교통대학교, 충주<small> | KNUT (Korea National University of Transportation)</small></p>
 
 ---
+
+<!--
+## Notes AFTER Class **(5주차)**
+
+| Activity | Morning | Afternoon |
+| -------- | ------- | --------- |
+| 실습     | 2주차 Web Programming Practice (less look at Bootstrap) | Lesson 6 code (listing6.5, listing6.6) + Basic Web Programming (more Bootstrap) |
+| 과제     | No time - will give _MORE_ time next week | 30 min, most _started_ Lesson 7 - give more time next week |
+| 다음 주  | Lesson 7 CODING time (_MORE_) + Unit 2 PPT         | Lesson 7 CODING time + Unit 2 PPT         |
+| Notes    | MORE students gone (again) - 9 this week           | Only 2 missing today                      |
+-->
 
 ## This Week / 5주차 3월31일
 

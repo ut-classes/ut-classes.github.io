@@ -1,13 +1,13 @@
 <p id="menu" align="center">
   <a href="https://ut-nodejs.github.io" title="Home"><u>[🏠]</u></a> |
-  <a href="about.html" title="About">개요</a> |
+  <a href="/about.html" title="About">개요</a> |
   <a href="/schedule.html" title="Schedule">일정</a> |
   <a href="/slides.html" title="Slides">스라이드</a> |
-  <a href="/practice.html" title="Practice">과제</a> |
+  <a href="/assignments.html" title="Assignments">과제</a> |
   <a href="/project.html" title="Project">프로젝트</a> |
   <a href="/tests.html" title="Tests">시험</a> |
   <a href="/grading.html" title="Grading">성적</a> |
-  <a href="https://pollev.com/aarons007" title="PollEverywhere">설문↗️</a>
+  <!-- <a href="https://pollev.com/aarons007" title="PollEverywhere">설문↗️</a> -->
 </p>
 
 ---
@@ -18,8 +18,8 @@
 
 ---
 
-- [**오전** 수업 오픈 채팅](https://open.kakao.com/o/gJjKj58e)
-- [_오후_ 수업 오픈 채팅](https://open.kakao.com/o/gUYQUlaf)
+- [**오전** ☕ 수업 오픈 채팅](https://open.kakao.com/o/gJjKj58e)
+- [_오후_ 🍔 수업 오픈 채팅](https://open.kakao.com/o/gUYQUlaf)
 
 This repository contains the course materials for the [Computer Science](https://www.ut.ac.kr/ceit/sub02_00.do) course [Web Programming Application](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger. 이 저장소는 [컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) 과정 [웹프로그래밍응용](https://ut-nodejs.github.io)은 에런 스노버거가 2023년 봄에 가르쳤다.
 
@@ -27,7 +27,7 @@ This repository contains the course materials for the [Computer Science](https:/
 
 ### Instructor / 강사
 
-- Aaron Snowberger ([aaron@g.ut.ac.kr](aaron@g.ut.ac.kr)), Graduate School of Information & Communications Engineering, Hanbat University
+- Aaron Snowberger ([aaronkr@g.ut.ac.kr](aaronkr@g.ut.ac.kr) or [aaron@ut.ac.kr](aaron@ut.ac.kr)), Graduate School of Information & Communications Engineering, Hanbat University
 - 에런 스노버거, 정보통신공학과, 한밭대학교
 
 ## Online Classroom / 온라인 클래스룸
@@ -70,7 +70,7 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 |  2   | 3월10일 |  0   | [GitHub Classroom & Web Programming Review](/schedule.html#week-2--2주차-3월10일) | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일) |
 |  3   | 3월17일 |  1   | [Node Webserver First Steps](/schedule.html#week-3--3주차-3월17일)                | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 |
 |  4   | 3월24일 |  1   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   |
-|  5   | 3월31일 |  1   | Capstone 1: Continued (with Bootstrap)                                            | 캡스톤1: 연속 (부트스트랩 사용)                                             |
+|  5   | 3월31일 |  1   | [Capstone 1: Continued (with Bootstrap)](/schedule.html#week-5--5주차-3월31일)    | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)     |
 |  6   | 4월7일  |  2   | Express Webserver                                                                 | 익스프레스 웹서버 연결                                                      |
 |  7   | 4월14일 |  2   | Capstone 2: Express Web App                                                       | 캡스톤2: 익스프레스 웹 앱 모델                                              |
 |  8   | 4월21일 |  --  | Midterm Exam / Project                                                            | 중간고사                                                                    |
