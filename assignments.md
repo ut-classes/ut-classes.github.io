@@ -84,7 +84,7 @@ Total points until today / 오늘까지의 총 점수: **`36`**
 
 ##### 2. Webserver Capstone / 웹 서버 캡스톤
 
-- **2-webserver-capstone (Tests pass) `(20/20)`**
+- **2-webserver-capstone (Tests pass) `(20/20)`** _(4월 14일까지)_
   - main.js `(2/2)`
   - router.js `(2/2)`
   - content-types.js `(2/2)`
