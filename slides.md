@@ -21,6 +21,9 @@
 
 ## Slides / 스라이드
 
+[Test download](/slides/_0-NodeJS-수업-소개.pdf)
+[Download 2](/slides/0-0-class-introduction.pdf)
+
 PDF versions of slides will be available here _before_ each class. 슬라이드는 강의 전에 여기에 제공됩니다.
 
 | Week  | Date         | Slides                                                      |                                                                                                                👀                                                                                                                |                                                                                                  👇                                                                                                   |
