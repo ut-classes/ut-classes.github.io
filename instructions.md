@@ -25,7 +25,7 @@
 
 These instructions were presented in the 3rd week with the following PPT. For pictures to accompany the directions, [click here to download the PDF](https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_3.%20%EA%B3%BC%EC%A0%9C%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%ED%95%B4%EA%B2%B0.pdf). 이 방법은 3주차에 PPT로 설명되었습니다. 사진을 보려면 여기를 클릭하여 PDF를 다운로드하십시오.
 
-![3rd-week-PPT-toc](/img/gh-pages/instructions/_3.%20과제%20문제와%20해결_Page_02.jpg)
+![3rd-week-PPT-toc](/img/gh-pages/instructions/instructions_Page_02.jpg)
 
 There are 3 major issues to address when completing assignments. 과제를 완료할 때 3가지 주요 문제가 있습니다.
 
@@ -50,7 +50,7 @@ After the software is installed, you will be able to access and complete the ass
 
 ### 1. Accessing the Assignment / 과제에 접근하기
 
-![3rd-week-PPT-access](/img/gh-pages/instructions/_3.%20과제%20문제와%20해결_Page_03.jpg)
+![3rd-week-PPT-access](/img/gh-pages/instructions/instructions_Page_03.jpg)
 
 #### Preferred Method (EASY WAY) / 선호하는 방법 (쉬운 방법)
 
@@ -58,10 +58,10 @@ All assignments will be accessible from the [Assignments page](https://ut-nodejs
 
 To access the assignment: 과제에 접근하려면 다음을 수행하십시오.
 
-| ![3rd-week-PPT-access-1](/img/gh-pages/instructions/_3.%20과제%20문제와%20해결_Page_06.jpg) | 1. Click the Assignment link for your class (**오전** or _오후_). 수업의 과제 링크를 클릭합니다 (**오전** 또는 _오후_). |
-| ![3rd-week-PPT-access-2](/img/gh-pages/instructions/_3.%20과제%20문제와%20해결_Page_07.jpg) | 2. On the GitHub Classroom page, "Accept assignment" to create your personal respository. GitHub Classroom 페이지에서 "과제 수락"을 클릭하여 개인 저장소를 만듭니다. |
-| ![3rd-week-PPT-access-3](/img/gh-pages/instructions/_3.%20과제%20문제와%20해결_Page_08.jpg) | 3. Refresh the page. The assignment should now be visible. 페이지를 새로 고칩니다. 이제 과제가 표시됩니다. |
-| ![3rd-week-PPT-access-4](/img/gh-pages/instructions/_3.%20과제%20문제와%20해결_Page_09.jpg) | 4. Click "Open in VS Code" to automatically clone the repository to your local computer and open it. "VS Code에서 열기"를 클릭하여 저장소를 로컬 컴퓨터에 자동으로 복제하고 엽니다. |
+| ![3rd-week-PPT-access-1](/img/gh-pages/instructions/instructions_Page_06.jpg) | 1. Click the Assignment link for your class (**오전** or _오후_). 수업의 과제 링크를 클릭합니다 (**오전** 또는 _오후_). |
+| ![3rd-week-PPT-access-2](/img/gh-pages/instructions/instructions_Page_07.jpg) | 2. On the GitHub Classroom page, "Accept assignment" to create your personal respository. GitHub Classroom 페이지에서 "과제 수락"을 클릭하여 개인 저장소를 만듭니다. |
+| ![3rd-week-PPT-access-3](/img/gh-pages/instructions/instructions_Page_08.jpg) | 3. Refresh the page. The assignment should now be visible. 페이지를 새로 고칩니다. 이제 과제가 표시됩니다. |
+| ![3rd-week-PPT-access-4](/img/gh-pages/instructions/instructions_Page_09.jpg) | 4. Click "Open in VS Code" to automatically clone the repository to your local computer and open it. "VS Code에서 열기"를 클릭하여 저장소를 로컬 컴퓨터에 자동으로 복제하고 엽니다. |
 
 If VS Code does NOT properly clone and open your repository to your local computer, you may try the following solutions. VS Code가 저장소를 로컬 컴퓨터에 올바르게 복제하고 열지 않는 경우 다음 솔루션을 시도할 수 있습니다.
 
