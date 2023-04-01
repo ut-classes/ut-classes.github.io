@@ -7,6 +7,7 @@
   <a href="/project.html" title="Project">프로젝트</a> |
   <a href="/tests.html" title="Tests">시험</a> |
   <a href="/grading.html" title="Grading"><u>[성적]</u></a> |
+  <a href="/resources.html" title="Resources">자료</a>
   <!-- <a href="https://pollev.com/aarons007" title="PollEverywhere">설문↗️</a> -->
 </p>
 
@@ -32,10 +33,19 @@
 
 ---
 
+### List of Assignments / 과제 목록
+
+Total points until today / 오늘까지의 총 점수: **`36`**
+
+##### 0. Starting Node.js / Node.js 시작하기
+
 - **0-starting-nodejs (Tests pass) `(6/6)`** _(4월 7일까지)_
   - messages.js `(2/2)`
   - numbers.js `(2/2)`
   - print.js `(2/2)`
+
+##### 1. Node.js Web Server / Node.js 웹 서버
+
 - **1-node-webserver (NO TESTS) `(10/10)`** _(4월 7일까지)_
   - lesson-5
     - listing5.4.EX.js `(2/2)`
@@ -44,6 +54,9 @@
     - listing6.4.EX.js `(2/2)`
     - listing6.5.TODO.js `(2/2)`
     - listing6.6.TODO.js `(2/2)`
+
+##### 2. Webserver Capstone / 웹 서버 캡스톤
+
 - **2-webserver-capstone (Tests pass) `(20/20)`**
   - main.js `(2/2)`
   - router.js `(2/2)`

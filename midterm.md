@@ -19,32 +19,12 @@
 
 ---
 
-## Tests / 시험
-
-Details about your tests will live here. 시험 대한 세부 정보가 여기에 표시된다.
-
-### Midterm Test / 중간고사
+## Midterm Test / 중간고사
 
 Schedule: **4월21일 일정**
 
-Before the midterm, we will cover the following topics. 중간고사 전에 다음과 같은 주제를 다룰 것이다.
+### Study Guide / 공부 가이드
 
 - **HTTP 모듈**로 웹 서버 만들기
 - **Express 모듈**로 웹 서버 만들기
 - **HTML, CSS, JavaScript**로 웹 페이지 만들기
-
-Study Guide: [https://ut-nodejs.github.io/midterm.html](https://ut-nodejs.github.io/midterm.html)
-
----
-
-### Final Test / 기말고사
-
-Schedule: **6월16일 일정**
-
-Before the final, we will cover the following topics. 기간고사 전에 다음과 같은 주제를 다룰 것이다.
-
-- **MongoDB**로 데이터베이스 만들기
-- **Mongoose**로 데이터베이스 모델 만들기
-- **Passport**로 사용자 인증 구현하기
-
-Study Guide: [https://ut-nodejs.github.io/final.html](https://ut-nodejs.github.io/final.html)
