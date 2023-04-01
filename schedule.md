@@ -32,6 +32,8 @@
 
 ## This Week / 5주차 3월31일
 
+![this-week](/img/gh-pages/slides-covers/1.7b-bootstrap-supplement.jpg)
+
 #### 5. Capstone 1: Continued (with Bootstrap) / 캡스톤 1: 연속 (부트스트랩 사용)
 
 This week will include **more in-class coding time**. We will continue working on our first Capstone Project, adding Bootstrap to our web application. We will build a simple `index.html` page together with [Bootstrap](https://getbootstrap.kr) and students will add their own pages to the project.

@@ -23,6 +23,8 @@
 
 PDF versions of slides will be available here _before_ each class. 슬라이드는 강의 전에 여기에 제공됩니다.
 
+![this-week](/img/gh-pages/slides-covers/1.7b-bootstrap-supplement.jpg)
+
 | Week | Date     | Slides                                                                                                    |
 | :--: | -------- | --------------------------------------------------------------------------------------------------------- |
 |  1   | 3/3      | [\*0. Class, Book, Teacher Introduction / 수업 소개](/slides/0.0a-class-introduction.pdf)                 |
