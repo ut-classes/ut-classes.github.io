@@ -114,11 +114,16 @@ Some examples of good and bad commit messages are shown below. Good messages are
 
 The above is the **preferred** method to turn in assignments, but sometimes, you may not be able to for various reasons. 위 방법은 과제를 제출하는 **선호하는** 방법이지만, 다양한 이유로 수행할 수 없는 경우가 있습니다.
 
-- A different student's git id is registered on that computer. 다른 학생의 git id가 해당 컴퓨터에 등록되어 있습니다.
-- A different student's git id is linked to that VS Code. 다른 학생의 git id가 VS Code에 연결되어 있습니다.
-- A different student's assignment repository is linked. 다른 학생의 과제 저장소가 연결되어 있습니다.
-- You were unable to `git clone` the assignment and had to do a direct download instead. 과제를 `git clone`하지 못하고 직접 다운로드해야 했습니다.
-- Your git `user.name` and `user.email` are not set (you will see a popup error message). In this case, simply set your git id on that computer and try your `commit & push` again. git `user.name`과 `user.email`이 설정되지 않았습니다 (팝업 오류 메시지가 표시됨). 이 경우, 해당 컴퓨터에서 git id를 설정하고 다시 `commit & push`를 수행하십시오.
+- A different student's git id is registered on that computer.
+  - 다른 학생의 git id가 해당 컴퓨터에 등록되어 있습니다.
+- A different student's git id is linked to that VS Code.
+  - 다른 학생의 git id가 VS Code에 연결되어 있습니다.
+- A different student's assignment repository is linked.
+  - 다른 학생의 과제 저장소가 연결되어 있습니다.
+- You were unable to `git clone` the assignment and had to do a direct download instead.
+  - 과제를 `git clone`하지 못하고 직접 다운로드해야 했습니다.
+- Your git `user.name` and `user.email` are not set (you will see a popup error message). In this case, simply set your git id on that computer and try your `commit & push` again.
+  - git `user.name`과 `user.email`이 설정되지 않았습니다 (팝업 오류 메시지가 표시됨). 이 경우, 해당 컴퓨터에서 git id를 설정하고 다시 `commit & push`를 수행하십시오.
 
 | ![3rd-week-PPT-submit-8](/img/gh-pages/instructions/instructions_Page_26.jpg) | 1. Open Git Bash. Git Bash를 엽니다. |
 | ![3rd-week-PPT-submit-9](/img/gh-pages/instructions/instructions_Page_27.jpg) | 2. Type `git config --global user.name "Your name"` and press Enter. `git config --global user.name "Your name"`을 입력하고 Enter를 누릅니다. |
