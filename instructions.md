@@ -48,11 +48,11 @@ After the software is installed, you will be able to access and complete the ass
 
 ---
 
-### 1. Accessing the Assignment / 과제에 접근하기
+## 1. Accessing the Assignment / 과제에 접근하기
 
 ![3rd-week-PPT-access](/img/gh-pages/instructions/instructions_Page_03.jpg)
 
-#### Preferred Method (EASY WAY) / 선호하는 방법 (쉬운 방법)
+### Preferred Method (EASY WAY) / 선호하는 방법 (쉬운 방법)
 
 All assignments will be accessible from the [Assignments page](https://ut-nodejs.github.io/practice.html) from the start of each class. 모든 과제는 각 수업의 시작부터 [과제 페이지](https://ut-nodejs.github.io/practice.html)에서 액세스할 수 있습니다.
 
@@ -65,7 +65,7 @@ To access the assignment: 과제에 접근하려면 다음을 수행하십시오
 
 If VS Code does NOT properly clone and open your repository to your local computer, you may try the following solutions. VS Code가 저장소를 로컬 컴퓨터에 올바르게 복제하고 열지 않는 경우 다음 솔루션을 시도할 수 있습니다.
 
-#### Alternative Method 1: `git clone` / 대체 방법 1: `git clone`
+### Alternative Method 1: `git clone` / 대체 방법 1: `git clone`
 
 | ![3rd-week-PPT-access-5](/img/gh-pages/instructions/instructions_Page_15.jpg) | 1. Make sure you have created a personal folder for YOUR assignments on your computer's Desktop with your <USERNAME>. 컴퓨터의 데스크톱에 <USERNAME>으로 개인 과제를 위한 개인 폴더를 만들었는지 확인하십시오. |
 | ![3rd-week-PPT-access-6](/img/gh-pages/instructions/instructions_Page_13.jpg) | 2. Click the link to your personal respository (or go to [github.com/ut-nodejs](http://github.com/ut-nodejs) to find your assignment and open it). 개인 저장소에 대한 링크를 클릭하거나 github.com/ut-nodejs으로 이동하여 과제를 찾아 엽니다. |
@@ -76,7 +76,7 @@ If VS Code does NOT properly clone and open your repository to your local comput
 | ![3rd-week-PPT-access-11](/img/gh-pages/instructions/instructions_Page_16.jpg) | 7. Type `cd <ASSIGNMENT>` to move into the newly cloned git directory. `cd <ASSIGNMENT>`를 입력하여 새로 복제된 git 디렉토리로 이동합니다. |
 | ![3rd-week-PPT-access-12](/img/gh-pages/instructions/instructions_Page_16.jpg) | 8. Type `code .` to open the assignment in VS Code. `code .`를 입력하여 VS Code에서 과제를 엽니다. |
 
-#### Alternative Method 2: Direct Download / 대체 방법 2: 직접 다운로드
+### Alternative Method 2: Direct Download / 대체 방법 2: 직접 다운로드
 
 | ![3rd-week-PPT-access-13](/img/gh-pages/instructions/instructions_Page_15.jpg) | 1. Make sure you have created a personal folder for YOUR assignments on your computer's Desktop with your <USERNAME>. 컴퓨터의 데스크톱에 <USERNAME>으로 개인 과제를 위한 개인 폴더를 만들었는지 확인하십시오. |
 | ![3rd-week-PPT-access-14](/img/gh-pages/instructions/instructions_Page_13.jpg) | 2. Click the link to your personal respository (or go to [github.com/ut-nodejs](http://github.com/ut-nodejs) to find your assignment and open it). 개인 저장소에 대한 링크를 클릭하거나 github.com/ut-nodejs으로 이동하여 과제를 찾아 엽니다. |
@@ -90,11 +90,11 @@ If VS Code does NOT properly clone and open your repository to your local comput
 
 ---
 
-### 2. Submitting the Assignment / 과제 제출하기
+## 2. Submitting the Assignment / 과제 제출하기
 
 ![3rd-week-PPT-submit-1](/img/gh-pages/instructions/instructions_Page_21.jpg)
 
-#### Preferred Method (EASY WAY) / 선호하는 방법 (쉬운 방법)
+### Preferred Method (EASY WAY) / 선호하는 방법 (쉬운 방법)
 
 The easiest way to submit assignments is by performing a `commit & push` directly from within VS Code. 과제를 제출하는 가장 쉬운 방법은 VS Code에서 직접 `commit & push`를 수행하는 것입니다.
 
@@ -127,7 +127,7 @@ The above is the **preferred** method to turn in assignments, but sometimes, you
 
 In the above cases where you can't submit your assignment in the preferred method, you may try one of the alternatives listed below. 위에서 선호하는 방법으로 과제를 제출할 수 없는 경우, 아래에 나열된 대안 중 하나를 시도할 수 있습니다.
 
-#### Alternative 1: Command Line (after `git clone`) / 대안 1: 명령 줄 (git clone 후)
+### Alternative 1: Command Line (after `git clone`) / 대안 1: 명령 줄 (git clone 후)
 
 If another student's account is linked through VS Code, you may try pushing your code directly from the Git Bash command line. (Note that this method will _only_ work if you have also used the command line to `git clone` your repository to your Desktop). 다른 학생의 계정이 VS Code를 통해 연결되어 있는 경우, Git Bash 명령 줄에서 직접 코드를 푸시할 수 있습니다. (이 방법은 _only_ 커맨드 라인을 사용하여 저장소를 데스크탑에 `git clone`했을 때 작동합니다).
 
@@ -138,7 +138,7 @@ If another student's account is linked through VS Code, you may try pushing your
 | ![3rd-week-PPT-submit-16](/img/gh-pages/instructions/instructions_Page_32.jpg) | 5. Type `git commit -m "COMMIT MESSAGE"` to save all your modified files. `git commit -m "COMMIT MESSAGE"`를 입력하여 수정된 모든 파일을 저장합니다. |
 | ![3rd-week-PPT-submit-17](/img/gh-pages/instructions/instructions_Page_33.jpg) | 6. Type `git push origin main` to push your files back to GitHub Classroom online. `git push origin main`을 입력하여 파일을 GitHub Classroom 온라인으로 다시 푸시합니다. |
 
-#### Alternative 2: Direct Upload / 대안 2: 직접 업로드
+### Alternative 2: Direct Upload / 대안 2: 직접 업로드
 
 If all of the above methods have failed, you may try a direct upload of your modified files. 만약 위의 모든 방법이 실패했다면, 수정된 파일을 직접 업로드할 수 있습니다.
 
@@ -154,11 +154,11 @@ If all of the above methods have failed, you may try a direct upload of your mod
 
 ---
 
-### 3. Checking the Assignment / 과제 확인
+## 3. Checking the Assignment / 과제 확인
 
 ![3rd-week-PPT-check-1](/img/gh-pages/instructions/instructions_Page_37.jpg)
 
-#### Checking on your local computer / 로컬 컴퓨터에서 확인
+### Checking on your local computer / 로컬 컴퓨터에서 확인
 
 The most basic method for checking whether your files run correctly is to simply run the file with `node`. 제일 기본적인 방법은 파일을 `node`로 실행하는 것입니다.
 
@@ -179,7 +179,7 @@ If your tests PASS, congratulations! Be sure to `commit & push` your work back t
 
 If your tests FAIL, carefully read the Error Messages and try to understand what you did wrong, and what results the tests are expecting. 테스트가 실패하면, 에러 메시지를 주의 깊게 읽고 무엇을 잘못했는지, 테스트가 기대하는 결과는 무엇인지 이해하려고 노력하십시오.
 
-#### Checking online with GitHub Actions / GitHub Actions로 온라인에서 확인
+### Checking online with GitHub Actions / GitHub Actions로 온라인에서 확인
 
 You can also check whether your tests pass in the "Actions" tab in your assignment repository online. 또한, 과제 저장소의 "Actions" 탭에서 테스트가 통과하는지 확인할 수 있습니다.
 
