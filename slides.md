@@ -35,5 +35,7 @@ PDF versions of slides will be available here _before_ each class. 슬라이드�
 |  4   | 3/17, 24 | [Unit 1. Starting Node.js / Node.js의 시작](/slides/1.3-6-starting-nodejs.pdf)                                    |
 |  5   | 3/24, 31 | [Capstone 1. First Web App / 첫 웹 앱](/slides/1.7-first-web-app.pdf)                                             |
 |  5   | 3/31     | [Capstone 1 (with Bootstrap) / 캡스톤 1 하고 부트스트랩 포함](/slides/1.7b-first-web-app-bootstrap.pdf)           |
-|  6   | 4/7      | [Unit 2. Web Development with Express.js / Express.js를 통한 웹 개발](/slides/2.8-11.express-web-development.pdf) |
+|  6   | **4/7**  | [Unit 2. Web Development with Express.js / Express.js를 통한 웹 개발](/slides/2.8-11-express-web-development.pdf) |
 |  7   | 4/14     | Capstone 2. Express.js Web App / Express.js 웹 앱                                                                 |
+|  7   | 4/14     | Unit 3. Connecting to MongoDB / 데이터베이스 연결                                                                 |
+|  7   | 4/14     | **Midterm Test Review / 중간고사 복습**                                                                           |
