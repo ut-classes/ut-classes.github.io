@@ -33,7 +33,7 @@
 
 #### List of Assignments / 과제 목록
 
-See the list of assignments [here](/assignments.html/#list-of-assignments--과제-목록).
+See the list of assignments [here](/assignments.html#list-of-assignments--과제-목록).
 
 ---
 
