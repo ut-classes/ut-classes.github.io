@@ -23,7 +23,7 @@
 
 PDF versions of slides will be available here _before_ each class. 슬라이드는 강의 전에 여기에 제공됩니다.
 
-![this-week](/img/gh-pages/slides-covers/1.7b-bootstrap-supplement.jpg)
+![this-week](/img/gh-pages/slides-covers/2.8-11-express-web-development.jpg)
 
 | Week | Date     | Slides                                                                                                            |
 | :--: | -------- | ----------------------------------------------------------------------------------------------------------------- |
