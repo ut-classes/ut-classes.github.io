@@ -75,7 +75,7 @@ This week will include **more in-class coding time**. We will continue working o
 |  3   | 3/17 |  1   | [Node Webserver First Steps](/schedule.html#week-3--3주차-3월17일)                | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 |
 |  4   | 3/24 |  1   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   |
 |  5   | 3/31 |  1   | [Capstone 1: Continued (with Bootstrap)](/schedule.html#week-5--5주차-3월31일)    | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)     |
-|  6   | 4/7  |  2   | Express Webserver                                                                 | 익스프레스 웹서버 연결                                                      |
+|  6   | 4/7  |  2   | [Web Development with Express.js](/schedule.html#week-6--6주차-4월7일)            | [Express.js를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)            |
 |  7   | 4/14 |  2   | Capstone 2: Express Web App                                                       | 캡스톤2: 익스프레스 웹 앱 모델                                              |
 |  8   | 4/21 |  --  | Midterm Exam / Project                                                            | 중간고사                                                                    |
 |  9   | 4/28 |  3   | Connecting to MongoDB (Capstone 3)                                                | MongoDB 연결 (캡스톤3)                                                      |
