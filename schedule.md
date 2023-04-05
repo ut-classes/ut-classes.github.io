@@ -328,7 +328,7 @@ Let's change things up a little bit this week. We will be learning about [Expres
 - [6주차 _오후_ 과제 받기]()
 - [6주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/4)
 
-See the [List of Assignments](https://ut-nodejs.github.io/assignments.html/#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
+See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
 ##### Resources / 리소스
 
