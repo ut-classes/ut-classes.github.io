@@ -311,3 +311,44 @@ This week will include **more in-class coding time**. We will continue working o
 - [Bootstrap 문서](https://getbootstrap.kr/docs/5.2/getting-started/introduction/)
 
 ###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
+
+---
+
+### Week 6 / 6주차 4월7일
+
+#### 6. Unit 2: Web Development with Express.js / Express.js를 통한 웹 개발
+
+Let's change things up a little bit this week. We will be learning about [Express.js](https://expressjs.com/ko/), a popular web framework for Node.js. It makes it easier to build web applications and APIs. We will also learn about the [EJS](https://ejs.co/) template engine, which is used to generate HTML, and [middleware](https://expressjs.com/ko/guide/using-middleware.html), which is code that runs between the request and the response.
+
+이번 주에는 조금 다른 것을 배워보겠습니다. 우리는 [Express.js](https://expressjs.com/ko/)를 배울 것입니다. 이것은 Node.js의 인기있는 웹 프레임워크입니다. 웹 응용 프로그램과 API를 더 쉽게 만들 수 있습니다. 우리는 또한 HTML을 생성하기 위해 사용되는 [EJS](https://ejs.co/) 템플릿 엔진과 요청과 응답 사이에 실행되는 코드인 [미들웨어](https://expressjs.com/ko/guide/using-middleware.html)에 대해 배울 것입니다.
+
+##### Assignment / 과제
+
+- [6주차 **오전** 과제 받기]()
+- [6주차 _오후_ 과제 받기]()
+- [6주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/4)
+
+See the [List of Assignments](https://ut-nodejs.github.io/assignments.html/#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
+
+##### Resources / 리소스
+
+- PPT <a href="/slides/2.8-11-express-web-development.pdf">Unit 2: 8-11. Web Development with Express.js / Express.js를 통한 웹 개발</a>
+- [Express.js](https://expressjs.com/ko/)
+- [Express 미들웨어](https://expressjs.com/ko/guide/using-middleware.html)
+- [EJS 템플릿 엔진](https://ejs.co/)
+
+##### Required Reading / 필수 독서
+
+- [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
+  - pp. 133-141 (Lesson 8: Express.js 설정)
+  - pp. 143-154 (Lesson 9: Express.js에서의 라우트)
+  - pp. 155-164 (Lesson 10: 뷰와 템플릿의 연결)
+  - pp. 165-171 (Lesson 11: 설정과 에러 처리)
+
+##### Recommended reading / 추천 독서
+
+- [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
+  - pp. 179-216 (4장: http 모듈로 서버 만들기)
+  - pp. 217-240 (5장: 패키지 매니저)
+
+###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)

@@ -20,6 +20,8 @@
 
 ## Course Resources / 강의 자료
 
+| [HTML Starter Files](https://github.com/ut-nodejs/html-starter-files) | [과제 솔루션](https://github.com/ut-nodejs/assignment-solutions) |
+
 ### Main Texts / 주제책
 
 | Textbook                                                                              | Supplementary book                                                                    |
