@@ -86,32 +86,21 @@ Total points until today / 오늘까지의 총 점수: **`36`**
 
 ##### 2. Webserver Capstone / 웹 서버 캡스톤
 
-- **2-webserver-capstone (Tests pass) `(20/20)`** _(4월 14일까지)_
+- **2-webserver-capstone (Tests pass) `(8/8)`** _(4월 14일까지)_
   - main.js `(2/2)`
   - router.js `(2/2)`
   - content-types.js `(2/2)`
   - utils.js `(2/2)`
-  - views
-    - index.html `(2/2)`
-    - about.html `(2/2)`
-    - contact.html `(2/2)`
-    - thanks.html `(2/2)`
-    - 404.html `(2/2)`
-  - public (css와 js과 img 폴더 포함) `(2/2)`
 
 ##### 3. Express.js / 익스프레스
 
-- **3-express-webserver (Tests pass) `(20/20)`** _(4월 21일까지)_
+- **3-express-webserver (Tests pass) `(12/12)`** _(4월 21일까지)_
   - lesson-9
     - 9.7.EX.js `(2/2)`
     - /controllers/homeController.js `(2/2)`
   - lesson-10
     - main.js `(2/2)`
     - /controllers/homeController.js `(2/2)`
-    - /views `(2/2)`
   - lesson-11
     - main.js `(2/2)`
-    - /controllers/homeController.js `(2/2)`
     - /controllers/errorController.js `(2/2)`
-    - /views `(2/2)`
-    - /public `(2/2)`

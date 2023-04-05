@@ -31,44 +31,11 @@
   - `1점`: 과제를 제출함
   - `2점`: 과제를 제출하고, 제출한 과제가 정상적으로 동작함
 
+#### List of Assignments / 과제 목록
+
+See the list of assignments [here](/assignments.html/#list-of-assignments--과제-목록).
+
 ---
-
-### List of Assignments / 과제 목록
-
-Total points until today / 오늘까지의 총 점수: **`36`**
-
-##### 0. Starting Node.js / Node.js 시작하기
-
-- **0-starting-nodejs (Tests pass) `(6/6)`** _(4월 7일까지)_
-  - messages.js `(2/2)`
-  - numbers.js `(2/2)`
-  - print.js `(2/2)`
-
-##### 1. Node.js Web Server / Node.js 웹 서버
-
-- **1-node-webserver (NO TESTS) `(10/10)`** _(4월 7일까지)_
-  - lesson-5
-    - listing5.4.EX.js `(2/2)`
-    - listing5.6.TODO.js `(2/2)`
-  - lesson-6
-    - listing6.4.EX.js `(2/2)`
-    - listing6.5.TODO.js `(2/2)`
-    - listing6.6.TODO.js `(2/2)`
-
-##### 2. Webserver Capstone / 웹 서버 캡스톤
-
-- **2-webserver-capstone (Tests pass) `(20/20)`**
-  - main.js `(2/2)`
-  - router.js `(2/2)`
-  - content-types.js `(2/2)`
-  - utils.js `(2/2)`
-  - views
-    - index.html `(2/2)`
-    - about.html `(2/2)`
-    - contact.html `(2/2)`
-    - thanks.html `(2/2)`
-    - 404.html `(2/2)`
-  - public (css와 js과 img 폴더 포함) `(2/2)`
 
 Grading will be broken down into 5 main components.<br/>
 성적으로는 다음과 같은 5가지 요소로 나누어 계산됩니다.
