@@ -20,6 +20,7 @@
 ---
 
 | [**오전** ☕ 수업 오픈 채팅](https://open.kakao.com/o/gJjKj58e) | [_오후_ 🍔 수업 오픈 채팅](https://open.kakao.com/o/gUYQUlaf) |
+| [HTML Starter Files](https://github.com/ut-nodejs/html-starter-files) | [과제 솔루션](https://github.com/ut-nodejs/assignment-solutions) |
 
 This repository contains the course materials for the [Computer Science](https://www.ut.ac.kr/ceit/sub02_00.do) course [Web Programming Application](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger. 이 저장소는 [컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) 과정 [웹프로그래밍응용](https://ut-nodejs.github.io)은 에런 스노버거가 2023년 봄에 가르쳤다.
 
