@@ -30,39 +30,43 @@
 | Notes    | MORE students gone (again) - 9 this week           | Only 2 missing today                      |
 -->
 
-## This Week / 5주차 3월31일
+## This Week / 6주차 4월7일
 
-![this-week](/img/gh-pages/slides-covers/1.7b-bootstrap-supplement.jpg)
+![this-week](/img/gh-pages/slides-covers/2.8-11-express-web-development.jpg)
 
-#### 5. Capstone 1: Continued (with Bootstrap) / 캡스톤 1: 연속 (부트스트랩 사용)
+#### 6. Unit 2: Web Development with Express.js / Express.js를 통한 웹 개발
 
-This week will include **more in-class coding time**. We will continue working on our first Capstone Project, adding Bootstrap to our web application. We will build a simple `index.html` page together with [Bootstrap](https://getbootstrap.kr) and students will add their own pages to the project.
+Let's change things up a little bit this week. We will be learning about [Express.js](https://expressjs.com/ko/), a popular web framework for Node.js. It makes it easier to build web applications and APIs. We will also learn about the [EJS](https://ejs.co/) template engine, which is used to generate HTML, and [middleware](https://expressjs.com/ko/guide/using-middleware.html), which is code that runs between the request and the response.
 
-이번 주에는 **수업 중 더 많은 코딩 시간**이 포함될 것입니다. 우리는 웹 응용 프로그램에 [부트스트랩](https://getbootstrap.kr)을 추가하여 첫 번째 캡스톤 프로젝트를 계속 작업할 것입니다. 우리는 간단한 `index.html` 페이지를 부트스트랩과 함께 만들고 학생들은 자신의 페이지를 프로젝트에 추가할 것입니다.
+이번 주에는 조금 다른 것을 배워보겠습니다. 우리는 [Express.js](https://expressjs.com/ko/)를 배울 것입니다. 이것은 Node.js의 인기있는 웹 프레임워크입니다. 웹 응용 프로그램과 API를 더 쉽게 만들 수 있습니다. 우리는 또한 HTML을 생성하기 위해 사용되는 [EJS](https://ejs.co/) 템플릿 엔진과 요청과 응답 사이에 실행되는 코드인 [미들웨어](https://expressjs.com/ko/guide/using-middleware.html)에 대해 배울 것입니다.
 
 ##### Assignment / 과제
 
-- 이 번주의 저장소 (과제)
-  - [프로젝트 readme.md](https://github.com/ut-nodejs/2-webserver-capstone)의 지침을 따르고 완성된 웹 애플리케이션을 GitHub 클래스룸으로 "커밋 및 푸시" 하십시오.
+- [6주차 **오전** 과제 받기]()
+- [6주차 _오후_ 과제 받기]()
+- [6주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/4)
+
+See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
 ##### Resources / 리소스
 
-- PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1-7.%20%EC%BA%A1%EC%8A%A4%ED%86%A41%20-%20%EC%B2%AB%20%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98.pdf">Unit 1-7. Capstone 1: First Web Application / 캡스톤1: 첫 웹 애플리케이션</a>
-- PPT <a href="https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1-7b.%20%EC%BA%A1%EC%8A%A4%ED%86%A41%20-%20%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9%20%EB%B3%B4%EC%B6%A9.pdf">Unit 1-7b. Capstone 1 (with Bootstrap) / 캡스톤 1 하고 부트스트랩 포함</a>
-- [Heropy 튜토리얼](https://heropy.blog/2019/04/24/html-css-starter/)
-- [Bootstrap CSS](https://getbootstrap.kr/) (한국어)
-- [Pixabay.com](https://pixabay.com) (저작권 없는 이미지)
-- [2주차 과제의 readme.md](https://github.com/ut-nodejs/0-starting-nodejs)
-- [4주차 과제의 readme.md](https://github.com/ut-nodejs/2-webserver-capstone)
+- PPT <a href="/slides/2.8-11-express-web-development.pdf">Unit 2: 8-11. Web Development with Express.js / Express.js를 통한 웹 개발</a>
+- [Express.js](https://expressjs.com/ko/)
+- [Express 미들웨어](https://expressjs.com/ko/guide/using-middleware.html)
+- [EJS 템플릿 엔진](https://ejs.co/)
 
 ##### Required Reading / 필수 독서
 
 - [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
-  - pp. 117-129 (Lesson 7: 캡스톤 프로젝트: 첫 번째 웹 애플리케이션)
+  - pp. 133-141 (Lesson 8: Express.js 설정)
+  - pp. 143-154 (Lesson 9: Express.js에서의 라우트)
+  - pp. 155-164 (Lesson 10: 뷰와 템플릿의 연결)
+  - pp. 165-171 (Lesson 11: 설정과 에러 처리)
 
 ##### Recommended reading / 추천 독서
 
-- [Bootstrap 문서](https://getbootstrap.kr/docs/5.2/getting-started/introduction/)
+- [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
+  - pp. 241-290 (6장: 익스프레스 웹 서버 만들기)
 
 ---
 
