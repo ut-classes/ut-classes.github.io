@@ -348,7 +348,6 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 ##### Recommended reading / 추천 독서
 
 - [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
-  - pp. 179-216 (4장: http 모듈로 서버 만들기)
-  - pp. 217-240 (5장: 패키지 매니저)
+  - pp. 241-290 (6장: 익스프레스 웹 서버 만들기)
 
 ###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
