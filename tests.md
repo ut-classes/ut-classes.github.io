@@ -31,7 +31,7 @@ Before the midterm, we will cover the following topics. 중간고사 전에 다�
 
 - **HTTP 모듈**로 웹 서버 만들기
 - **Express 모듈**로 웹 서버 만들기
-- **HTML, CSS, JavaScript**로 웹 페이지 만들기
+- <del>**HTML, CSS, JavaScript**로 웹 페이지 만들기</del>
 
 Study Guide: [https://ut-nodejs.github.io/midterm.html](https://ut-nodejs.github.io/midterm.html)
 

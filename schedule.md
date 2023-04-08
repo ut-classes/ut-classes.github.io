@@ -42,8 +42,8 @@ Let's change things up a little bit this week. We will be learning about [Expres
 
 ##### Assignment / 과제
 
-- [6주차 **오전** 과제 받기]()
-- [6주차 _오후_ 과제 받기]()
+- [6주차 **오전** 과제 받기](https://classroom.github.com/a/rmcCIOLs)
+- [6주차 _오후_ 과제 받기](https://classroom.github.com/a/PS97F3y2)
 - [6주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/4)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
@@ -328,8 +328,8 @@ Let's change things up a little bit this week. We will be learning about [Expres
 
 ##### Assignment / 과제
 
-- [6주차 **오전** 과제 받기]()
-- [6주차 _오후_ 과제 받기]()
+- [6주차 **오전** 과제 받기](https://classroom.github.com/a/rmcCIOLs)
+- [6주차 _오후_ 과제 받기](https://classroom.github.com/a/PS97F3y2)
 - [6주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/4)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
@@ -348,6 +348,49 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
   - pp. 143-154 (Lesson 9: Express.js에서의 라우트)
   - pp. 155-164 (Lesson 10: 뷰와 템플릿의 연결)
   - pp. 165-171 (Lesson 11: 설정과 에러 처리)
+
+##### Recommended reading / 추천 독서
+
+- [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
+  - pp. 241-290 (6장: 익스프레스 웹 서버 만들기)
+
+###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
+
+---
+
+### Week 7 / 7주차 4월14일
+
+#### 7. Unit 3: Connecting to MongoDB / MongoDB에 연결
+
+It's time to start working with a database where we can store our data. We will be using [MongoDB](https://www.mongodb.com/), a popular NoSQL database. We will also be using [Mongoose](https://mongoosejs.com/), an Object Data Modeling (ODM) library for MongoDB and Node.js. **This week we will also be going over the [Midterm Study Guide.](/midterm.html)**
+
+데이터를 저장할 수 있는 데이터베이스를 사용하여 작업을 시작할 시간입니다. 우리는 인기있는 NoSQL 데이터베이스인 [MongoDB](https://www.mongodb.com/)를 사용할 것입니다. 우리는 또한 MongoDB와 Node.js를 위한 객체 데이터 모델링 (ODM) 라이브러리인 [Mongoose](https://mongoosejs.com/)를 사용할 것입니다. **이번 주에는 [중간고사 스터디 가이드](/midterm.html)도 다룰 것입니다.**
+
+##### Assignment / 과제
+
+- [7주차 **오전** 과제 받기]()
+- [7주차 _오후_ 과제 받기]()
+- [7주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/5)
+
+See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
+
+##### Resources / 리소스
+
+- PPT <a href="/slides/3.13-15-connecting-mongodb.pdf">Unit 3: 13-16. Connecting to MongdoDB / MongoDB에 연결</a>
+- [Midterm Study Guide / 중간고사 스터디 가이드](/midterm.html)
+- [MongoDB](https://www.mongodb.com/ko-kr/)
+- [MongoDB Shell](https://www.mongodb.com/try/download/shell)
+- [Mongoose](https://mongoosejs.com/)
+- [Mongoose Schema](https://mongoosejs.com/docs/guide.html#definition)
+- [How to Install MongoDB on Windows (사진)](https://www.knowledgehut.com/blog/web-development/install-mongodb-on-windows)
+- [Windows에서 Chocolatey를 사용하여 MongoDB 설치](https://whatilearned.tistory.com/139)
+
+##### Required Reading / 필수 독서
+
+- [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
+  - pp. 189-202 (Lesson 13: MongoDB 셋업)
+  - pp. 203-211 (Lesson 14: Mongoose를 사용한 모델 제작)
+  - pp. 213-226 (Lesson 15: 컨트롤러와 모델과의 연결)
 
 ##### Recommended reading / 추천 독서
 
