@@ -104,3 +104,18 @@ Total points until today / 오늘까지의 총 점수: **`36`**
   - lesson-11
     - main.js `(2/2)`
     - /controllers/errorController.js `(2/2)`
+
+##### 4. MongoDB / 몽고 데이터베이스
+
+- **4-connecting-mongodb (NO TESTS) `(16/16)`** _(4월 21일까지)_
+  - lesson-13 (MongoDB)
+    - main.js `(2/2)`
+  - lesson-14 (Mongoose)
+    - main1.js `(2/2)`
+    - main2.js `(2/2)`
+    - /models/subscriber.js `(2/2)`
+  - lesson-15 (Mongoose)
+    - main.js `(2/2)`
+    - /controllers/subscribersController.js `(2/2)`
+    - subscribers.ejs `(2/2)`
+    - seed.js `(2/2)`
