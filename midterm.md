@@ -705,13 +705,71 @@ app.use((request, response, next) => {
 The template engine is responsible for generating the HTML that is sent to the client. In this tutorial, we will use the EJS template engine. EJS makes it possible to use plain JavaScript in HTML files as well as to create reusable partial components.<br>
 템플릿 엔진은 클라이언트에게 전송되는 HTML을 생성하는 책임이 있습니다. 이 튜토리얼에서는 EJS 템플릿 엔진을 사용합니다. EJS를 사용하면 HTML 파일에서 일반 JavaScript를 사용하고 재사용 가능한 부분 컴포넌트를 만들 수 있습니다.
 
+We can create a template by creating a file with the `.ejs` extension in the `views` directory.<br>
+`views` 디렉토리에 `.ejs` 확장자를 가진 파일을 만들어 템플릿을 만들 수 있습니다.
+
 ```html
+<!-- views/users.ejs -->
 <h1><%= title %></h1>
 <ul>
   <% for (let i = 0; i < users.length; i++) { %>
   <li><%= users[i].name %></li>
   <% } %>
 </ul>
+```
+
+### Setting Up the Template Engine
+
+We can set up the EJS template engine by calling the `app.set` method and passing in the `view engine` property.<br>
+`app.set` 메서드를 호출하고 `view engine` 속성을 전달하여 EJS 템플릿 엔진을 설정할 수 있습니다.
+
+```js
+const port = 3000;
+const express = require("express");
+const app = express();
+
+app.set("view engine", "ejs");
+
+// ...
+```
+
+### `set` and `get` Methods
+
+The `app.set` method is used to set Express application settings. The `app.get` method is used to get Express application settings.<br>
+`app.set` 메서드는 Express 애플리케이션 설정을 설정하는 데 사용됩니다. `app.get` 메서드는 Express 애플리케이션 설정을 가져 오는 데 사용됩니다.
+
+```js
+app.set("view engine", "ejs");
+app.get("view engine");
+
+app.set("port", 3000);
+app.listen(app.get("port"));
+```
+
+### Rendering & Passing Data to a Template
+
+We can render a template by calling the `response.render` method and passing in the name of the template file and the data that will be used to populate the template.<br>
+`response.render` 메서드를 호출하고 템플릿 파일의 이름과 템플릿을 채우기 위해 사용될 데이터를 전달하여 템플릿을 렌더링 할 수 있습니다.
+
+We can pass data to templates by passing an object as the second argument to the `response.render` method.<br>
+`response.render` 메서드의 두 번째 인수로 객체를 전달하여 템플릿에 데이터를 전달할 수 있습니다.
+
+```js
+app.get("/", (request, response) => {
+  response.render("index", { title: "My Express App", message: "Hello" });
+});
+```
+
+### Using Partials
+
+We can create reusable partial components by creating a file with the `.ejs` extension in the `views/partials` directory.<br>
+`views/partials` 디렉토리에 `.ejs` 확장자를 가진 파일을 만들어 재사용 가능한 부분 컴포넌트를 만들 수 있습니다.
+
+```html
+<!-- views/partials/header.ejs -->
+<header>
+  <h1><%= title %></h1>
+</header>
 ```
 
 ## 10. MVC Pattern
@@ -729,7 +787,7 @@ MVC 패턴은 Model-View-Controller의 약자입니다. 이것은 응용 프로�
   - application logic layer (handled by Express)
   - 응용 프로그램 로직 계층 (Express에 의해 처리됨)
 
-### Creating a Schema
+### Model: Creating a Schema (Unit 3 - later)
 
 We can create a schema by using the `mongoose.Schema` function. The first argument is an object that defines the properties of the schema. The second argument is an optional object that defines the schema options.<br>
 `mongoose.Schema` 함수를 사용하여 스키마를 만들 수 있습니다. 첫 번째 인수는 스키마의 속성을 정의하는 객체입니다. 두 번째 인수는 스키마 옵션을 정의하는 선택적 객체입니다.
@@ -747,4 +805,59 @@ const UserSchema = new mongoose.Schema(
     timestamps: true,
   }
 );
+```
+
+### View: Rendering a Template
+
+We are using the EJS template engine to pass data to our views and render templates (see above).<br>
+데이터를 뷰에 전달하고 템플릿을 렌더링하는 데 EJS 템플릿 엔진을 사용합니다 (위 참조).
+
+```js
+app.get("/", (request, response) => {
+  response.render("index", { title: "My Express App", message: "Hello" });
+});
+```
+
+### Controller: Handling Routes
+
+We can handle routes by using the `app.get` and `app.post` methods.<br>
+`app.get` 및 `app.post` 메서드를 사용하여 라우트를 처리할 수 있습니다.
+
+```js
+app.get("/", (request, response) => {
+  response.render("index", { title: "My Express App", message: "Hello" });
+});
+
+app.post("/users", (request, response) => {
+  console.log(request.body);
+  response.send("Testing");
+});
+```
+
+### Controller: Handling Form Data
+
+We can access form data by using the `request.body` property.<br>
+`request.body` 속성을 사용하여 폼 데이터에 액세스 할 수 있습니다.
+
+```js
+app.post("/users", (request, response) => {
+  console.log(request.body);
+  response.send("Testing");
+});
+```
+
+### Controller: Handling Errors
+
+We can handle errors by using the `next` function.<br>
+`next` 함수를 사용하여 오류를 처리할 수 있습니다.
+
+```js
+app.post("/users", (request, response, next) => {
+  try {
+    console.log(request.body);
+    response.send("Testing");
+  } catch (error) {
+    next(error);
+  }
+});
 ```
