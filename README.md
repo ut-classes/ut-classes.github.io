@@ -73,7 +73,7 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 |  4   | 3/24  |  1   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   |
 |  5   | 3/31  |  1   | [Capstone 1: Continued (with Bootstrap)](/schedule.html#week-5--5주차-3월31일)    | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)     |
 |  6   | 4/7   |  2   | [Express Webserver](/schedule.html#week-6--6주차-4월7일)                          | [Express를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)               |
-|  7   | 4/14  |  2   | Capstone 2: Express Web App                                                       | 캡스톤2: 익스프레스 웹 앱 모델                                              |
+|  7   | 4/14  |  3   | [Connecting MongoDB](/schedule.html#week-7--7주차-4월14일)                        | [MongoDB 연결](<(/schedule.html#week-7--7주차-4월14일)>) 모델               |
 |  8   | 4/21  |  --  | Midterm Exam / Project                                                            | 중간고사                                                                    |
 |  9   | 4/28  |  3   | Connecting to MongoDB (Capstone 3)                                                | MongoDB 연결 (캡스톤3)                                                      |
 |  --  | 5/5   |  --  | _HOLIDAY: Children's Day_                                                         | _공휴일: 어린이날_                                                          |

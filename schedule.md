@@ -30,43 +30,46 @@
 | Notes    | MORE students gone (again) - 9 this week           | Only 2 missing today                      |
 -->
 
-## This Week / 6주차 4월7일
+## This Week / 7주차 4월14일
 
-![this-week](/img/gh-pages/slides-covers/2.8-11-express-web-development.jpg)
+![this-week](/img/gh-pages/slides-covers/3.13-15-connecting-mongodb.jpg)
 
-#### 6. Unit 2: Web Development with Express.js / Express.js를 통한 웹 개발
+#### 7. Unit 3: Connecting to MongoDB / MongoDB에 연결
 
-Let's change things up a little bit this week. We will be learning about [Express.js](https://expressjs.com/ko/), a popular web framework for Node.js. It makes it easier to build web applications and APIs. We will also learn about the [EJS](https://ejs.co/) template engine, which is used to generate HTML, and [middleware](https://expressjs.com/ko/guide/using-middleware.html), which is code that runs between the request and the response.
+It's time to start working with a database where we can store our data. We will be using [MongoDB](https://www.mongodb.com/), a popular NoSQL database. We will also be using [Mongoose](https://mongoosejs.com/), an Object Data Modeling (ODM) library for MongoDB and Node.js. **This week we will also be going over the [Midterm Study Guide.](/midterm.html)**
 
-이번 주에는 조금 다른 것을 배워보겠습니다. 우리는 [Express.js](https://expressjs.com/ko/)를 배울 것입니다. 이것은 Node.js의 인기있는 웹 프레임워크입니다. 웹 응용 프로그램과 API를 더 쉽게 만들 수 있습니다. 우리는 또한 HTML을 생성하기 위해 사용되는 [EJS](https://ejs.co/) 템플릿 엔진과 요청과 응답 사이에 실행되는 코드인 [미들웨어](https://expressjs.com/ko/guide/using-middleware.html)에 대해 배울 것입니다.
+데이터를 저장할 수 있는 데이터베이스를 사용하여 작업을 시작할 시간입니다. 우리는 인기있는 NoSQL 데이터베이스인 [MongoDB](https://www.mongodb.com/)를 사용할 것입니다. 우리는 또한 MongoDB와 Node.js를 위한 객체 데이터 모델링 (ODM) 라이브러리인 [Mongoose](https://mongoosejs.com/)를 사용할 것입니다. **이번 주에는 [중간고사 스터디 가이드](/midterm.html)도 다룰 것입니다.**
 
 ##### Assignment / 과제
 
-- [6주차 **오전** 과제 받기](https://classroom.github.com/a/rmcCIOLs)
-- [6주차 _오후_ 과제 받기](https://classroom.github.com/a/PS97F3y2)
-- [6주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/4)
+- [7주차 **오전** 과제 받기](https://classroom.github.com/a/WlIOQuYe)
+- [7주차 _오후_ 과제 받기](https://classroom.github.com/a/HW6fxILP)
+- [7주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/5)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
 ##### Resources / 리소스
 
-- PPT <a href="/slides/2.8-11-express-web-development.pdf">Unit 2: 8-11. Web Development with Express.js / Express.js를 통한 웹 개발</a>
-- [Express.js](https://expressjs.com/ko/)
-- [Express 미들웨어](https://expressjs.com/ko/guide/using-middleware.html)
-- [EJS 템플릿 엔진](https://ejs.co/)
+- PPT <a href="/slides/3.13-15-connecting-mongodb.pdf">Unit 3: 13-16. Connecting to MongdoDB / MongoDB에 연결</a>
+- [Midterm Study Guide / 중간고사 스터디 가이드](/midterm.html)
+- [MongoDB](https://www.mongodb.com/ko-kr/)
+- [MongoDB Shell](https://www.mongodb.com/try/download/shell)
+- [Mongoose](https://mongoosejs.com/)
+- [Mongoose Schema](https://mongoosejs.com/docs/guide.html#definition)
+- [How to Install MongoDB on Windows (사진)](https://www.knowledgehut.com/blog/web-development/install-mongodb-on-windows)
+- [Windows에서 Chocolatey를 사용하여 MongoDB 설치](https://whatilearned.tistory.com/139)
 
 ##### Required Reading / 필수 독서
 
 - [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
-  - pp. 133-141 (Lesson 8: Express.js 설정)
-  - pp. 143-154 (Lesson 9: Express.js에서의 라우트)
-  - pp. 155-164 (Lesson 10: 뷰와 템플릿의 연결)
-  - pp. 165-171 (Lesson 11: 설정과 에러 처리)
+  - pp. 189-202 (Lesson 13: MongoDB 셋업)
+  - pp. 203-211 (Lesson 14: Mongoose를 사용한 모델 제작)
+  - pp. 213-226 (Lesson 15: 컨트롤러와 모델과의 연결)
 
 ##### Recommended reading / 추천 독서
 
 - [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
-  - pp. 241-290 (6장: 익스프레스 웹 서버 만들기)
+  - pp. 241-415 (8장: 몽고디비)
 
 ---
 
@@ -80,7 +83,7 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 |  4   | 3/24 |  1   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   |
 |  5   | 3/31 |  1   | [Capstone 1: Continued (with Bootstrap)](/schedule.html#week-5--5주차-3월31일)    | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)     |
 |  6   | 4/7  |  2   | [Web Development with Express.js](/schedule.html#week-6--6주차-4월7일)            | [Express.js를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)            |
-|  7   | 4/14 |  2   | Capstone 2: Express Web App                                                       | 캡스톤2: 익스프레스 웹 앱 모델                                              |
+|  7   | 4/14 |  3   | [Connecting MongoDB](/schedule.html#week-7--7주차-4월14일)                        | [MongoDB 연결](<(/schedule.html#week-7--7주차-4월14일)>) 모델               |
 |  8   | 4/21 |  --  | Midterm Exam / Project                                                            | 중간고사                                                                    |
 |  9   | 4/28 |  3   | Connecting to MongoDB (Capstone 3)                                                | MongoDB 연결 (캡스톤3)                                                      |
 |  --  | 5/5  |  --  | _HOLIDAY: Children's Day_                                                         | _공휴일: 어린이날_                                                          |
