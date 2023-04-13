@@ -728,3 +728,23 @@ MVC 패턴은 Model-View-Controller의 약자입니다. 이것은 응용 프로�
 - **Controller**
   - application logic layer (handled by Express)
   - 응용 프로그램 로직 계층 (Express에 의해 처리됨)
+
+### Creating a Schema
+
+We can create a schema by using the `mongoose.Schema` function. The first argument is an object that defines the properties of the schema. The second argument is an optional object that defines the schema options.<br>
+`mongoose.Schema` 함수를 사용하여 스키마를 만들 수 있습니다. 첫 번째 인수는 스키마의 속성을 정의하는 객체입니다. 두 번째 인수는 스키마 옵션을 정의하는 선택적 객체입니다.
+
+```js
+const mongoose = require("mongoose");
+
+const UserSchema = new mongoose.Schema(
+  {
+    name: String,
+    email: String,
+    password: String,
+  },
+  {
+    timestamps: true,
+  }
+);
+```
