@@ -55,7 +55,11 @@ The following npm packages will be used in this course. 수업에서 사용할 n
 - [mongoose](https://www.npmjs.com/package/mongoose)
 - [method-override](https://www.npmjs.com/package/method-override)
 
-### Online Resources / 온라인 자료
+### Video Courses / 비디오 강의
+
+- [Inflearn NodeJS](https://www.inflearn.com/courses?s=nodejs)
+
+### Tutorials / 튜토리얼
 
 | 주차 | 주제 | 자료 |
 | :--: | :-- | :-- |
