@@ -64,7 +64,7 @@ Follow the **[instructions here](/instructions.html)** to understand how to acce
 
 ### List of Assignments / 과제 목록
 
-Total points until today / 오늘까지의 총 점수: **`36`**
+Total points until today / 오늘까지의 총 점수: **`64`**
 
 ##### 0. Starting Node.js / Node.js 시작하기
 
