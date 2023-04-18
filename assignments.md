@@ -42,13 +42,11 @@ Follow the **[instructions here](/instructions.html)** to understand how to acce
 |  9   |  4/28 | 4. Beginning CRUD / CRUD 초급                                                                                       |                     오전                      |                     오후                      |
 |  --  |   5/5 | --                                                                                                                  |                      --                       |                      --                       |
 |  10  |  5/12 | 4. User Data Models / 사용자 모델                                                                                   |                     오전                      |                     오후                      |
-|  11  |  5/19 | 4. CRUD / 생성, 조회, 수정, 삭제                                                                                    |                     오전                      |                     오후                      |
-|  --  |  5/26 | --                                                                                                                  |                      --                       |                      --                       |
-|  12  |   6/2 | 5. User Auth / 사용자 인증                                                                                          |                     오전                      |                     오후                      |
-|  13  |   6/9 | 6. API / API 추가                                                                                                   |                     오전                      |                     오후                      |
-|  14  | 6/16? | 7. Chat / 채팅 추가                                                                                                 |                     오전                      |                     오후                      |
-|  15  | 6/16? | 8. Production / 프로덕션                                                                                            |                     오전                      |                     오후                      |
-|  16  | 6/16? | Final Test / 기말고사                                                                                               |                      --                       |                      --                       |
+|  11  |  5/19 | 4. CRUD / 생성, 조회, 수정, 삭제                                                                                    |                     오전                      |                     오후                      |                                            |
+|  12  |  5/26 | 5. User Auth / 사용자 인증                                                                                          |                     오전                      |                     오후                      |
+|  13  |   6/2 | 6. API / API 추가                                                                                                   |                     오전                      |                     오후                      |
+|  14  |   6/9 | 7. Chat / 채팅 추가                                                                                                 |                     오전                      |                     오후                      |
+|  15  | 6/16 | Final Test / 기말고사                                                                                               |                      --                       |                      --                       |
 
 ### Assignment Points / 과제 점수
 
