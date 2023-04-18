@@ -30,6 +30,7 @@
 | Wexler, Jonathan. (2019, 2020 번역)                                                   | Jo, Hyunyoung. (2022)                                                                 |
 | [_Get Programming with Node.js_ (Yes24)](http://www.yes24.com/Product/Goods/86429845) | [_Node.js 교과서, 3rd edition_ (Yes24)](http://www.yes24.com/Product/Goods/116192535) |
 | Manning Publishing Company (에이콘출판사 번역).                                       | Gilbert                                                                               |
+| [GitHub Code](https://github.com/JonathanWexler/get-programming-with-nodejs)   | [GitHub Code](https://github.com/ZeroCho/nodejs-book)   |
 
 ### Computer Software / 소프트웨어
 
@@ -39,6 +40,20 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [git](https://git-scm.com/downloads)
 - [MongoDB](https://www.mongodb.com/try/download/community)
+
+### npm Packages / npm 패키지
+
+The following npm packages will be used in this course. 수업에서 사용할 npm 패키지가 다음과 같다.
+
+- [http-status-codes](https://www.npmjs.com/package/http-status-codes)
+- [nodemon](https://www.npmjs.com/package/nodemon)
+- [body-parser](https://www.npmjs.com/package/body-parser)
+- [express](https://www.npmjs.com/package/express)
+- [ejs](https://www.npmjs.com/package/ejs)
+- [express-ejs-layouts](https://www.npmjs.com/package/express-ejs-layouts)
+- [mongodb](https://www.npmjs.com/package/mongodb)
+- [mongoose](https://www.npmjs.com/package/mongoose)
+- [method-override](https://www.npmjs.com/package/method-override)
 
 ### Online Resources / 온라인 자료
 
@@ -66,13 +81,8 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 
 ### Documentation & Examples / 문서 및 예시
 
-- [Bootstrap 문서](https://getbootstrap.kr/docs/5.2/getting-started/introduction/)
-- [Bootstrap 예시](https://getbootstrap.kr/docs/5.2/examples/)
-- [Node.js 문서](https://nodejs.org/api/)
-- [Node.js 예시](https://nodejs.org/ko/docs/guides/getting-started-guide/)
-- [Express 문서](https://expressjs.com/ko/)
-- [Express 예시](https://expressjs.com/ko/starter/examples.html)
-- [MongoDB 문서](https://docs.mongodb.com/)
-- [MongoDB 예시](https://docs.mongodb.com/manual/tutorial/query-documents/)
-- [Mongoose 문서](https://mongoosejs.com/docs/guide.html)
-- [Mongoose 예시](https://mongoosejs.com/docs/examples.html)
+| [Bootstrap 문서](https://getbootstrap.kr/docs/5.2/getting-started/introduction/) | [Bootstrap 예시](https://getbootstrap.kr/docs/5.2/examples/)
+| [Node.js 문서](https://nodejs.org/api/) | [Node.js 예시](https://nodejs.org/ko/docs/guides/getting-started-guide/)
+| [Express 문서](https://expressjs.com/ko/) | [Express 예시](https://expressjs.com/ko/starter/examples.html)
+| [MongoDB 문서](https://docs.mongodb.com/) | [MongoDB 예시](https://docs.mongodb.com/manual/tutorial/query-documents/)
+| [Mongoose 문서](https://mongoosejs.com/docs/guide.html) | [Mongoose 예시](https://mongoosejs.com/docs/examples.html)
