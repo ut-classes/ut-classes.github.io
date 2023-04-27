@@ -65,25 +65,24 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 
 ## Course Topics / 과정 화제
 
-| Week | Date  | Unit | Topic                                                                             | 화제                                                                        |
-| :--: | :---- | :--: | :-------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
-|  1   | 3/3   |  --  | [Overview and introduction to class](/schedule.html#week-1--1주차-3월3일)         | [수업 소개](/schedule.html#week-1--1주차-3월3일)                            |
-|  2   | 3/10  |  0   | [GitHub Classroom & Web Programming Review](/schedule.html#week-2--2주차-3월10일) | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일) |
-|  3   | 3/17  |  1   | [Node Webserver First Steps](/schedule.html#week-3--3주차-3월17일)                | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 |
-|  4   | 3/24  |  1   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   |
-|  5   | 3/31  |  1   | [Capstone 1: Continued (with Bootstrap)](/schedule.html#week-5--5주차-3월31일)    | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)     |
-|  6   | 4/7   |  2   | [Express Webserver](/schedule.html#week-6--6주차-4월7일)                          | [Express를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)               |
-|  7   | 4/14  |  3   | [Connecting MongoDB](/schedule.html#week-7--7주차-4월14일)                        | [MongoDB 연결](<(/schedule.html#week-7--7주차-4월14일)>) 모델               |
-|  8   | 4/21  |  --  | Midterm Exam / Project                                                            | 중간고사                                                                    |
-|  9   | 4/28  |  3   | Connecting to MongoDB (Capstone 3)                                                | MongoDB 연결 (캡스톤3)                                                      |
-|  --  | 5/5   |  --  | _HOLIDAY: Children's Day_                                                         | _공휴일: 어린이날_                                                          |
-|  10  | 5/12  |  4   | User Data Models                                                                  | 사용자 데이터 모델                                                          |
-|  11  | 5/19  |  4   | Capstone 4: CRUD (Create, Read, Update, Delete)                                   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                      |
-|  --  | 5/26  |  --  | _HOLIDAY: Buddha's Birthday?_                                                     | _공휴일: 석가탄신일?_ 추가                                                  |
-|  12  | 6/2   |  5   | User Authentication (Capstone 5)                                                  | 사용자 인증 (캡스톤5)                                                       |
-|  13  | 6/9   |  6   | Adding an API (Capstone 6)                                                        | API 추가 (캡스톤6)                                                          |
-|  14  | 6/16  |  --  | Final Projects                                                                    | 개인 프로젝트                                                               |
-|  15  | 6/16? |  --  | Final Exam                                                                        | 기말고사                                                                    |
+| Week | Date  | Unit | 화제                                                                      | Topic |
+| :--: | :---- | :--: | :------------------------------------------------------------------------ | :------- |
+|  1   | 3/3   |  --  | [수업 소개](/schedule.html#week-1--1주차-3월3일)                            | Overview and introduction to class |
+|  2   | 3/10  |  0   | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일)   | GitHub Classroom & Web Programming Review |
+|  3   | 3/17  |  1   | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 | Node Webserver First Steps |
+|  4   | 3/24  |  1   | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   | Capstone 1: First Web App |
+|  5   | 3/31  |  1   | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)      | Capstone 1: Continued (with Bootstrap) |
+|  6   | 4/7   |  2   | [Express를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)               | Express Webserver |
+|  7   | 4/14  |  3   | [MongoDB 연결](/schedule.html#week-7--7주차-4월14일)                       | Connecting MongoDB |
+|  8   | 4/21  |  --  | [**중간고사:** 캡스톤2](/schedule.html#week-8--8주차-4월21일)               | **Midterm Exam:** Capstone 2 |
+|  9   | 4/28  |  3   | [MongoDB 연결 + 캡스톤3: MongoDB 추가](/schedule.html#week-9--9주차-4월28일) | Connecting MongoDB + Capstone 3   |
+|  --  | 5/5   |  --  | _공휴일: 어린이날_                                                          | _HOLIDAY: Children's Day_  |
+|  10  | 5/12  |  4   | 사용자 데이터 모델                                                          | User Data Models  |
+|  11  | 5/19  |  4   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                       | Capstone 4: CRUD (Create, Read, Update, Delete) |
+|  12  | 5/26  |  5   | 사용자 인증                                                                 | User Authentication |
+|  13  | 6/2   |  5   | 캡스톤5: 사용자 인증 추가                                                    | Capstone 5: Adding User Authentication |
+|  14  | 6/9   |  6   | API 추가 (+ 캡스톤6?)                                                       | Adding an API (+ Capstone 6?) |
+|  15  | 6/16  |  --  | 최종 프로젝트 + 기말고사                                                     | Final Projects + Final Exam |
 
 <!----
 | 16  | 6월16일 | --   | [Personal Projects](/en/#14-personal-projects)                                  | [개인 프로젝트]()             |

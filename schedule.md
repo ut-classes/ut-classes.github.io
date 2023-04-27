@@ -30,34 +30,29 @@
 | Notes    | MORE students gone (again) - 9 this week           | Only 2 missing today                      |
 -->
 
-## This Week / 7주차 4월14일
+## This Week / 9주차 4월28일
 
-![this-week](/img/gh-pages/slides-covers/3.13-15-connecting-mongodb.jpg)
+![this-week](/img/gh-pages/slides-covers/M-midterm-test-solution.jpg)
 
-#### 7. Unit 3: Connecting to MongoDB / MongoDB에 연결
+#### 9. Unit 3: Continuing MongoDB + Capstone / MongoDB 계속하기 + 캡스톤
 
-It's time to start working with a database where we can store our data. We will be using [MongoDB](https://www.mongodb.com/), a popular NoSQL database. We will also be using [Mongoose](https://mongoosejs.com/), an Object Data Modeling (ODM) library for MongoDB and Node.js. **This week we will also be going over the [Midterm Study Guide.](/midterm.html)**
+**First, we will be going over the [Midterm Test solution.](https://github.com/ut-nodejs/assignment-solutions/tree/main/midterm-test-soln-PUBLIC)** After that, we will continue with MongoDB and Mongoose. We will also be starting the Capstone project, which will be due in 2 weeks (on May 12, 2023).
 
-데이터를 저장할 수 있는 데이터베이스를 사용하여 작업을 시작할 시간입니다. 우리는 인기있는 NoSQL 데이터베이스인 [MongoDB](https://www.mongodb.com/)를 사용할 것입니다. 우리는 또한 MongoDB와 Node.js를 위한 객체 데이터 모델링 (ODM) 라이브러리인 [Mongoose](https://mongoosejs.com/)를 사용할 것입니다. **이번 주에는 [중간고사 스터디 가이드](/midterm.html)도 다룰 것입니다.**
+**먼저 [중간고사 해설](https://github.com/ut-nodejs/assignment-solutions/tree/main/midterm-test-soln-PUBLIC)을 진행합니다.** 그 후에는 MongoDB와 Mongoose를 계속 진행합니다. 또한 2주 후에 (2023년 5월 12일) 제출할 캡스톤 프로젝트를 시작합니다.
 
 ##### Assignment / 과제
 
-- [7주차 **오전** 과제 받기](https://classroom.github.com/a/WlIOQuYe)
-- [7주차 _오후_ 과제 받기](https://classroom.github.com/a/HW6fxILP)
-- [7주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/5)
+- [9주차 **오전** 과제 받기]()
+- [9주차 _오후_ 과제 받기]()
+- [9주차 과제 **HELP**]()
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
 ##### Resources / 리소스
 
-- PPT <a href="/slides/3.13-15-connecting-mongodb.pdf">Unit 3: 13-16. Connecting to MongdoDB / MongoDB에 연결</a>
-- [Midterm Study Guide / 중간고사 스터디 가이드](/midterm.html)
-- [MongoDB](https://www.mongodb.com/ko-kr/)
-- [MongoDB Shell](https://www.mongodb.com/try/download/shell)
-- [Mongoose](https://mongoosejs.com/)
-- [Mongoose Schema](https://mongoosejs.com/docs/guide.html#definition)
-- [How to Install MongoDB on Windows (사진)](https://www.knowledgehut.com/blog/web-development/install-mongodb-on-windows)
-- [Windows에서 Chocolatey를 사용하여 MongoDB 설치](https://whatilearned.tistory.com/139)
+- PPT <a href="/slides/M-midterm-test-solution.pdf">M. Midterm Test Solution / 중간고사 해설</a>
+- PPT <a href="/slides/3.13-15-connecting-mongodb.pdf">Unit 3: 13-15. Connecting to MongdoDB / MongoDB에 연결</a>
+- PPT <a href="/slides/3.16-mongo-capstone.pdf">Unit 3: 16. MongdoDB Capstone / MongoDB 캡스톤</a>
 
 ##### Required Reading / 필수 독서
 
@@ -65,6 +60,7 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
   - pp. 189-202 (Lesson 13: MongoDB 셋업)
   - pp. 203-211 (Lesson 14: Mongoose를 사용한 모델 제작)
   - pp. 213-226 (Lesson 15: 컨트롤러와 모델과의 연결)
+  - pp. 227-235 (Lesson 16: 캡스톤: 사용자 구독 저장)
 
 ##### Recommended reading / 추천 독서
 
@@ -75,25 +71,24 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 
 ## Course Topics / 과정 화제
 
-| Week | Date | Unit | Topic                                                                             | 화제                                                                        |
-| :--: | :--- | :--: | :-------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
-|  1   | 3/3  |  --  | [Overview and introduction to class](/schedule.html#week-1--1주차-3월3일)         | [수업 소개](/schedule.html#week-1--1주차-3월3일)                            |
-|  2   | 3/10 |  0   | [GitHub Classroom & Web Programming Review](/schedule.html#week-2--2주차-3월10일) | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일) |
-|  3   | 3/17 |  1   | [Node Webserver First Steps](/schedule.html#week-3--3주차-3월17일)                | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 |
-|  4   | 3/24 |  1   | [Capstone 1: First Web App](/schedule.html#week-4--4주차-3월24일)                 | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   |
-|  5   | 3/31 |  1   | [Capstone 1: Continued (with Bootstrap)](/schedule.html#week-5--5주차-3월31일)    | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)     |
-|  6   | 4/7  |  2   | [Web Development with Express.js](/schedule.html#week-6--6주차-4월7일)            | [Express.js를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)            |
-|  7   | 4/14 |  3   | [Connecting MongoDB](/schedule.html#week-7--7주차-4월14일)                        | [MongoDB 연결](<(/schedule.html#week-7--7주차-4월14일)>) 모델               |
-|  8   | 4/21 |  --  | Midterm Exam / Project                                                            | 중간고사                                                                    |
-|  9   | 4/28 |  3   | Connecting to MongoDB (Capstone 3)                                                | MongoDB 연결 (캡스톤3)                                                      |
-|  --  | 5/5  |  --  | _HOLIDAY: Children's Day_                                                         | _공휴일: 어린이날_                                                          |
-|  10  | 5/12 |  4   | User Data Models                                                                  | 사용자 데이터 모델                                                          |
-|  11  | 5/19 |  4   | Capstone 4: CRUD (Create, Read, Update, Delete)                                   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                      |
-|  --  | 5/26 |  --  | _HOLIDAY: Buddha's Birthday?_                                                     | _공휴일: 석가탄신일?_ 추가                                                  |
-|  12  | 6/2  |  5   | User Authentication (Capstone 5)                                                  | 사용자 인증 (캡스톤5)                                                       |
-|  13  | 6/9  |  6   | Adding an API (Capstone 6)                                                        | API 추가 (캡스톤6)                                                          |
-|  14  | 6/16 |  --  | Final Projects                                                                    | 개인 프로젝트                                                               |
-|  15  | 6/16 |  --  | Final Exam                                                                        | 기말고사                                                                    |
+| Week | Date  | Unit | 화제                                                                      | Topic |
+| :--: | :---- | :--: | :------------------------------------------------------------------------ | :------- |
+|  1   | 3/3   |  --  | [수업 소개](/schedule.html#week-1--1주차-3월3일)                            | Overview and introduction to class |
+|  2   | 3/10  |  0   | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일)   | GitHub Classroom & Web Programming Review |
+|  3   | 3/17  |  1   | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 | Node Webserver First Steps |
+|  4   | 3/24  |  1   | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   | Capstone 1: First Web App |
+|  5   | 3/31  |  1   | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)      | Capstone 1: Continued (with Bootstrap) |
+|  6   | 4/7   |  2   | [Express를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)               | Express Webserver |
+|  7   | 4/14  |  3   | [MongoDB 연결](/schedule.html#week-7--7주차-4월14일)                       | Connecting MongoDB |
+|  8   | 4/21  |  --  | [**중간고사:** 캡스톤2](/schedule.html#week-8--8주차-4월21일)               | **Midterm Exam:** Capstone 2 |
+|  9   | 4/28  |  3   | [MongoDB 연결 + 캡스톤3: MongoDB 추가](/schedule.html#week-9--9주차-4월28일) | Connecting MongoDB + Capstone 3   |
+|  --  | 5/5   |  --  | _공휴일: 어린이날_                                                          | _HOLIDAY: Children's Day_  |
+|  10  | 5/12  |  4   | 사용자 데이터 모델                                                          | User Data Models  |
+|  11  | 5/19  |  4   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                       | Capstone 4: CRUD (Create, Read, Update, Delete) |
+|  12  | 5/26  |  5   | 사용자 인증                                                                 | User Authentication |
+|  13  | 6/2   |  5   | 캡스톤5: 사용자 인증 추가                                                    | Capstone 5: Adding User Authentication |
+|  14  | 6/9   |  6   | API 추가 (+ 캡스톤6?)                                                       | Adding an API (+ Capstone 6?) |
+|  15  | 6/16  |  --  | 최종 프로젝트 + 기말고사                                                     | Final Projects + Final Exam |
 
 <!----
 | 16  | 6월16일 | --   | [Personal Projects](/en/#14-personal-projects)                                  | [개인 프로젝트]()             |
@@ -394,6 +389,85 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
   - pp. 189-202 (Lesson 13: MongoDB 셋업)
   - pp. 203-211 (Lesson 14: Mongoose를 사용한 모델 제작)
   - pp. 213-226 (Lesson 15: 컨트롤러와 모델과의 연결)
+
+##### Recommended reading / 추천 독서
+
+- [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
+  - pp. 241-415 (8장: 몽고디비)
+
+###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
+
+---
+
+### Week 8 / 8주차 4월21일
+
+#### 8. Midterm Test / 중간고사
+
+The midterm test consists of 2 parts. / 중간고사는 2가지 부분으로 이루어집니다.
+
+1. Online Quiz / 온라인 퀴즈 ([Study Guide / 스터디 가이드](https://ut-nodejs.github.io/midterm.html))
+2. Capstone Project / 캡스톤 실기 시험
+
+This test is **OPEN BOOK**. You may use any resources you want, including the Internet, books, notes, etc. You may not communicate with other students or use any other resources during the test.<br>
+이 시험은 **OPEN BOOK**입니다. 인터넷, 책, 노트 등을 포함한 모든 자료를 사용할 수 있습니다. 시험 중에 다른 학생과 통신하거나 다른 자료를 사용할 수 없습니다.
+
+This midterm project, together with the online quiz, will be worth **15% of your final grade**.<br>
+이 중간 프로젝트는 온라인 퀴즈와 함께 **최종 성적의 15%** 를 차지합니다.
+
+##### Test / 시험
+
+- Quiz: Node.js Google Forms / Node.js 구글 폼 퀴즈: **5%**
+- Capstone: Lesson 12 / 12과 캡스톤 실기 시험: **10%**
+- TOTAL / 총점: **15%**
+
+##### Resources / 리소스
+
+- PPT <a href="/slides/2.12-express-capstone.pdf">Unit 2: Capstone: Enhance your site with Express / 캡스톤: 익스프레스로 사이트 개선하기</a>
+- [Midterm Study Guide / 중간고사 스터디 가이드](/midterm.html)
+
+##### Required Reading / 필수 독서
+
+- [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
+  - pp. 189-202 (Lesson 12: 캡스톤 프로젝트: Express.js를 통한 사이트 개선)
+
+##### Recommended reading / 추천 독서
+
+- [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
+  - pp. 241-290 (6장: 익스프레스 웹 서버 만들기)
+
+###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
+
+---
+
+### Week 9 / 9주차 4월28일
+
+#### 9. Unit 3: Continuing MongoDB + Capstone / MongoDB 계속하기 + 캡스톤
+
+**First, we will be going over the [Midterm Test solution.](https://github.com/ut-nodejs/assignment-solutions/tree/main/midterm-test-soln-PUBLIC)** After that, we will continue with MongoDB and Mongoose. We will also be starting the Capstone project, which will be due in 2 weeks (on May 12, 2023).
+
+**먼저 [중간고사 해설](https://github.com/ut-nodejs/assignment-solutions/tree/main/midterm-test-soln-PUBLIC)을 진행합니다.** 그 후에는 MongoDB와 Mongoose를 계속 진행합니다. 또한 2주 후에 (2023년 5월 12일) 제출할 캡스톤 프로젝트를 시작합니다.
+
+##### Assignment / 과제
+
+- [9주차 **오전** 과제 받기]()
+- [9주차 _오후_ 과제 받기]()
+- [9주차 과제 **HELP**]()
+
+See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
+
+##### Resources / 리소스
+
+- PPT <a href="/slides/M-midterm-test-solution.pdf">M. Midterm Test Solution / 중간고사 해설</a>
+- PPT <a href="/slides/3.13-15-connecting-mongodb.pdf">Unit 3: 13-15. Connecting to MongdoDB / MongoDB에 연결</a>
+- PPT <a href="/slides/3.16-mongo-capstone.pdf">Unit 3: 16. MongdoDB Capstone / MongoDB 캡스톤</a>
+
+##### Required Reading / 필수 독서
+
+- [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
+  - pp. 189-202 (Lesson 13: MongoDB 셋업)
+  - pp. 203-211 (Lesson 14: Mongoose를 사용한 모델 제작)
+  - pp. 213-226 (Lesson 15: 컨트롤러와 모델과의 연결)
+  - pp. 227-235 (Lesson 16: 캡스톤: 사용자 구독 저장)
 
 ##### Recommended reading / 추천 독서
 

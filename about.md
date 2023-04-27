@@ -35,16 +35,16 @@ The course will be delivered as a series of 2-hour lectures (with a break in the
 
 The course will cover the following topics. 이 수업은 다음과 같은 주제를 다룹니다.
 
-- Running [Node.js](https://nodejs.org/ko) applications and creating Node.js modules
-  - Node.js 애플리케이션 실행 및 Node.js 모듈 생성
-- Building web servers in Node.js and [Express.js](https://expressjs.com/ko/) and handling routing
-  - Node.js 및 Express.js에서 웹 서버 구축 및 라우팅 처리
-- Connecting to [MongoDB](https://www.mongodb.com/) to serve data and the Model, View, Controller paradigm
-  - 데이터를 제공하고 MVC 패러다임에 연결하는 MongoDB
-- Handling CRUD (Create, Read, Update, Delete) functions with [Mongoose](https://mongoosejs.com/) schemas
-  - Mongoose 스키마를 사용하여 CRUD (생성, 읽기, 수정, 삭제) 기능 처리
-- Creating user accounts and authenticating users with [Passport.js](https://www.passportjs.org/)
-  - 사용자 계정 생성 및 사용자 인증
+- [x] Running [Node.js](https://nodejs.org/ko) applications and creating Node.js modules
+  - [x] Node.js 애플리케이션 실행 및 Node.js 모듈 생성
+- [x] Building web servers in Node.js and [Express.js](https://expressjs.com/ko/) and handling routing
+  - [x] Node.js 및 Express.js에서 웹 서버 구축 및 라우팅 처리
+- [ ] Connecting to [MongoDB](https://www.mongodb.com/) to serve data and the Model, View, Controller paradigm
+  - [ ] 데이터를 제공하고 MVC 패러다임에 연결하는 MongoDB
+- [ ] Handling CRUD (Create, Read, Update, Delete) functions with [Mongoose](https://mongoosejs.com/) schemas
+  - [ ] Mongoose 스키마를 사용하여 CRUD (생성, 읽기, 수정, 삭제) 기능 처리
+- [ ] Creating user accounts and authenticating users with [Passport.js](https://www.passportjs.org/)
+  - [ ] 사용자 계정 생성 및 사용자 인증
 - <del>Building an API and adding API security</del>
 - <del>Adding chat functionality with Socket.io</del>
 - <del>Deploying and managing code in production</del>
