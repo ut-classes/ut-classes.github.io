@@ -41,7 +41,7 @@ Follow the **[instructions here](/instructions.html)** to understand how to acce
 |  8   | 4/21 | [Midterm Test: Capstone 2 / 중간고사: 캡스톤2](https://github.com/ut-nodejs/midterm-test)                           |                      --                       |                      --                       | [솔루션](https://github.com/ut-nodejs/assignment-solutions) | `30` |  4/21  |
 |  9   | 4/28 | [5. Capstone 3: Adding MongoDB / MongoDB 추가](https://github.com/ut-nodejs/5-mongodb-capstone)                     | [☕](https://classroom.github.com/a/v0fVqeZI) | [🍔](https://classroom.github.com/a/wX75l5Lj) | [HELP](https://github.com/orgs/ut-nodejs/discussions/6)     | `8`  |  5/12  |
 |  --  |  5/5 | --                                                                                                                  |                      --                       |                      --                       |                                                             |      |        |
-|  10  | 5/12 | [4. User Data Models & CRUD / 사용자 모델과 CRUD](https://github.com/ut-nodejs/6-crud-operations)                   | [☕](https://classroom.github.com/a/is-vbBM_) | [🍔](https://classroom.github.com/a/Q0S0uHH3) | [HELP](https://github.com/orgs/ut-nodejs/discussions/7)     | `8`  |  5/12  |
+|  10  | 5/12 | [4. User Data Models & CRUD / 사용자 모델과 CRUD](https://github.com/ut-nodejs/6-crud-operations)                   | [☕](https://classroom.github.com/a/is-vbBM_) | [🍔](https://classroom.github.com/a/Q0S0uHH3) | [HELP](https://github.com/orgs/ut-nodejs/discussions/7)     | `16` |  5/26  |
 |  11  | 5/19 | 4. CRUD / 생성, 조회, 수정, 삭제                                                                                    |                     오전                      |                     오후                      |                                                             |
 |  12  | 5/26 | 5. User Auth / 사용자 인증                                                                                          |                     오전                      |                     오후                      |
 |  13  |  6/2 | 6. API / API 추가                                                                                                   |                     오전                      |                     오후                      |
@@ -125,3 +125,19 @@ Total points until today / 오늘까지의 총 점수: **`64`**
   - /models/Subscriber.js `(2/2)`
   - /views/subscribers.ejs `(2/2)`
   - /controllers/subscriberController.js `(2/2)`
+
+##### 6. User Data Models & CRUD / 사용자 모델과 CRUD
+
+- **6-crud-operations `(16/16)`** _(5월 26일까지)_
+  - [lesson-17](./lesson-17) (Seed + associate data)
+    - /models/Subscriber.js `(2/2)`
+    - /models/Course.js `(2/2)`
+  - [lesson-18](./lesson-18) (Users MVC)
+    - /models/User.js `(2/2)`
+    - /controllers/userController.js `(2/2)`
+  - [lesson-19](./lesson-19) (CREATE + READ)
+    - /models/User.js `(2/2)`
+    - /controllers/userController.js `(2/2)`
+  - [lesson-20](./lesson-20) (UPDATE + DELETE)
+    - /controllers/userController.js `(2/2)`
+    - main.js `(2/2)`
