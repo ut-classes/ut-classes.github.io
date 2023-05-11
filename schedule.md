@@ -30,42 +30,42 @@
 | Notes    | MORE students gone (again) - 9 this week           | Only 2 missing today                      |
 -->
 
-## This Week / 9주차 4월28일
+## This Week / 10주차 5월12일
 
-![this-week](/img/gh-pages/slides-covers/M-midterm-test-solution.jpg)
+![this-week](/img/gh-pages/slides-covers/4.17-building-user-model.jpg)
 
-#### 9. Unit 3: Continuing MongoDB + Capstone / MongoDB 계속하기 + 캡스톤
+#### 10. Unit 4: Building a User Model / 사용자 모델 제작
 
-**First, we will be going over the [Midterm Test solution.](https://github.com/ut-nodejs/assignment-solutions/tree/main/midterm-test-soln-PUBLIC)** After that, we will continue with MongoDB and Mongoose. We will also be starting the Capstone project, which will be due in 2 weeks (on May 12, 2023).
+This week we will begin building our User and Course model-view-controllers. First we add some validation to our models, then we add CRUD methods to our controllers. Finally, we will add our new routes to our application.
 
-**먼저 [중간고사 해설](https://github.com/ut-nodejs/assignment-solutions/tree/main/midterm-test-soln-PUBLIC)을 진행합니다.** 그 후에는 MongoDB와 Mongoose를 계속 진행합니다. 또한 2주 후에 (2023년 5월 12일) 제출할 캡스톤 프로젝트를 시작합니다.
+이번 주에는 사용자와 코스 모델-뷰-컨트롤러를 제작하기 시작합니다. 먼저 모델에 일부 유효성 검사를 추가한 다음 컨트롤러에 CRUD 메서드를 추가합니다. 마지막으로 새로운 라우트를 애플리케이션에 추가합니다.
 
 ##### Assignment / 과제
 
-- [9주차 **오전** 과제 받기]()
-- [9주차 _오후_ 과제 받기]()
-- [9주차 과제 **HELP**]()
+- [10주차 **오전** 과제 받기]()
+- [10주차 _오후_ 과제 받기]()
+- [10주차 과제 **HELP**]()
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
 ##### Resources / 리소스
 
-- PPT <a href="/slides/M-midterm-test-solution.pdf">M. Midterm Test Solution / 중간고사 해설</a>
-- PPT <a href="/slides/3.13-15-connecting-mongodb.pdf">Unit 3: 13-15. Connecting to MongdoDB / MongoDB에 연결</a>
-- PPT <a href="/slides/3.16-mongo-capstone.pdf">Unit 3: 16. MongdoDB Capstone / MongoDB 캡스톤</a>
+- PPT <a href="/slides/4.17-building-user-model.pdf">Unit 4: 17-20. Building a User Model / 사용자 모델 제작</a>
 
 ##### Required Reading / 필수 독서
 
 - [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
-  - pp. 189-202 (Lesson 13: MongoDB 셋업)
-  - pp. 203-211 (Lesson 14: Mongoose를 사용한 모델 제작)
-  - pp. 213-226 (Lesson 15: 컨트롤러와 모델과의 연결)
-  - pp. 227-235 (Lesson 16: 캡스톤: 사용자 구독 저장)
+  - pp. 239-256 (Lesson 17: 데이터 모델의 개선)
+  - pp. 257-273 (Lesson 18: 사용자 모델의 구현)
+  - pp. 275-287 (Lesson 19: 모델의 생성과 읽기)
+  - pp. 289-300 (Lesson 20: 모델의 업데이트와 삭제)
 
 ##### Recommended reading / 추천 독서
 
 - [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
-  - pp. 241-415 (8장: 몽고디비)
+  - pp. 387-396 (8.5: CRUD 작업하기)
+  - pp. 397-415 (8.6: 몽구스 사용하기)
+  - pp. 415-416 (8.7: 함께 보면 좋은 자료)
 
 ---
 
@@ -83,7 +83,7 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 |  8   | 4/21  |  --  | [**중간고사:** 캡스톤2](/schedule.html#week-8--8주차-4월21일)               | **Midterm Exam:** Capstone 2 |
 |  9   | 4/28  |  3   | [MongoDB 연결 + 캡스톤3: MongoDB 추가](/schedule.html#week-9--9주차-4월28일) | Connecting MongoDB + Capstone 3   |
 |  --  | 5/5   |  --  | _공휴일: 어린이날_                                                          | _HOLIDAY: Children's Day_  |
-|  10  | 5/12  |  4   | 사용자 데이터 모델                                                          | User Data Models  |
+|  10  | 5/12  |  4   | [사용자 데이터 모델](/schedule.html#week-10--10주차-5월12일)                 | User Data Models  |
 |  11  | 5/19  |  4   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                       | Capstone 4: CRUD (Create, Read, Update, Delete) |
 |  12  | 5/26  |  5   | 사용자 인증                                                                 | User Authentication |
 |  13  | 6/2   |  5   | 캡스톤5: 사용자 인증 추가                                                    | Capstone 5: Adding User Authentication |
@@ -473,5 +473,44 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 
 - [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
   - pp. 241-415 (8장: 몽고디비)
+
+###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
+
+---
+
+### Week 10 / 10주차 5월12일
+
+#### 10. Unit 4: Building a User Model / 사용자 모델 제작
+
+This week we will begin building our User and Course model-view-controllers. First we add some validation to our models, then we add CRUD methods to our controllers. Finally, we will add our new routes to our application.
+
+이번 주에는 사용자와 코스 모델-뷰-컨트롤러를 제작하기 시작합니다. 먼저 모델에 일부 유효성 검사를 추가한 다음 컨트롤러에 CRUD 메서드를 추가합니다. 마지막으로 새로운 라우트를 애플리케이션에 추가합니다.
+
+##### Assignment / 과제
+
+- [10주차 **오전** 과제 받기]()
+- [10주차 _오후_ 과제 받기]()
+- [10주차 과제 **HELP**]()
+
+See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
+
+##### Resources / 리소스
+
+- PPT <a href="/slides/4.17-building-user-model.pdf">Unit 4: 17-20. Building a User Model / 사용자 모델 제작</a>
+
+##### Required Reading / 필수 독서
+
+- [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
+  - pp. 239-256 (Lesson 17: 데이터 모델의 개선)
+  - pp. 257-273 (Lesson 18: 사용자 모델의 구현)
+  - pp. 275-287 (Lesson 19: 모델의 생성과 읽기)
+  - pp. 289-300 (Lesson 20: 모델의 업데이트와 삭제)
+
+##### Recommended reading / 추천 독서
+
+- [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
+  - pp. 387-396 (8.5: CRUD 작업하기)
+  - pp. 397-415 (8.6: 몽구스 사용하기)
+  - pp. 415-416 (8.7: 함께 보면 좋은 자료)
 
 ###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)

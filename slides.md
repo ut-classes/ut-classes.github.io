@@ -23,7 +23,7 @@
 
 PDF versions of slides will be available here _before_ each class. 슬라이드는 강의 _전에_ 여기에 제공됩니다.
 
-![this-week](/img/gh-pages/slides-covers/M-midterm-test-solution.jpg)
+![this-week](/img/gh-pages/slides-covers/4.17-building-user-model.jpg)
 
 | Week | Date         | Slides                                                                                                                  |
 | :--: | ------------ | ----------------------------------------------------------------------------------------------------------------------- |
@@ -36,8 +36,10 @@ PDF versions of slides will be available here _before_ each class. 슬라이드�
 |  5   | 3/24, 31     | [Capstone 1. First Web App / 첫 웹 앱](/slides/1.7-first-web-app.pdf)                                                   |
 |  5   | 3/31         | [Capstone 1 (with Bootstrap) / 부트스트랩 포함](/slides/1.7b-first-web-app-bootstrap.pdf)                               |
 |  6   | 4/7          | [Unit 2: 8-11. Web Development with Express.js / Express.js를 통한 웹 개발](/slides/2.8-11-express-web-development.pdf) |
-|  7   | 4/14, **28** | [2️⃣ Unit 3: 13-15. Connecting to MongdoDB / MongoDB에 연결](/slides/3.13-15-connecting-mongodb.pdf)                     |
+|  7   | 4/14, 28     | [2️⃣ Unit 3: 13-15. Connecting to MongdoDB / MongoDB에 연결](/slides/3.13-15-connecting-mongodb.pdf)                     |
 |  7   | 4/14         | [Midterm Test Review / 중간고사 복습](/midterm.html)                                                                    |
 |  8   | 4/21         | ---                                                                                                                     |
-|  9   | **4/28**     | [1️⃣ Midterm Test Solution / 중간고사 솔루션](/slides/M-midterm-test-solution.pdf)                                       |
-|  9   | **4/28**     | [3️⃣ Capstone 3: Adding MongoDB to your site / 사이트에 MongoDB 추가](/slides/3.16-mongo-capstone.pdf)                   |
+|  9   | 4/28         | [1️⃣ Midterm Test Solution / 중간고사 솔루션](/slides/M-midterm-test-solution.pdf)                                       |
+|  9   | 4/28         | [3️⃣ Capstone 3: Adding MongoDB to your site / 사이트에 MongoDB 추가](/slides/3.16-mongo-capstone.pdf)                   |
+|  --  | 5/5          | ---                                                                                                                    |
+|  10  | **5/12**     | [Unit 4: 17-20. Building a User Model / 사용자 모델 제작](/slides/4.17-building-user-model.pdf)                         |

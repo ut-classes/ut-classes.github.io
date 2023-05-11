@@ -29,17 +29,17 @@ Follow the **[instructions here](/instructions.html)** to understand how to acce
 
 <!-- | GitHub Classroom (과제) | [오전](https://classroom.github.com/classrooms/126310482-2023sp-259122-1-am) | [오후](https://classroom.github.com/classrooms/126310482-2023sp-259122-2-pm) -->
 
-| Week | Date | 과제                                                                                                                |                      am                       |                      pm                       | HELP                                                        |  점  |  마감일  | Tests |
-| :--: | ---: | ------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------: | :-------------------------------------------: | ----------------------------------------------------------- | :--: | :------: | :---: |
+| Week | Date | 과제                                                                                                                |                      am                       |                      pm                       | HELP                                                        |  점  |  마감일  |
+| :--: | ---: | ------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------: | :-------------------------------------------: | ----------------------------------------------------------- | :--: | :------: |
 |  1   |  3/3 | --                                                                                                                  |                      --                       |                      --                       |                                                             |      |          |       |
-|  2   | 3/10 | [0. Starting Node / 노드 시작](https://github.com/ut-nodejs/0-starting-nodejs)                                      | [☕](https://classroom.github.com/a/ufXcgZ68) | [🍔](https://classroom.github.com/a/YeQuxwK6) | [HELP](https://github.com/orgs/ut-nodejs/discussions/1)     | `6`  |   4/7    |  ✅   |
-|  3   | 3/17 | [1. First Web Server / 첫 웹 서버](https://github.com/ut-nodejs/1-node-webserver-start)                             | [☕](https://classroom.github.com/a/poWHzDMH) | [🍔](https://classroom.github.com/a/Fyol0_-I) | [HELP](https://github.com/orgs/ut-nodejs/discussions/2)     | `10` |   4/7    |  ⭕   |
-|  4   | 3/24 | [2. Capstone: First Web App / 캡스톤: 첫 웹 앱](https://github.com/ut-nodejs/2-webserver-capstone)                  | [☕](https://classroom.github.com/a/TJpdR0C3) | [🍔](https://classroom.github.com/a/F4nLnLQw) | [HELP](https://github.com/orgs/ut-nodejs/discussions/3)     | `8`  | **4/14** |  ✅   |
+|  2   | 3/10 | [0. Starting Node / 노드 시작](https://github.com/ut-nodejs/0-starting-nodejs) (✅ Tests)                                     | [☕](https://classroom.github.com/a/ufXcgZ68) | [🍔](https://classroom.github.com/a/YeQuxwK6) | [HELP](https://github.com/orgs/ut-nodejs/discussions/1)     | `6`  |   4/7    |
+|  3   | 3/17 | [1. First Web Server / 첫 웹 서버](https://github.com/ut-nodejs/1-node-webserver-start) (⭕ Updated with Tests)                             | [☕](https://classroom.github.com/a/poWHzDMH) | [🍔](https://classroom.github.com/a/Fyol0_-I) | [HELP](https://github.com/orgs/ut-nodejs/discussions/2)     | `10` |   4/7    |
+|  4   | 3/24 | [2. Capstone: First Web App / 캡스톤: 첫 웹 앱](https://github.com/ut-nodejs/2-webserver-capstone) (✅ Tests)                  | [☕](https://classroom.github.com/a/TJpdR0C3) | [🍔](https://classroom.github.com/a/F4nLnLQw) | [HELP](https://github.com/orgs/ut-nodejs/discussions/3)      | `8`  | 4/14 |
 |  5   | 3/31 | [2. Capstone 1 (with Bootstrap) / 캡스톤 1 하고 부트스트랩 포함](https://github.com/ut-nodejs/3-bootstrap-practice) |                      --                       |                      --                       |                                                             |      |          |       |
-|  6   |  4/7 | [3. Express.js / 익스프레스](https://github.com/ut-nodejs/3-express-webserver)                                      | [☕](https://classroom.github.com/a/rmcCIOLs) | [🍔](https://classroom.github.com/a/PS97F3y2) | [HELP](https://github.com/orgs/ut-nodejs/discussions/4)     | `12` |   4/21   |  ❌   |
-|  7   | 4/14 | [4. Connecting MongoDB / MongoDB 연결](https://github.com/ut-nodejs/4-connecting-mongodb)                           | [☕](https://classroom.github.com/a/WlIOQuYe) | [🍔](https://classroom.github.com/a/HW6fxILP) | [HELP](https://github.com/orgs/ut-nodejs/discussions/5)     | `16` | **5/12** |  ❌   |
-|  8   | 4/21 | [Midterm Test: Capstone 2 / 중간고사: 캡스톤2](https://github.com/ut-nodejs/midterm-test)                           |                      --                       |                      --                       | [솔루션](https://github.com/ut-nodejs/assignment-solutions) | `30` |   4/21   |  ❌   |
-|  9   | 4/28 | [5. Capstone 3: Adding MongoDB / MongoDB 추가](https://github.com/ut-nodejs/5-mongodb-capstone)                     | [☕](https://classroom.github.com/a/v0fVqeZI) | [🍔](https://classroom.github.com/a/wX75l5Lj) | [HELP](https://github.com/orgs/ut-nodejs/discussions/6)     | `8`  | **5/12** |  ❌   |
+|  6   |  4/7 | [3. Express.js / 익스프레스](https://github.com/ut-nodejs/3-express-webserver)                                      | [☕](https://classroom.github.com/a/rmcCIOLs) | [🍔](https://classroom.github.com/a/PS97F3y2) | [HELP](https://github.com/orgs/ut-nodejs/discussions/4)     | `12` |   4/21   |
+|  7   | 4/14 | [4. Connecting MongoDB / MongoDB 연결](https://github.com/ut-nodejs/4-connecting-mongodb)                           | [☕](https://classroom.github.com/a/WlIOQuYe) | [🍔](https://classroom.github.com/a/HW6fxILP) | [HELP](https://github.com/orgs/ut-nodejs/discussions/5)     | `12` | 5/12 |
+|  8   | 4/21 | [Midterm Test: Capstone 2 / 중간고사: 캡스톤2](https://github.com/ut-nodejs/midterm-test)                           |                      --                       |                      --                       | [솔루션](https://github.com/ut-nodejs/assignment-solutions) | `30` |   4/21   |
+|  9   | 4/28 | [5. Capstone 3: Adding MongoDB / MongoDB 추가](https://github.com/ut-nodejs/5-mongodb-capstone)                     | [☕](https://classroom.github.com/a/v0fVqeZI) | [🍔](https://classroom.github.com/a/wX75l5Lj) | [HELP](https://github.com/orgs/ut-nodejs/discussions/6)     | `8`  | 5/12 |
 |  --  |  5/5 | --                                                                                                                  |                      --                       |                      --                       |
 |  10  | 5/12 | 4. User Data Models / 사용자 모델                                                                                   |                     오전                      |                     오후                      |
 |  11  | 5/19 | 4. CRUD / 생성, 조회, 수정, 삭제                                                                                    |                     오전                      |                     오후                      |                                                             |
@@ -82,7 +82,7 @@ Total points until today / 오늘까지의 총 점수: **`64`**
     - listing6.5.TODO.js `(2/2)`
     - listing6.6.TODO.js `(2/2)`
 
-##### 2. Webserver Capstone / 웹 서버 캡스톤
+##### 2. Webserver Capstone / 캡스톤 1: 웹 서버
 
 - **2-webserver-capstone (Tests pass) `(8/8)`** _(4월 14일까지)_
   - main.js `(2/2)`
@@ -105,7 +105,7 @@ Total points until today / 오늘까지의 총 점수: **`64`**
 
 ##### 4. MongoDB / 몽고 데이터베이스
 
-- **4-connecting-mongodb (NO TESTS) `(16/16)`** _(4월 21일까지)_
+- **4-connecting-mongodb (NO TESTS) `(16/16)`** _(5월 12일까지)_
   - lesson-13 (MongoDB)
     - main.js `(2/2)`
   - lesson-14 (Mongoose)
@@ -117,3 +117,11 @@ Total points until today / 오늘까지의 총 점수: **`64`**
     - /controllers/subscribersController.js `(2/2)`
     - subscribers.ejs `(2/2)`
     - seed.js `(2/2)`
+
+##### 5. MongoDB Capstone / 캡스톤 3: MongoDB 추가하기
+
+- **5-mongodb-capstone (NO TESTS) `(8/8)`** _(5월 12일까지)_
+  - main.js `(2/2)`
+  - /models/Subscriber.js `(2/2)`
+  - /views/subscribers.ejs `(2/2)`
+  - /controllers/subscriberController.js `(2/2)`

@@ -77,7 +77,7 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 |  8   | 4/21  |  --  | [**중간고사:** 캡스톤2](/schedule.html#week-8--8주차-4월21일)               | **Midterm Exam:** Capstone 2 |
 |  9   | 4/28  |  3   | [MongoDB 연결 + 캡스톤3: MongoDB 추가](/schedule.html#week-9--9주차-4월28일) | Connecting MongoDB + Capstone 3   |
 |  --  | 5/5   |  --  | _공휴일: 어린이날_                                                          | _HOLIDAY: Children's Day_  |
-|  10  | 5/12  |  4   | 사용자 데이터 모델                                                          | User Data Models  |
+|  10  | 5/12  |  4   | [사용자 데이터 모델](/schedule.html#week-10--10주차-5월12일)                 | User Data Models  |
 |  11  | 5/19  |  4   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                       | Capstone 4: CRUD (Create, Read, Update, Delete) |
 |  12  | 5/26  |  5   | 사용자 인증                                                                 | User Authentication |
 |  13  | 6/2   |  5   | 캡스톤5: 사용자 인증 추가                                                    | Capstone 5: Adding User Authentication |
