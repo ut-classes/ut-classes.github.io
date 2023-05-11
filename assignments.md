@@ -129,15 +129,15 @@ Total points until today / 오늘까지의 총 점수: **`64`**
 ##### 6. User Data Models & CRUD / 사용자 모델과 CRUD
 
 - **6-crud-operations `(16/16)`** _(5월 26일까지)_
-  - [lesson-17](./lesson-17) (Seed + associate data)
+  - lesson-17 (Seed + associate data)
     - /models/Subscriber.js `(2/2)`
     - /models/Course.js `(2/2)`
-  - [lesson-18](./lesson-18) (Users MVC)
+  - lesson-18 (Users MVC)
     - /models/User.js `(2/2)`
     - /controllers/userController.js `(2/2)`
-  - [lesson-19](./lesson-19) (CREATE + READ)
+  - lesson-19 (CREATE + READ)
     - /models/User.js `(2/2)`
     - /controllers/userController.js `(2/2)`
-  - [lesson-20](./lesson-20) (UPDATE + DELETE)
+  - lesson-20 (UPDATE + DELETE)
     - /controllers/userController.js `(2/2)`
     - main.js `(2/2)`
