@@ -42,9 +42,9 @@ This week we will begin building our User and Course model-view-controllers. Fir
 
 ##### Assignment / 과제
 
-- [10주차 **오전** 과제 받기]()
-- [10주차 _오후_ 과제 받기]()
-- [10주차 과제 **HELP**]()
+- [10주차 **오전** 과제 받기](https://classroom.github.com/a/is-vbBM_)
+- [10주차 _오후_ 과제 받기](https://classroom.github.com/a/Q0S0uHH3)
+- [10주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/7)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
@@ -71,24 +71,24 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 
 ## Course Topics / 과정 화제
 
-| Week | Date  | Unit | 화제                                                                      | Topic |
-| :--: | :---- | :--: | :------------------------------------------------------------------------ | :------- |
-|  1   | 3/3   |  --  | [수업 소개](/schedule.html#week-1--1주차-3월3일)                            | Overview and introduction to class |
-|  2   | 3/10  |  0   | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일)   | GitHub Classroom & Web Programming Review |
-|  3   | 3/17  |  1   | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 | Node Webserver First Steps |
-|  4   | 3/24  |  1   | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   | Capstone 1: First Web App |
-|  5   | 3/31  |  1   | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)      | Capstone 1: Continued (with Bootstrap) |
-|  6   | 4/7   |  2   | [Express를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)               | Express Webserver |
-|  7   | 4/14  |  3   | [MongoDB 연결](/schedule.html#week-7--7주차-4월14일)                       | Connecting MongoDB |
-|  8   | 4/21  |  --  | [**중간고사:** 캡스톤2](/schedule.html#week-8--8주차-4월21일)               | **Midterm Exam:** Capstone 2 |
-|  9   | 4/28  |  3   | [MongoDB 연결 + 캡스톤3: MongoDB 추가](/schedule.html#week-9--9주차-4월28일) | Connecting MongoDB + Capstone 3   |
-|  --  | 5/5   |  --  | _공휴일: 어린이날_                                                          | _HOLIDAY: Children's Day_  |
-|  10  | 5/12  |  4   | [사용자 데이터 모델](/schedule.html#week-10--10주차-5월12일)                 | User Data Models  |
-|  11  | 5/19  |  4   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                       | Capstone 4: CRUD (Create, Read, Update, Delete) |
-|  12  | 5/26  |  5   | 사용자 인증                                                                 | User Authentication |
-|  13  | 6/2   |  5   | 캡스톤5: 사용자 인증 추가                                                    | Capstone 5: Adding User Authentication |
-|  14  | 6/9   |  6   | API 추가 (+ 캡스톤6?)                                                       | Adding an API (+ Capstone 6?) |
-|  15  | 6/16  |  --  | 최종 프로젝트 + 기말고사                                                     | Final Projects + Final Exam |
+| Week | Date | Unit | 화제                                                                         | Topic                                           |
+| :--: | :--- | :--: | :--------------------------------------------------------------------------- | :---------------------------------------------- |
+|  1   | 3/3  |  --  | [수업 소개](/schedule.html#week-1--1주차-3월3일)                             | Overview and introduction to class              |
+|  2   | 3/10 |  0   | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일)  | GitHub Classroom & Web Programming Review       |
+|  3   | 3/17 |  1   | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                  | Node Webserver First Steps                      |
+|  4   | 3/24 |  1   | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                    | Capstone 1: First Web App                       |
+|  5   | 3/31 |  1   | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)      | Capstone 1: Continued (with Bootstrap)          |
+|  6   | 4/7  |  2   | [Express를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)                | Express Webserver                               |
+|  7   | 4/14 |  3   | [MongoDB 연결](/schedule.html#week-7--7주차-4월14일)                         | Connecting MongoDB                              |
+|  8   | 4/21 |  --  | [**중간고사:** 캡스톤2](/schedule.html#week-8--8주차-4월21일)                | **Midterm Exam:** Capstone 2                    |
+|  9   | 4/28 |  3   | [MongoDB 연결 + 캡스톤3: MongoDB 추가](/schedule.html#week-9--9주차-4월28일) | Connecting MongoDB + Capstone 3                 |
+|  --  | 5/5  |  --  | _공휴일: 어린이날_                                                           | _HOLIDAY: Children's Day_                       |
+|  10  | 5/12 |  4   | [사용자 데이터 모델](/schedule.html#week-10--10주차-5월12일)                 | User Data Models                                |
+|  11  | 5/19 |  4   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                       | Capstone 4: CRUD (Create, Read, Update, Delete) |
+|  12  | 5/26 |  5   | 사용자 인증                                                                  | User Authentication                             |
+|  13  | 6/2  |  5   | 캡스톤5: 사용자 인증 추가                                                    | Capstone 5: Adding User Authentication          |
+|  14  | 6/9  |  6   | API 추가 (+ 캡스톤6?)                                                        | Adding an API (+ Capstone 6?)                   |
+|  15  | 6/16 |  --  | 최종 프로젝트 + 기말고사                                                     | Final Projects + Final Exam                     |
 
 <!----
 | 16  | 6월16일 | --   | [Personal Projects](/en/#14-personal-projects)                                  | [개인 프로젝트]()             |
@@ -366,8 +366,8 @@ It's time to start working with a database where we can store our data. We will 
 
 ##### Assignment / 과제
 
-- [7주차 **오전** 과제 받기]()
-- [7주차 _오후_ 과제 받기]()
+- [7주차 **오전** 과제 받기](https://classroom.github.com/a/WlIOQuYe)
+- [7주차 _오후_ 과제 받기](https://classroom.github.com/a/HW6fxILP)
 - [7주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/5)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
@@ -449,9 +449,9 @@ This midterm project, together with the online quiz, will be worth **15% of your
 
 ##### Assignment / 과제
 
-- [9주차 **오전** 과제 받기]()
-- [9주차 _오후_ 과제 받기]()
-- [9주차 과제 **HELP**]()
+- [9주차 **오전** 과제 받기](https://classroom.github.com/a/v0fVqeZI)
+- [9주차 _오후_ 과제 받기](https://classroom.github.com/a/wX75l5Lj)
+- [9주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/6)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
@@ -488,9 +488,9 @@ This week we will begin building our User and Course model-view-controllers. Fir
 
 ##### Assignment / 과제
 
-- [10주차 **오전** 과제 받기]()
-- [10주차 _오후_ 과제 받기]()
-- [10주차 과제 **HELP**]()
+- [10주차 **오전** 과제 받기](https://classroom.github.com/a/is-vbBM_)
+- [10주차 _오후_ 과제 받기](https://classroom.github.com/a/Q0S0uHH3)
+- [10주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/7)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
