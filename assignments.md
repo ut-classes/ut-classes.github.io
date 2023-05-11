@@ -62,18 +62,18 @@ Follow the **[instructions here](/instructions.html)** to understand how to acce
 
 ### List of Assignments / 과제 목록
 
-Total points until today / 오늘까지의 총 점수: **`64`**
+Total points until today / 오늘까지의 총 점수: **`72`**
 
-##### 0. Starting Node.js / Node.js 시작하기
+##### 0. Starting Node.js / Node.js 시작하기 `(6/6)`
 
-- **0-starting-nodejs (Tests pass) `(6/6)`** _(4월 7일까지)_
+- **0-starting-nodejs (Tests pass)** _(4월 7일까지)_
   - messages.js `(2/2)`
   - numbers.js `(2/2)`
   - print.js `(2/2)`
 
-##### 1. Node.js Web Server / Node.js 웹 서버
+##### 1. Node.js Web Server / Node.js 웹 서버 `(10/10)`
 
-- **1-node-webserver (NO TESTS) `(10/10)`** _(4월 7일까지)_
+- **1-node-webserver (NO TESTS)** _(4월 7일까지)_
   - lesson-5
     - listing5.4.EX.js `(2/2)`
     - listing5.6.TODO.js `(2/2)`
@@ -82,17 +82,17 @@ Total points until today / 오늘까지의 총 점수: **`64`**
     - listing6.5.TODO.js `(2/2)`
     - listing6.6.TODO.js `(2/2)`
 
-##### 2. Webserver Capstone / 캡스톤 1: 웹 서버
+##### 2. Webserver Capstone / 캡스톤 1: 웹 서버 `(8/8)`
 
-- **2-webserver-capstone (Tests pass) `(8/8)`** _(4월 14일까지)_
+- **2-webserver-capstone (Tests pass)** _(4월 14일까지)_
   - main.js `(2/2)`
   - router.js `(2/2)`
   - content-types.js `(2/2)`
   - utils.js `(2/2)`
 
-##### 3. Express.js / 익스프레스
+##### 3. Express.js / 익스프레스 `(12/12)`
 
-- **3-express-webserver (NO TESTS) `(12/12)`** _(4월 14일까지)_
+- **3-express-webserver (NO TESTS)** _(4월 14일까지)_
   - lesson-9
     - 9.7.EX.js `(2/2)`
     - /controllers/homeController.js `(2/2)`
@@ -103,32 +103,32 @@ Total points until today / 오늘까지의 총 점수: **`64`**
     - main.js `(2/2)`
     - /controllers/errorController.js `(2/2)`
 
-##### 4. MongoDB / 몽고 데이터베이스
+##### 4. MongoDB / 몽고 데이터베이스 `(12/12)`
 
-- **4-connecting-mongodb (NO TESTS) `(16/16)`** _(5월 12일까지)_
+- **4-connecting-mongodb (NO TESTS)** _(5월 12일까지)_
   - lesson-13 (MongoDB)
     - main.js `(2/2)`
   - lesson-14 (Mongoose)
     - main1.js `(2/2)`
-    - main2.js `(2/2)`
+    - <del>main2.js `(2/2)`</del>
     - /models/subscriber.js `(2/2)`
   - lesson-15 (Mongoose)
     - main.js `(2/2)`
     - /controllers/subscribersController.js `(2/2)`
     - subscribers.ejs `(2/2)`
-    - seed.js `(2/2)`
+    - <del>seed.js `(2/2)`</del>
 
-##### 5. MongoDB Capstone / 캡스톤 3: MongoDB 추가하기
+##### 5. MongoDB Capstone / 캡스톤 3: MongoDB 추가하기 `(8/8)`
 
-- **5-mongodb-capstone (NO TESTS) `(8/8)`** _(5월 12일까지)_
+- **5-mongodb-capstone (NO TESTS)** _(5월 12일까지)_
   - main.js `(2/2)`
   - /models/Subscriber.js `(2/2)`
   - /views/subscribers.ejs `(2/2)`
   - /controllers/subscriberController.js `(2/2)`
 
-##### 6. User Data Models & CRUD / 사용자 모델과 CRUD
+##### 6. User Data Models & CRUD / 사용자 모델과 CRUD `(16/16)`
 
-- **6-crud-operations `(16/16)`** _(5월 26일까지)_
+- **6-crud-operations** _(5월 26일까지)_
   - lesson-17 (Seed + associate data)
     - /models/Subscriber.js `(2/2)`
     - /models/Course.js `(2/2)`
