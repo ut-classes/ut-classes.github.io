@@ -25,7 +25,10 @@ Your final project will be to create a full web application with the following f
 
 Starter code will be provided from Lesson 21 (Capstone 4: CRUD Operations). Your final project should be based on this code. Lesson 21 (Capstone 4: CRUD Operations)에서 스타터 코드가 제공될 것이다. 당신의 최종 프로젝트는 이 코드를 기반으로 해야 한다.
 
-| PPT: [Capstone 4. CRUD Operations / CRUD 운영](/slides/4.21-crud-capstone.pdf) | [Final Project Starter Code]() |
+| PPT: [Capstone 4. CRUD Operations / CRUD 운영](/slides/4.21-crud-capstone.pdf) | [Final Project Starter Code](https://github.com/ut-nodejs/final-project-starter-files) |
+
+- [☕ am](https://classroom.github.com/a/6WBLNv7l)
+- [🍔 pm](https://classroom.github.com/a/tRhkgu_r)
 
 ### Required Features / 필수 기능
 
