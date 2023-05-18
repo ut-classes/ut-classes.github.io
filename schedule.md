@@ -53,6 +53,7 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 ##### Resources / 리소스
 
 - PPT <a href="/slides/4.17-building-user-model.pdf">Unit 4: 17-20. Building a User Model / 사용자 모델 제작</a>
+- PPT <a href="/slides/4.21-crud-capstone.pdf">Capstone 4. CRUD Operations / CRUD 운영</a>
 
 ##### Required Reading / 필수 독서
 
@@ -536,6 +537,7 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 ##### Resources / 리소스
 
 - PPT <a href="/slides/4.17-building-user-model.pdf">Unit 4: 17-20. Building a User Model / 사용자 모델 제작</a>
+- PPT <a href="/slides/4.21-crud-capstone.pdf">Capstone 4. CRUD Operations / CRUD 운영</a>
 
 ##### Required Reading / 필수 독서
 
