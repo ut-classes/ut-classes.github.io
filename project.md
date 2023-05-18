@@ -21,6 +21,8 @@
 
 ## Final Project / 개인 프로젝트
 
+`마감일: 6월19일: 9:00am`
+
 Your final project will be to create a full web application with the following features. 당신의 최종 프로젝트는 다음과 같은 기능을 가진 전체 웹 애플리케이션을 만드는 것이다.
 
 Starter code will be provided from Lesson 21 (Capstone 4: CRUD Operations). Your final project should be based on this code. Lesson 21 (Capstone 4: CRUD Operations)에서 스타터 코드가 제공될 것이다. 당신의 최종 프로젝트는 이 코드를 기반으로 해야 한다.
