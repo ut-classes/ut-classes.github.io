@@ -30,17 +30,19 @@
 | Notes    | MORE students gone (again) - 9 this week           | Only 2 missing today                      |
 -->
 
-## This Week / 10주차 5월12일
+## This Week / 11주차 5월19일
 
 ![this-week](/img/gh-pages/slides-covers/4.17-building-user-model.jpg)
 
-#### 10. Unit 4: Building a User Model / 사용자 모델 제작
+#### 11. Unit 4: CRUD Operations / CRUD 작업
 
-This week we will begin building our User and Course model-view-controllers. First we add some validation to our models, then we add CRUD methods to our controllers. Finally, we will add our new routes to our application.
+This week we will build out the rest of our CRUD operations for our User model. We will also add some additional validation to our model and add some additional routes to our application. Then we will talk about our Final Project and you will have time to work on it.
 
-이번 주에는 사용자와 코스 모델-뷰-컨트롤러를 제작하기 시작합니다. 먼저 모델에 일부 유효성 검사를 추가한 다음 컨트롤러에 CRUD 메서드를 추가합니다. 마지막으로 새로운 라우트를 애플리케이션에 추가합니다.
+이번 주에는 사용자 모델의 CRUD 작업을 완성합니다. 또한 모델에 추가적인 유효성 검사를 추가하고 애플리케이션에 추가적인 라우트를 추가합니다. 그런 다음 최종 프로젝트에 대해 이야기하고 작업할 시간을 드립니다.
 
 ##### Assignment / 과제
+
+This week's assignment is continuing Week 10's assignment. 이번 주의 과제는 10주차 과제를 계속하는 것입니다.
 
 - [10주차 **오전** 과제 받기](https://classroom.github.com/a/is-vbBM_)
 - [10주차 _오후_ 과제 받기](https://classroom.github.com/a/Q0S0uHH3)
@@ -55,8 +57,8 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 ##### Required Reading / 필수 독서
 
 - [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
-  - pp. 239-256 (Lesson 17: 데이터 모델의 개선)
-  - pp. 257-273 (Lesson 18: 사용자 모델의 구현)
+  - pp. 275-287 (Lesson 19: 모델의 생성과 읽기)
+  - pp. 289-300 (Lesson 20: 모델의 업데이트와 삭제)
 
 ##### Recommended reading / 추천 독서
 
@@ -82,7 +84,7 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 |  9   | 4/28 |  3   | [MongoDB 연결 + 캡스톤3: MongoDB 추가](/schedule.html#week-9--9주차-4월28일) | Connecting MongoDB + Capstone 3                 |
 |  --  | 5/5  |  --  | _공휴일: 어린이날_                                                           | _HOLIDAY: Children's Day_                       |
 |  10  | 5/12 |  4   | [사용자 데이터 모델](/schedule.html#week-10--10주차-5월12일)                 | User Data Models                                |
-|  11  | 5/19 |  4   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                      | Capstone 4: CRUD (Create, Read, Update, Delete) |
+|  11  | 5/19 |  4   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                       | Capstone 4: CRUD (Create, Read, Update, Delete) |
 |  12  | 5/26 |  5   | 사용자 인증                                                                  | User Authentication                             |
 |  13  | 6/2  |  5   | 캡스톤5: 사용자 인증 추가                                                    | Capstone 5: Adding User Authentication          |
 |  14  | 6/9  |  6   | API 추가 (+ 캡스톤6?)                                                        | Adding an API (+ Capstone 6?)                   |
@@ -523,9 +525,11 @@ This week we will build out the rest of our CRUD operations for our User model. 
 
 ##### Assignment / 과제
 
-- [11주차 **오전** 과제 받기]()
-- [11주차 _오후_ 과제 받기]()
-- [11주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/7)
+This week's assignment is continuing Week 10's assignment. 이번 주의 과제는 10주차 과제를 계속하는 것입니다.
+
+- [10주차 **오전** 과제 받기](https://classroom.github.com/a/is-vbBM_)
+- [10주차 _오후_ 과제 받기](https://classroom.github.com/a/Q0S0uHH3)
+- [10주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/7)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
