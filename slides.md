@@ -44,4 +44,4 @@ PDF versions of slides will be available here _before_ each class. 슬라이드�
 |  --  | 5/5          | ---                                                                                                                     |
 |  10  | 5/12, 19     | [Unit 4: 17-20. Building a User Model / 사용자 모델 제작](/slides/4.17-building-user-model.pdf)                         |
 |  11  | **5/19, 26** | [Capstone 4. CRUD Operations / CRUD 운영](/slides/4.21-crud-capstone.pdf)                                               |
-|  12  | **26**       | [Unit 5: 22-23. Flash & Hash / 플래시 메시지와 패스워드 해싱](/slides/5.22-flash-and-hash.pdf)                          |
+|  12  | **5/26**       | [Unit 5: 22-23. Flash & Hash / 플래시 메시지와 패스워드 해싱](/slides/5.22-flash-and-hash.pdf)                          |
