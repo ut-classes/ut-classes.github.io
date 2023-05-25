@@ -23,7 +23,7 @@
 
 PDF versions of slides will be available here _before_ each class. 슬라이드는 강의 _전에_ 여기에 제공됩니다.
 
-![this-week](/img/gh-pages/slides-covers/4.17-building-user-model.jpg)
+![this-week](/img/gh-pages/slides-covers/5.22-flash-and-hash.jpg)
 
 | Week | Date         | Slides                                                                                                                  |
 | :--: | ------------ | ----------------------------------------------------------------------------------------------------------------------- |
@@ -42,5 +42,6 @@ PDF versions of slides will be available here _before_ each class. 슬라이드�
 |  9   | 4/28         | [1️⃣ Midterm Test Solution / 중간고사 솔루션](/slides/M-midterm-test-solution.pdf)                                       |
 |  9   | 4/28         | [3️⃣ Capstone 3: Adding MongoDB to your site / 사이트에 MongoDB 추가](/slides/3.16-mongo-capstone.pdf)                   |
 |  --  | 5/5          | ---                                                                                                                     |
-|  10  | **5/12, 19** | [Unit 4: 17-20. Building a User Model / 사용자 모델 제작](/slides/4.17-building-user-model.pdf)                         |
-|  10  | **5/19**     | [Capstone 4. CRUD Operations / CRUD 운영](/slides/4.21-crud-capstone.pdf)                                               |
+|  10  | 5/12, 19     | [Unit 4: 17-20. Building a User Model / 사용자 모델 제작](/slides/4.17-building-user-model.pdf)                         |
+|  11  | **5/19, 26** | [Capstone 4. CRUD Operations / CRUD 운영](/slides/4.21-crud-capstone.pdf)                                               |
+|  12  | **26**       | [Unit 5: 22-23. Flash & Hash / 플래시 메시지와 패스워드 해싱](/slides/5.22-flash-and-hash.pdf)                          |
