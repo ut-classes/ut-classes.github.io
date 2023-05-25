@@ -30,30 +30,26 @@
 | Notes    | MORE students gone (again) - 9 this week           | Only 2 missing today                      |
 -->
 
-## This Week / 11주차 5월19일
+## This Week / 12주차 5월26일
 
-![this-week](/img/gh-pages/slides-covers/4.17-building-user-model.jpg)
+![this-week](/img/gh-pages/slides-covers/5.22-flash-and-hash.jpg)
 
-#### 11. Unit 4: CRUD Operations / CRUD 작업
+#### 12. Unit 5: 22-23 Flash & Hash / 플래시 메시지와 패스워드 해싱
 
-This week we will build out the rest of our CRUD operations for our User model. We will also add some additional validation to our model and add some additional routes to our application. Then we will talk about our Final Project and you will have time to work on it.
+This week we will add flash messages and password hashing with `bcrypt`.
 
-이번 주에는 사용자 모델의 CRUD 작업을 완성합니다. 또한 모델에 추가적인 유효성 검사를 추가하고 애플리케이션에 추가적인 라우트를 추가합니다. 그런 다음 최종 프로젝트에 대해 이야기하고 작업할 시간을 드립니다.
+이번 주에는 `bcrypt`를 사용하여 플래시 메시지와 패스워드 해싱을 추가합니다.
 
 ##### Assignment / 과제
 
-This week's assignment is continuing Week 10's assignment. 이번 주의 과제는 10주차 과제를 계속하는 것입니다.
-
-- [10주차 **오전** 과제 받기](https://classroom.github.com/a/is-vbBM_)
-- [10주차 _오후_ 과제 받기](https://classroom.github.com/a/Q0S0uHH3)
-- [10주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/7)
+This week's assignment is continuing Week 12's assignment. 이번 주의 과제는 10주차 과제를 계속하는 것입니다.
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
 ##### Resources / 리소스
 
-- PPT <a href="/slides/4.17-building-user-model.pdf">Unit 4: 17-20. Building a User Model / 사용자 모델 제작</a>
 - PPT <a href="/slides/4.21-crud-capstone.pdf">Capstone 4. CRUD Operations / CRUD 운영</a>
+- PPT <a href="/slides/5.22-flash-and-hash.pdf">Unit 5: 22-23 Flash & Hash / 플래시 메시지와 패스워드 해싱</a>
 
 ##### Required Reading / 필수 독서
 
@@ -538,6 +534,42 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 
 - PPT <a href="/slides/4.17-building-user-model.pdf">Unit 4: 17-20. Building a User Model / 사용자 모델 제작</a>
 - PPT <a href="/slides/4.21-crud-capstone.pdf">Capstone 4. CRUD Operations / CRUD 운영</a>
+
+##### Required Reading / 필수 독서
+
+- [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
+  - pp. 275-287 (Lesson 19: 모델의 생성과 읽기)
+  - pp. 289-300 (Lesson 20: 모델의 업데이트와 삭제)
+
+##### Recommended reading / 추천 독서
+
+- [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
+  - pp. 387-396 (8.5: CRUD 작업하기)
+  - pp. 397-415 (8.6: 몽구스 사용하기)
+  - pp. 415-416 (8.7: 함께 보면 좋은 자료)
+
+###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
+
+---
+
+### Week 12 / 12주차 5월26일
+
+#### 12. Unit 5: 22-23 Flash & Hash / 플래시 메시지와 패스워드 해싱
+
+This week we will add flash messages and password hashing with `bcrypt`.
+
+이번 주에는 `bcrypt`를 사용하여 플래시 메시지와 패스워드 해싱을 추가합니다.
+
+##### Assignment / 과제
+
+This week's assignment is continuing Week 12's assignment. 이번 주의 과제는 10주차 과제를 계속하는 것입니다.
+
+See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
+
+##### Resources / 리소스
+
+- PPT <a href="/slides/4.21-crud-capstone.pdf">Capstone 4. CRUD Operations / CRUD 운영</a>
+- PPT <a href="/slides/5.22-flash-and-hash.pdf">Unit 5: 22-23 Flash & Hash / 플래시 메시지와 패스워드 해싱</a>
 
 ##### Required Reading / 필수 독서
 
