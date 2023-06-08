@@ -42,9 +42,9 @@ This week we will use Passport.js to do user authentication. We will add a login
 
 ##### Assignment / 과제
 
-- [14주차 **오전** 과제 받기](https://classroom.github.com/a/ufXcgZ68)
-- [14주차 _오후_ 과제 받기](https://classroom.github.com/a/YeQuxwK6)
-- [14주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/1)
+- [14주차 **오전** 과제 받기](https://classroom.github.com/a/BKktPWLV)
+- [14주차 _오후_ 과제 받기](https://classroom.github.com/a/CLT4LCO_)
+- [14주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/9)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
