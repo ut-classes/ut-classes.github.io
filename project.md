@@ -43,6 +43,11 @@ Starter code will be provided from Lesson 21 (Capstone 4: CRUD Operations). Your
    1. Users should be able to register and login to your site
    2. 사용자는 사이트에 등록하고 로그인할 수 있어야 한다
 
+### Helpful PPTs / 도움이 되는 PPT
+
+- [Capstone 4. CRUD Operations / CRUD 운영](/slides/4.21-crud-capstone.pdf)
+- [Capstone 5. User Authentication / 사용자 인증](/slides/5.25-user-auth-capstone.pdf)
+
 ### Required Files / 필수 파일
 
 For _all 4 MVC models_, you should have the following files. *4개의 MVC 모델*에 대해 다음과 같은 파일이 있어야 한다.

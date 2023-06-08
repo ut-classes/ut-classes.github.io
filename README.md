@@ -78,10 +78,10 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 |  9   | 4/28  |  3   | [MongoDB 연결 + 캡스톤3: MongoDB 추가](/schedule.html#week-9--9주차-4월28일) | Connecting MongoDB + Capstone 3   |
 |  --  | 5/5   |  --  | _공휴일: 어린이날_                                                          | _HOLIDAY: Children's Day_  |
 |  10  | 5/12  |  4   | [사용자 데이터 모델](/schedule.html#week-10--10주차-5월12일)                 | User Data Models  |
-|  11  | 5/19  |  4   | 캡스톤4: CRUD (생성, 조회, 수정, 삭제)                                       | Capstone 4: CRUD (Create, Read, Update, Delete) |
-|  12  | 5/26  |  5   | 사용자 인증                                                                 | User Authentication |
-|  13  | 6/2   |  5   | 캡스톤5: 사용자 인증 추가                                                    | Capstone 5: Adding User Authentication |
-|  14  | 6/9   |  6   | API 추가 (+ 캡스톤6?)                                                       | Adding an API (+ Capstone 6?) |
+|  11  | 5/19  |  4   | [캡스톤4: CRUD (생성, 조회, 수정, 삭제)](/schedule.html#week-11--11주차-5월19일) | Capstone 4: CRUD |
+|  12  | 5/26  |  5   | [사용자 인증: 플래시 메시지](/schedule.html#week-12--12주차-5월26일)                                                                       | User Authentication: Flash Messaging |
+|  13  | 6/2   |  5   | [사용자 인증: 패스워드 해싱](/schedule.html#week-13--13주차-6월2일)           | User Authentication: Password Hashing |
+|  14  | 6/9   |  5   | [사용자 인증: Passport.js으로 인증](/schedule.html#week-14--14주차-6월9일)    | User Authentication: Passport.js |
 |  15  | 6/16  |  --  | 최종 프로젝트 + 기말고사                                                     | Final Projects + Final Exam |
 
 <!----

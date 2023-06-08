@@ -30,39 +30,43 @@
 | Notes    | MORE students gone (again) - 9 this week           | Only 2 missing today                      |
 -->
 
-## This Week / 12주차 5월26일
+## This Week / 14주차 6월9일
 
 ![this-week](/img/gh-pages/slides-covers/5.22-flash-and-hash.jpg)
 
-#### 12. Unit 5: 22-23 Flash & Hash / 플래시 메시지와 패스워드 해싱
+#### 14. Unit 5: 24 User Authentication with Passport.js / Passport.js으로 사용자 인증
 
-This week we will add flash messages and password hashing with `bcrypt`.
+This week we will use Passport.js to do user authentication. We will add a login and logout button, and add a `loggedIn` status to the navbar. This means we will need to remove `bcrypt` and some other functionality.
 
-이번 주에는 `bcrypt`를 사용하여 플래시 메시지와 패스워드 해싱을 추가합니다.
+이번 주에는 Passport.js를 사용하여 사용자 인증을 수행합니다. 로그인 및 로그아웃 버튼을 추가하고 네비게이션 바에 `loggedIn` 상태를 추가합니다. 이것은 `bcrypt` 및 일부 다른 기능을 제거해야 함을 의미합니다.
 
 ##### Assignment / 과제
 
-This week's assignment is continuing Week 12's assignment. 이번 주의 과제는 10주차 과제를 계속하는 것입니다.
+- [14주차 **오전** 과제 받기](https://classroom.github.com/a/ufXcgZ68)
+- [14주차 _오후_ 과제 받기](https://classroom.github.com/a/YeQuxwK6)
+- [14주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/1)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
 ##### Resources / 리소스
 
-- PPT <a href="/slides/4.21-crud-capstone.pdf">Capstone 4. CRUD Operations / CRUD 운영</a>
-- PPT <a href="/slides/5.22-flash-and-hash.pdf">Unit 5: 22-23 Flash & Hash / 플래시 메시지와 패스워드 해싱</a>
+- PPT <a href="/slides/5.22-flash-and-hash-and-passport.pdf">Unit 5: 24 User Authentication with Passport.js / Passport.js으로 사용자 인증</a>
+- PPT <a href="/slides/5.25-user-auth-capstone.pdf">Capstone 5. User Authentication / 사용자 인증</a>
+
+As the last step in your [final project](/project.html), use the Capstone 5 PPT to add User Authentication.
+
+마지막 단계로 [최종 프로젝트](/project.html)에서 사용자 인증을 추가하십시오.
 
 ##### Required Reading / 필수 독서
 
 - [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
-  - pp. 275-287 (Lesson 19: 모델의 생성과 읽기)
-  - pp. 289-300 (Lesson 20: 모델의 업데이트와 삭제)
+  - pp. 349-360 (Lesson 24: 사용자 인증 추가)
+  - pp. 361-374 (Lesson 25: 캡스톤 프로젝트5: 사용자 인증 추가)
 
 ##### Recommended reading / 추천 독서
 
 - [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
-  - pp. 387-396 (8.5: CRUD 작업하기)
-  - pp. 397-415 (8.6: 몽구스 사용하기)
-  - pp. 415-416 (8.7: 함께 보면 좋은 자료)
+  - pp. 443-461 (9.3: Passport 모듈로 로그인 구현하기)
 
 ---
 
@@ -554,15 +558,17 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 
 ### Week 12 / 12주차 5월26일
 
-#### 12. Unit 5: 22-23 Flash & Hash / 플래시 메시지와 패스워드 해싱
+#### 12. Unit 5: 22 Flash Messaging / 플래시 메시지
 
-This week we will add flash messages and password hashing with `bcrypt`.
+This week we will add flash messages.
 
-이번 주에는 `bcrypt`를 사용하여 플래시 메시지와 패스워드 해싱을 추가합니다.
+이번 주에는 플래시 메시지를 추가합니다.
 
 ##### Assignment / 과제
 
-This week's assignment is continuing Week 12's assignment. 이번 주의 과제는 10주차 과제를 계속하는 것입니다.
+- [12주차 **오전** 과제 받기](https://classroom.github.com/a/1ricAk9U)
+- [12주차 _오후_ 과제 받기](https://classroom.github.com/a/EBkUHdy7)
+- [12주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/8)
 
 See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
 
@@ -574,14 +580,79 @@ See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-
 ##### Required Reading / 필수 독서
 
 - [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
-  - pp. 275-287 (Lesson 19: 모델의 생성과 읽기)
-  - pp. 289-300 (Lesson 20: 모델의 업데이트와 삭제)
+  - pp. 323-332 (Lesson 22: 세션과 플래시 메시지의 추가)
+
+##### Recommended reading / 추천 독서
+
+###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
+
+---
+
+### Week 13 / 13주차 6월2일
+
+#### 13. Unit 5: 23 Password Hashing / 패스워드 해싱
+
+This week we will add password hashing with `bcrypt`.
+
+이번 주에는 `bcrypt`를 사용하여 패스워드 해싱을 추가합니다.
+
+##### Assignment / 과제
+
+This week's assignment is continuing Week 12's assignment. 이번 주의 과제는 12주차 과제를 계속하는 것입니다.
+
+- [12주차 **오전** 과제 받기](https://classroom.github.com/a/1ricAk9U)
+- [12주차 _오후_ 과제 받기](https://classroom.github.com/a/EBkUHdy7)
+- [12주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/8)
+
+See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
+
+##### Resources / 리소스
+
+- PPT <a href="/slides/5.22-flash-and-hash.pdf">Unit 5: 22-23 Flash & Hash / 플래시 메시지와 패스워드 해싱</a>
+
+##### Required Reading / 필수 독서
+
+- [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
+  - pp. 333-348 (Lesson 23: 사용자 로그인 폼 생성과 패스워드 해시)
+
+##### Recommended reading / 추천 독서
+
+###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
+
+---
+
+### Week 14 / 14주차 6월9일
+
+#### 14. Unit 5: 24 User Authentication with Passport.js / Passport.js으로 사용자 인증
+
+This week we will use Passport.js to do user authentication. We will add a login and logout button, and add a `loggedIn` status to the navbar. This means we will need to remove `bcrypt` and some other functionality.
+
+이번 주에는 Passport.js를 사용하여 사용자 인증을 수행합니다. 로그인 및 로그아웃 버튼을 추가하고 네비게이션 바에 `loggedIn` 상태를 추가합니다. 이것은 `bcrypt` 및 일부 다른 기능을 제거해야 함을 의미합니다.
+
+##### Assignment / 과제
+
+- [14주차 **오전** 과제 받기](https://classroom.github.com/a/ufXcgZ68)
+- [14주차 _오후_ 과제 받기](https://classroom.github.com/a/YeQuxwK6)
+- [14주차 과제 **HELP**](https://github.com/orgs/ut-nodejs/discussions/1)
+
+See the [List of Assignments](https://ut-nodejs.github.io/assignments.html#list-of-assignments--과제-목록) for specifics about grading. 과제의 세부 사항은 과제 목록을 참조하십시오.
+
+##### Resources / 리소스
+
+- PPT <a href="/slides/5.22-flash-and-hash-and-passport.pdf">Unit 5: 24 User Authentication with Passport.js / Passport.js으로 사용자 인증</a>
+- PPT <a href="/slides/5.25-user-auth-capstone.pdf">Capstone 5. User Authentication / 사용자 인증</a>
+
+As the last step in your [final project](/project.html), use the Capstone 5 PPT to add User Authentication.
+
+마지막 단계로 [최종 프로젝트](/project.html)에서 사용자 인증을 추가하십시오.
+
+##### Required Reading / 필수 독서
+
+- [_Get Programming with Node.js_](http://www.yes24.com/Product/Goods/86429845)
+  - pp. 349-360 (Lesson 24: 사용자 인증 추가)
+  - pp. 361-374 (Lesson 25: 캡스톤 프로젝트5: 사용자 인증 추가)
 
 ##### Recommended reading / 추천 독서
 
 - [_Node.js 교과서_](http://www.yes24.com/Product/Goods/116192535)
-  - pp. 387-396 (8.5: CRUD 작업하기)
-  - pp. 397-415 (8.6: 몽구스 사용하기)
-  - pp. 415-416 (8.7: 함께 보면 좋은 자료)
-
-###### [↑ Schedule / 일정 다시 가기](/schedule.html#course-topics--과정-화제)
+  - pp. 443-461 (9.3: Passport 모듈로 로그인 구현하기)
