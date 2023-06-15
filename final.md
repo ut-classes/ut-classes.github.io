@@ -216,7 +216,16 @@ Then, we can use the `_method` query parameter to override the HTTP method.<br>
 </form>
 ```
 
-## Create
+## CRUD Controller Actions
+
+**Note:** The controller actions below are examples. You will need to modify them to fit your application. The book shows these actions in Lesson 21, from pages 301-320. Pay close attention to the `subscribersController.js` code from pages 317-320.
+
+**참고:** 아래 컨트롤러 액션은 예제입니다. 애플리케이션에 맞게 수정해야 합니다. 책에서는 21강, 301-320쪽에서 이러한 액션을 보여줍니다. 317-320쪽의 `subscribersController.js` 코드에 주의를 기울이십시오.
+
+### CREATE
+
+These actions are used to create new documents in the database.<br>
+이러한 액션은 데이터베이스에 새 문서를 생성하는 데 사용됩니다.
 
 Three important things to remember when creating a new document using a Submit form are:<br>
 제출 양식을 사용하여 새 문서를 생성할 때 기억해야 할 세 가지 중요한 사항은 다음과 같습니다.
@@ -250,18 +259,38 @@ module.exports = {
   },
 
   create: (req, res, next) => {
-    User.create(req.body)
+    // getUserParams() 함수가 있다면 여기에서 사용할 수 있습니다.
+    User.create(req.body) // getUserParams()를 사용했다면 반환 값을 전달합니다.
       .then((user) => {
-        res.redirect("/users"); // redirect to the '/users' route
+        res.locals.redirect = "/users"; // redirect to the '/users' route
+        res.locals.user = user;
+        next();
       })
       .catch((err) => {
+        console.log(err); // handle error
         next(err);
       });
   },
 };
 ```
 
-## Read
+Because we are passing a `redirect` variable to `res.locals`, we also need to add a redirect handling middleware.<br>
+`res.locals`에 `redirect` 변수를 전달하기 때문에 리디렉션 처리 미들웨어를 추가해야 합니다.
+
+```js
+module.exports = {
+  redirectView: (req, res, next) => {
+    let redirectPath = res.locals.redirect;
+    if (redirectPath) res.redirect(redirectPath);
+    else next();
+  },
+};
+```
+
+### READ
+
+These actions are used to retrieve documents from the database.<br>
+이러한 액션은 데이터베이스에서 문서를 검색하는 데 사용됩니다.
 
 ### Read Controller Actions
 
@@ -274,27 +303,45 @@ const User = require("../models/user");
 module.exports = {
   index: (req, res, next) => {
     User.find()
+      // populate().exec()는 여기에서 사용할 수 있습니다.
       .then((users) => {
-        res.render("users/index", { users }); // render the 'users/index' template with the 'users' array
+        res.locals.users = users; // pass the 'users' object to the next middleware
+        next();
       })
       .catch((err) => {
+        console.log(err); // handle error
         next(err);
       });
+  },
+
+  indexView: (req, res) => {
+    res.render("users/index"); // render the 'users/index' template
   },
 
   show: (req, res, next) => {
     User.findById(req.params.id)
+      // populate()는 여기에서 사용할 수 있습니다.
       .then((user) => {
-        res.render("users/show", { user }); // render the 'users/show' template with the 'user' object
+        // 여기에서 속성을 변경하고 .save()합니다.
+        res.locals.users = users; // pass the 'users' object to the next middleware
+        next();
       })
       .catch((err) => {
+        console.log(err); // handle error
         next(err);
       });
+  },
+
+  showView: (req, res) => {
+    res.render("users/show"); // render the 'users/show' template
   },
 };
 ```
 
-## Update
+### UPDATE
+
+These actions are used to modify documents in the database. They are similar to the CREATE actions.<br>
+이러한 액션은 데이터베이스의 문서를 수정하는 데 사용됩니다. CREATE 액션과 유사합니다.
 
 ### Update Controller Actions
 
@@ -307,27 +354,41 @@ const User = require("../models/user");
 module.exports = {
   edit: (req, res, next) => {
     User.findById(req.params.id)
+      // populate()는 여기에서 사용할 수 있습니다.
       .then((user) => {
         res.render("users/edit", { user }); // render the 'users/edit' template with the 'user' object
       })
       .catch((err) => {
+        console.log(err); // handle error
         next(err);
       });
   },
 
   update: (req, res, next) => {
-    User.findByIdAndUpdate(req.params.id, req.body)
+    // getUserParams() 함수가 있다면 여기에서 사용할 수 있습니다.
+    let userParams = getUserParams(req.body); // example
+
+    User.findByIdAndUpdate(req.params.id, {
+      $set: userParams,
+    })
+      // populate()는 여기에서 사용할 수 있습니다.
       .then((user) => {
-        res.redirect(`/users/${user.id}`); // redirect to the '/users/:id' route
+        res.locals.redirect = `/users/${userId}`; // redirect to the '/users/:id' route
+        res.locals.user = user;
+        next();
       })
       .catch((err) => {
+        console.log(err); // handle error
         next(err);
       });
   },
 };
 ```
 
-## Delete
+### DELETE
+
+These actions are used to remove documents from the database.<br>
+이러한 액션은 데이터베이스에서 문서를 제거하는 데 사용됩니다.
 
 ### Delete Controller Actions
 
@@ -338,11 +399,13 @@ const User = require("../models/user");
 
 module.exports = {
   delete: (req, res, next) => {
-    User.findByIdAndDelete(req.params.id)
+    User.findByIdAndRemove(req.params.id) // 여기에서 `.findByIdAndDelete()`를 사용할 수도 있다.
       .then(() => {
-        res.redirect("/users"); // redirect to the '/users' route
+        res.locals.redirect = "/users"; // redirect to the '/users' route
+        next();
       })
       .catch((err) => {
+        console.log(err); // handle error
         next(err);
       });
   },
