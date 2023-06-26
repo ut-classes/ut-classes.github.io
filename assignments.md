@@ -41,11 +41,11 @@ Follow the **[instructions here](/instructions.html)** to understand how to acce
 |  8   | 4/21 | [Midterm Test: Capstone 2 / 중간고사: 캡스톤2](https://github.com/ut-nodejs/midterm-test)                           |                      --                       |                      --                       | [솔루션](https://github.com/ut-nodejs/assignment-solutions) | `30` |  4/21  |
 |  9   | 4/28 | [5. Capstone 3: Adding MongoDB / MongoDB 추가](https://github.com/ut-nodejs/5-mongodb-capstone)                     | [☕](https://classroom.github.com/a/v0fVqeZI) | [🍔](https://classroom.github.com/a/wX75l5Lj) | [HELP](https://github.com/orgs/ut-nodejs/discussions/6)     | `8`  |  5/12  |
 |  --  |  5/5 | --                                                                                                                  |                      --                       |                      --                       |                                                             |      |        |
-|  10  | 5/12 | [6. User Data Models & CRUD / 사용자 모델과 CRUD](https://github.com/ut-nodejs/6-crud-operations)                   | [☕](https://classroom.github.com/a/is-vbBM_) | [🍔](https://classroom.github.com/a/Q0S0uHH3) | [HELP](https://github.com/orgs/ut-nodejs/discussions/7)     | `16` |  5/26  |
-|  11  | 5/19 | 6. CRUD / 생성, 조회, 수정, 삭제                                                                                    |                     오전                      |                     오후                      |                                                             |
-|  12  | 5/26 | [7. Flash Messaging / 플래시 메시지](https://github.com/ut-nodejs/7-flash-n-hash)                                                    | [☕](https://classroom.github.com/a/1ricAk9U) | [🍔](https://classroom.github.com/a/EBkUHdy7) | [HELP](https://github.com/orgs/ut-nodejs/discussions/8)     | `16` |  6/16  |
-|  13  | 6/2 | 7. Password Hashing / 패스워드 해싱                                                                                    |                     오전                      |                     오후                      |                                                             |
-|  14  | 6/9 | [8. User Authentication with Passport / Passport으로 사용자 인증](https://github.com/ut-nodejs/8-passport-auth)                                                    | [☕](https://classroom.github.com/a/BKktPWLV) | [🍔](https://classroom.github.com/a/CLT4LCO_) | [HELP](https://github.com/orgs/ut-nodejs/discussions/9)     | `16` |  6/16  |
+|  10  | 5/12 | [4. User Data Models & CRUD / 사용자 모델과 CRUD](https://github.com/ut-nodejs/6-crud-operations)                   | [☕](https://classroom.github.com/a/is-vbBM_) | [🍔](https://classroom.github.com/a/Q0S0uHH3) | [HELP](https://github.com/orgs/ut-nodejs/discussions/7)     | `16` |  5/26  |
+|  11  | 5/19 | 4. CRUD / 생성, 조회, 수정, 삭제                                                                                    |                     오전                      |                     오후                      |                                                             |
+|  12  | 5/26 | [5. Flash Messaging / 플래시 메시지](https://github.com/ut-nodejs/7-flash-n-hash)                                   | [☕](https://classroom.github.com/a/1ricAk9U) | [🍔](https://classroom.github.com/a/EBkUHdy7) | [HELP](https://github.com/orgs/ut-nodejs/discussions/8)     | `16` |  6/16  |
+|  13  |  6/2 | 5. Password Hashing / 패스워드 해싱                                                                                 |                     오전                      |                     오후                      |                                                             |
+|  14  |  6/9 | [5. User Authentication with Passport / Passport으로 사용자 인증](https://github.com/ut-nodejs/8-passport-auth)     | [☕](https://classroom.github.com/a/BKktPWLV) | [🍔](https://classroom.github.com/a/CLT4LCO_) | [HELP](https://github.com/orgs/ut-nodejs/discussions/9)     | `16` |  6/16  |
 
 <!--
 |  13  |  6/2 | 6. API / API 추가                                                                                                   |                     오전                      |                     오후                      |
@@ -54,6 +54,9 @@ Follow the **[instructions here](/instructions.html)** to understand how to acce
 -->
 
 ### Assignment Points / 과제 점수
+
+- **Late assignments will be -2 points. / 과제 제출이 지각되면 -2점이 감점됩니다.**
+- **_Very_ late assignments will be half points. / _매우_ 늦은 과제는 절반 점수가 됩니다.**
 
 과제 포인트가 부여되는 방식은 다음과 같습니다.
 
@@ -146,3 +149,24 @@ Total points until today / 오늘까지의 총 점수: **`72`**
   - lesson-20 (UPDATE + DELETE)
     - /controllers/userController.js `(2/2)`
     - main.js `(2/2)`
+
+##### 7. Flash and Hash / 플래시와 해시 `(14/14)`
+
+- **7-flash-n-hash** _(6월 16일까지)_
+  - lesson-22 (Flash messages)
+    - app.TODO.js `(2/2)`
+    - /controllers/usersController.TODO.js `(2/2)`
+    - /views/layout.TODO.ejs `(2/2)`
+    - /views/\_partials/flashMsg.TODO.ejs `(2/2)`
+  - lesson-23 (Password hashing)
+    - app.TODO.js `(2/2)`
+    - /models/User.TODO.js `(2/2)`
+    - /controllers/usersController.TODO.js `(2/2)`
+
+##### 8. Passport Authentication / 사용자 인증 `(8/8)`
+
+- **8-passport-auth** _(6월 16일까지)_
+  - app.TODO.js `(2/2)`
+  - /models/User.TODO.js `(2/2)`
+  - /controllers/usersController.TODO.js `(2/2)`
+  - /views/\_partials/header.TODO.ejs `(2/2)`
