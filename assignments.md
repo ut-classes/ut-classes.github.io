@@ -43,9 +43,15 @@ Follow the **[instructions here](/instructions.html)** to understand how to acce
 |  --  |  5/5 | --                                                                                                                  |                      --                       |                      --                       |                                                             |      |        |
 |  10  | 5/12 | [4. User Data Models & CRUD / 사용자 모델과 CRUD](https://github.com/ut-nodejs/6-crud-operations)                   | [☕](https://classroom.github.com/a/is-vbBM_) | [🍔](https://classroom.github.com/a/Q0S0uHH3) | [HELP](https://github.com/orgs/ut-nodejs/discussions/7)     | `16` |  5/26  |
 |  11  | 5/19 | 4. CRUD / 생성, 조회, 수정, 삭제                                                                                    |                     오전                      |                     오후                      |                                                             |
-|  12  | 5/26 | [5. Flash Messaging / 플래시 메시지](https://github.com/ut-nodejs/7-flash-n-hash)                                   | [☕](https://classroom.github.com/a/1ricAk9U) | [🍔](https://classroom.github.com/a/EBkUHdy7) | [HELP](https://github.com/orgs/ut-nodejs/discussions/8)     | `14` |  6/16  |
+|  12  | 5/26 | [5. Flash Messaging / 플래시 메시지](https://github.com/ut-nodejs/7-flash-n-hash)                                   | [☕](https://classroom.github.com/a/1ricAk9U) | [🍔](https://classroom.github.com/a/EBkUHdy7) | [HELP](https://github.com/orgs/ut-nodejs/discussions/8)     | `16` |  6/16  |
 |  13  |  6/2 | 5. Password Hashing / 패스워드 해싱                                                                                 |                     오전                      |                     오후                      |                                                             |
-|  14  |  6/9 | [5. User Authentication with Passport / Passport으로 사용자 인증](https://github.com/ut-nodejs/8-passport-auth)     | [☕](https://classroom.github.com/a/BKktPWLV) | [🍔](https://classroom.github.com/a/CLT4LCO_) | [HELP](https://github.com/orgs/ut-nodejs/discussions/9)     | `8`  |  6/16  |
+|  14  |  6/9 | [5. User Authentication with Passport / Passport으로 사용자 인증](https://github.com/ut-nodejs/8-passport-auth)     | [☕](https://classroom.github.com/a/BKktPWLV) | [🍔](https://classroom.github.com/a/CLT4LCO_) | [HELP](https://github.com/orgs/ut-nodejs/discussions/9)     | `16` |  6/16  |
+
+<!--
+|  13  |  6/2 | 6. API / API 추가                                                                                                   |                     오전                      |                     오후                      |
+|  14  |  6/9 | 7. Chat / 채팅 추가                                                                                                 |                     오전                      |                     오후                      |
+|  15  | 6/16 | Final Test / 기말고사                                                                                               |                      --                       |                      --                       |
+-->
 
 ### Assignment Points / 과제 점수
 
