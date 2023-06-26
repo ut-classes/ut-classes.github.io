@@ -19,8 +19,10 @@
 
 ---
 
+<!--
 | [**오전** ☕ 수업 오픈 채팅](https://open.kakao.com/o/gJjKj58e) | [_오후_ 🍔 수업 오픈 채팅](https://open.kakao.com/o/gUYQUlaf) |
 | [HTML Starter Files](https://github.com/ut-nodejs/html-starter-files) | [과제 솔루션](https://github.com/ut-nodejs/assignment-solutions) |
+-->
 
 This repository contains the course materials for the [Computer Science](https://www.ut.ac.kr/ceit/sub02_00.do) course [Web Programming Application](https://ut-nodejs.github.io) taught in Spring 2023 by Aaron Snowberger. 이 저장소는 [컴퓨터과학](https://www.ut.ac.kr/ceit/sub02_00.do) 과정 [웹프로그래밍응용](https://ut-nodejs.github.io)은 에런 스노버거가 2023년 봄에 가르쳤다.
 
@@ -65,24 +67,24 @@ The software we will be using is listed below. 수업에서 사용할 소프트�
 
 ## Course Topics / 과정 화제
 
-| Week | Date  | Unit | 화제                                                                      | Topic |
-| :--: | :---- | :--: | :------------------------------------------------------------------------ | :------- |
-|  1   | 3/3   |  --  | [수업 소개](/schedule.html#week-1--1주차-3월3일)                            | Overview and introduction to class |
-|  2   | 3/10  |  0   | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일)   | GitHub Classroom & Web Programming Review |
-|  3   | 3/17  |  1   | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                 | Node Webserver First Steps |
-|  4   | 3/24  |  1   | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                   | Capstone 1: First Web App |
-|  5   | 3/31  |  1   | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)      | Capstone 1: Continued (with Bootstrap) |
-|  6   | 4/7   |  2   | [Express를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)               | Express Webserver |
-|  7   | 4/14  |  3   | [MongoDB 연결](/schedule.html#week-7--7주차-4월14일)                       | Connecting MongoDB |
-|  8   | 4/21  |  --  | [**중간고사:** 캡스톤2](/schedule.html#week-8--8주차-4월21일)               | **Midterm Exam:** Capstone 2 |
-|  9   | 4/28  |  3   | [MongoDB 연결 + 캡스톤3: MongoDB 추가](/schedule.html#week-9--9주차-4월28일) | Connecting MongoDB + Capstone 3   |
-|  --  | 5/5   |  --  | _공휴일: 어린이날_                                                          | _HOLIDAY: Children's Day_  |
-|  10  | 5/12  |  4   | [사용자 데이터 모델](/schedule.html#week-10--10주차-5월12일)                 | User Data Models  |
-|  11  | 5/19  |  4   | [캡스톤4: CRUD (생성, 조회, 수정, 삭제)](/schedule.html#week-11--11주차-5월19일) | Capstone 4: CRUD |
-|  12  | 5/26  |  5   | [사용자 인증: 플래시 메시지](/schedule.html#week-12--12주차-5월26일)                                                                       | User Authentication: Flash Messaging |
-|  13  | 6/2   |  5   | [사용자 인증: 패스워드 해싱](/schedule.html#week-13--13주차-6월2일)           | User Authentication: Password Hashing |
-|  14  | 6/9   |  5   | [사용자 인증: Passport.js으로 인증](/schedule.html#week-14--14주차-6월9일)    | User Authentication: Passport.js |
-|  15  | 6/16  |  --  | 최종 프로젝트 + 기말고사                                                     | Final Projects + Final Exam |
+| Week | Date | Unit | 화제                                                                             | Topic                                     |
+| :--: | :--- | :--: | :------------------------------------------------------------------------------- | :---------------------------------------- |
+|  1   | 3/3  |  --  | [수업 소개](/schedule.html#week-1--1주차-3월3일)                                 | Overview and introduction to class        |
+|  2   | 3/10 |  0   | [깃허브 클래스룸과 웹프로그래밍 복습](/schedule.html#week-2--2주차-3월10일)      | GitHub Classroom & Web Programming Review |
+|  3   | 3/17 |  1   | [노드 웹서버 첫 걸음](/schedule.html#week-3--3주차-3월17일)                      | Node Webserver First Steps                |
+|  4   | 3/24 |  1   | [캡스톤1: 첫 웹 앱](/schedule.html#week-4--4주차-3월24일)                        | Capstone 1: First Web App                 |
+|  5   | 3/31 |  1   | [캡스톤1: 연속 (부트스트랩 사용)](/schedule.html#week-5--5주차-3월31일)          | Capstone 1: Continued (with Bootstrap)    |
+|  6   | 4/7  |  2   | [Express를 통한 웹 개발](/schedule.html#week-6--6주차-4월7일)                    | Express Webserver                         |
+|  7   | 4/14 |  3   | [MongoDB 연결](/schedule.html#week-7--7주차-4월14일)                             | Connecting MongoDB                        |
+|  8   | 4/21 |  --  | [**중간고사:** 캡스톤2](/schedule.html#week-8--8주차-4월21일)                    | **Midterm Exam:** Capstone 2              |
+|  9   | 4/28 |  3   | [MongoDB 연결 + 캡스톤3: MongoDB 추가](/schedule.html#week-9--9주차-4월28일)     | Connecting MongoDB + Capstone 3           |
+|  --  | 5/5  |  --  | _공휴일: 어린이날_                                                               | _HOLIDAY: Children's Day_                 |
+|  10  | 5/12 |  4   | [사용자 데이터 모델](/schedule.html#week-10--10주차-5월12일)                     | User Data Models                          |
+|  11  | 5/19 |  4   | [캡스톤4: CRUD (생성, 조회, 수정, 삭제)](/schedule.html#week-11--11주차-5월19일) | Capstone 4: CRUD                          |
+|  12  | 5/26 |  5   | [사용자 인증: 플래시 메시지](/schedule.html#week-12--12주차-5월26일)             | User Authentication: Flash Messaging      |
+|  13  | 6/2  |  5   | [사용자 인증: 패스워드 해싱](/schedule.html#week-13--13주차-6월2일)              | User Authentication: Password Hashing     |
+|  14  | 6/9  |  5   | [사용자 인증: Passport.js으로 인증](/schedule.html#week-14--14주차-6월9일)       | User Authentication: Passport.js          |
+|  15  | 6/16 |  --  | 최종 프로젝트 + 기말고사                                                         | Final Projects + Final Exam               |
 
 <!----
 | 16  | 6월16일 | --   | [Personal Projects](/en/#14-personal-projects)                                  | [개인 프로젝트]()             |
