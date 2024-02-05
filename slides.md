@@ -33,7 +33,7 @@ PDF versions of slides will be available here _before_ each class. 슬라이드�
 |  3   | 3/17          | [\*3. Assignment Problems & Solutions / 과제 문제와 해결](/slides/0.0d-assignment-problems-solutions.pdf)               |
 |  3   | 3/17          | [\*4. Understanding Node.js / Node.js의 이해](/slides/0.1-2-understanding-node.pdf)                                     |
 |  4   | 3/17, 24      | [Unit 1: 3-6. Starting Node.js / Node.js의 시작](/slides/1.3-6-starting-nodejs.pdf)                                     |
-|  5   | 3/24, 31      | [Capstone 1. First Web App / 첫 웹 앱](/slides/1.7-first-web-app.pdf)                                                   |
+|  5   | 3/24, 31      | [Capstone 1. First Web App / 첫 웹 앱](/slides/1.7-first-web-app-capstone.pdf)                                                   |
 |  5   | 3/31          | [Capstone 1 (with Bootstrap) / 부트스트랩 포함](/slides/1.7b-first-web-app-bootstrap.pdf)                               |
 |  6   | 4/7           | [Unit 2: 8-11. Web Development with Express.js / Express.js를 통한 웹 개발](/slides/2.8-11-express-web-development.pdf) |
 |  7   | 4/14, 28      | [2️⃣ Unit 3: 13-15. Connecting to MongdoDB / MongoDB에 연결](/slides/3.13-15-connecting-mongodb.pdf)                     |

@@ -23,6 +23,10 @@
 
 ### [Assignments / 과제](/assignments.html)
 
+### [Assignments / 과제](/assignments.html)
+
+- **Late assignments will be -2 points. / 과제 제출이 지각되면 -2점이 감점됩니다.**
+- **_Very_ late assignments will be half points. / _매우_ 늦은 과제는 절반 점수가 됩니다.**
 - **Late assignments will be -2 points. / 과제 제출이 지각되면 -2점이 감점됩니다.**
 - **_Very_ late assignments will be half points. / _매우_ 늦은 과제는 절반 점수가 됩니다.**
 
@@ -43,6 +47,13 @@ See the list of assignments [here](/assignments.html#list-of-assignments--과제
 Grading will be broken down into 5 main components.<br/>
 성적으로는 다음과 같은 5가지 요소로 나누어 계산됩니다.
 
+| %   | 구분                                        | Category        | Description                                |
+| --- | ------------------------------------------- | --------------- | ------------------------------------------ |
+| 10% | 출석                                        | Attendance      |                                            |
+| 30% | [과제](/assignments.html) (깃허브에서 제출) | Lab Assignments | Saving in-class work to GitHub             |
+| 15% | [중간고사](/midterm.html) (퀴즈와 실기시험) | Midterm Test    | Paper test + Practical Project             |
+| 20% | [기말고사](/final.html) (퀴즈와 실기시험)   | Final Test      | Paper test + Practical Project             |
+| 25% | [최종 프로젝트](/project.html)              | Final Project   | Adding functionality to the book's project |
 | %   | 구분                                        | Category        | Description                                |
 | --- | ------------------------------------------- | --------------- | ------------------------------------------ |
 | 10% | 출석                                        | Attendance      |                                            |
